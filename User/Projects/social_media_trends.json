@@ -1,0 +1,236 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,social_media_trends.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/social_media_trends",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "social_media_trends.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "optional",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "sm_trend_1",
+        "Exercise challenges (e.g. ‘run 5, donate 5, tag 5’) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_2",
+        "Following a new exercise instructor/influencer (e.g. Grace fit, Joe Wicks, Chloe Ting) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_3",
+        "Cooking new things/ cooking challenges (e.g. ‘tomato feta pasta’ on tiktok) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_4",
+        "Baking new things/ baking challenges (e.g. ‘cloud bread’, ‘pancake cereal’, ‘rainbow cakes’) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_5",
+        "Campaigning for social and political movements ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_6",
+        "Downloaded/ started using video chat apps more often (e.g. ‘houseparty’) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_7",
+        "Challenges involving alcoholic beverages (e.g. Snapchat/Instagram pint challenge) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_8",
+        "Change of diet/ eating challenges ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_9",
+        "Shopping (e.g. buying new appliances, clothes, cosmetics, ingredients, or any other product) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_10",
+        "Hair and beauty trends ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_11",
+        "Changing my style or physical appearances",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_12",
+        "Changing my beliefs or believing in something new (e.g. political, religious, spiritual, theoretical, conspiracy) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_13",
+        "Changing my opinion on getting a vaccine/ received the covid vaccine ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_14",
+        "Having a change in opinion/ acceptance of previously controversial ideas (e.g. body positivity, diminishing gender norms) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_15",
+        "Forming alternative methods of income (e.g. crypto/stocks, small business) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_16",
+        "Watching trending TV shows/movies (e.g. tiger king) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_17",
+        "Creative tiktok challenges (e.g. dance, art) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_18",
+        "Changing my attitudes towards people present on online platforms i.e. Celebrities and influencers (e.g. ‘cancel culture’, James Charles, Kanye West) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_19",
+        "Renovating/ decorating my home or another home or part of ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_20",
+        "Following a trend that includes my pet (e.g. getting my dog to hold an egg, showing your dog as a puppy compared to now) ",
+        "likert",
+        "Definitely agree|Slightly agree|Slightly disagree|Definitely disagree",
+        "1|1|0|0",
+        "no",
+        ""
+      ],
+      [
+        "sm_trend_20_other",
+        "Other: please list here any behaviours/ trends/ challenges you know of that were inspired by social media throughout lockdown that we missed and the extent of your participation. ",
+        "para",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}
