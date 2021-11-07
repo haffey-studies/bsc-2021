@@ -1,15 +1,15 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,covid_news.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,general_news.csv,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
-  "location": "haffey-studies/bsc-2021/covid_news",
+  "location": "haffey-studies/bsc-2021/general_news",
   "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
   "surveys": {
-    "covid_news.csv": [
+    "general_news.csv": [
       [
         "item_name",
         "text",
@@ -20,7 +20,7 @@
         "mq_general",
         "optional",
         "btn_width",
-        ""
+        null
       ],
       [
         "Instructions1",
@@ -32,11 +32,11 @@
         "",
         "",
         "",
-        ""
+        null
       ],
       [
-        "CQ1",
-        "I obtain news regarding covid-19 from Facebook ",
+        "MQ1",
+        "I obtain news regarding current affairs from Facebook ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -44,11 +44,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ2",
-        "I obtain news regarding covid-19 from Twitter ",
+        "MQ2",
+        "I obtain news regarding current affairs from Twitter ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -56,11 +56,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ3",
-        "I obtain news regarding covid-19 from Snapchat ",
+        "MQ3",
+        "I obtain news regarding current affairs from Snapchat",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -68,11 +68,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ4",
-        "I obtain news regarding covid-19 from WhatsApp",
+        "MQ4",
+        "I obtain news regarding current affairs from WhatsApp",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -80,11 +80,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ5",
-        "I obtain news regarding covid-19 from Instagram",
+        "MQ5",
+        "I obtain news regarding current affairs from Instagram ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -92,11 +92,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ6",
-        "I obtain news regarding covid-19 from other other social media application(s)",
+        "MQ6",
+        "I obtain news regarding current affairs from other another social media application",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -104,10 +104,10 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ6_other",
+        "MQ6_other",
         "If you agreed, please specify which application(s)",
         "text",
         "",
@@ -116,11 +116,11 @@
         "",
         "yes",
         "",
-        ""
+        null
       ],
       [
-        "CQ7",
-        "I check the government statistics regarding covid-19 ",
+        "MQ7",
+        "I check the governmental websites for infromation regarding current affairs (i.e. www.gov.uk)",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -128,11 +128,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ8",
-        "I share information regarding covid-19 on Facebook ",
+        "MQ8",
+        "I share information regarding current affairs on Facebook ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -140,11 +140,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ9",
-        "I share information regarding covid-19 on Twitter ",
+        "MQ9",
+        "I share information regarding current affairs on Twitter ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -152,11 +152,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ10",
-        "I share information regarding covid-19 on Snapchat ",
+        "MQ10",
+        "I share information regarding current affairs on Snapchat ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -164,11 +164,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ11",
-        "I share information regarding covid-19 on WhatsApp ",
+        "MQ11",
+        "I share information regarding current affairs on WhatsApp ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -176,11 +176,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ12",
-        "I share information regarding covid-19 on Instagram ",
+        "MQ12",
+        "I share information regarding current affairs on Instagram ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -188,11 +188,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ13",
-        "I share information regarding covid-19 on other social media application(s)",
+        "MQ13",
+        "I share information regarding current affairs on another social media application",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -200,10 +200,10 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ13_other",
+        "mq13_other",
         "If you agreed, please specify which application(s)",
         "text",
         "",
@@ -212,11 +212,11 @@
         "",
         "yes",
         "",
-        ""
+        null
       ],
       [
-        "CQ14",
-        "I rely on my family/friends to post about covid-19 for information ",
+        "MQ14",
+        "I rely on my family/friends to post about current affairs for information ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -224,11 +224,11 @@
         "",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ15",
-        "I obtain news regarding covid-19 online from bbc.co.uk ",
+        "MQ15",
+        "I obtain news regarding current affairs online from bbc.co.uk ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -236,11 +236,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ16",
-        "I obtain news regarding covid-19 online from the thedailymail.co.uk",
+        "MQ16",
+        "I obtain news regarding current affairs online from the thedailymail.co.uk",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -248,11 +248,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ17",
-        "I obtain news regarding covid-19 online from theguardian.com",
+        "MQ17",
+        "I obtain news regarding current affairs online from theguardian.com",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -260,11 +260,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ18",
-        "I obtain news regarding covid-19 online from express.co.uk",
+        "MQ18",
+        "I obtain news regarding current affairs online from express.co.uk",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -272,11 +272,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ19",
-        "I obtain news regarding covid-19 online from thesun.co.uk ",
+        "MQ19",
+        "I obtain news regarding current affairs online from thesun.co.uk ",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -284,11 +284,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ20",
-        "I obtain news regarding covid-19 online from other mainstream news outlets",
+        "MQ20",
+        "I obtain news regarding current affairsonline from other mainstream news outlets",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -296,10 +296,10 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ20_other",
+        "mq20_other",
         "If you agreed, please specify which outlet(s)",
         "text",
         "",
@@ -308,11 +308,11 @@
         "",
         "yes",
         "",
-        ""
+        null
       ],
       [
-        "CQ21",
-        "I read academic publications regarding covid-19?",
+        "MQ21",
+        "I read academic publications regarding current affairs",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -320,11 +320,11 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ22",
-        "I obtain news regarding covid-19 from newspapers",
+        "MQ22",
+        "I obtain news regarding current affairs from newspapers",
         "likert",
         "Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree",
         "0|1|2|3",
@@ -332,10 +332,10 @@
         "1",
         "no",
         "100px",
-        ""
+        null
       ],
       [
-        "CQ22_other",
+        "MQ22_other",
         "If you agreed, please specify which newspaper",
         "text",
         "",
@@ -343,20 +343,20 @@
         "",
         "",
         "yes",
-        "",
-        ""
+        null,
+        null
       ],
       [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     ]
   },

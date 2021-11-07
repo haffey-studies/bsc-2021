@@ -1,0 +1,159 @@
+<!--
+  Video-audio emotion recognition task
+  Author: Dr. Anthony Haffey (2021)
+
+Trial design 
+- click on the center to start the trial
+-	Fixation cross (500ms)
+-	Audio-visual at the same time (determined by the video length)
+-	All five emotions equi-distant from the center (5 seconds) (include timer)
+-	Confidence rating (5 seconds) (include timer)
+
+-->
+<style>
+#emotion_video{
+  height:   400px;
+  width:    400px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display:none;
+}
+#fixation_cross{
+  font-size:60px;
+  height:   100px;
+  width:    100px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display:none;
+  text-align: center;
+  margin: auto;
+  text-align: center;
+}
+#response_buttons{
+  height:   450px;
+  width:    600px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display:none;
+}
+.response_btn{
+  font-size:30px;
+  width:200px;
+}
+
+#angry_btn{
+  position:absolute;
+  top:20px;
+  left:200px;
+}
+#disgust_btn{
+  position:absolute;
+  top:200px;
+  left:400px;
+}
+#fear_btn{
+  position:absolute;
+  top:380px;
+  left:350px;
+}
+#happiness_btn{
+  position:absolute;
+  top:380px;
+  left:60px;
+  
+}
+#sad_btn{
+  position:absolute;
+  top:200px;
+  left:0px;
+}
+#start_btn{
+  height:   50px;
+  width:    50px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+</style>
+<button id="start_btn">Start</button>
+<div id="fixation_cross">+</div>
+
+<video width="320" height="240" id="emotion_video">
+  <source src="{{video_file}}" type="video/mp4">
+</video>
+<audio id="emotion_audio">
+  <source src="{{audio_file}}" type="audio/mpeg">
+</audio>
+
+<div id="response_buttons">
+  <button class="response_btn btn btn-primary" id="angry_btn">Angry</button>
+  <button class="response_btn btn btn-primary" id="disgust_btn">Disgust</button>
+  <button class="response_btn btn btn-primary" id="fear_btn">Fear</button>
+  <button class="response_btn btn btn-primary" id="happiness_btn">Happiness</button>
+  <button class="response_btn btn btn-primary" id="sad_btn">Sad</button>
+</div>
+
+<input type="hidden" id="emotion_response" name="emotion_response"/>
+<input type="hidden" id="emotion_rt"       name="emotion_rt"/>
+
+<script>
+var audio_ended = false;
+var video_ended = false;
+$("#start_btn").on("click",function(){
+  $("#start_btn").hide();
+  $("#fixation_cross").show();
+  setTimeout(function(){
+    $("#fixation_cross").hide();
+    $("#emotion_video").show();
+    $("#emotion_video").trigger("play");
+    $("#emotion_audio").trigger("play");  
+  },500);
+});
+$("#emotion_audio").on("ended", function(){
+  audio_ended = true;
+  if(video_ended){
+    show_responses();
+  }
+});
+
+$("#emotion_video").on("ended", function(){
+  video_ended = true;
+  if(audio_ended){
+    show_responses();
+  }
+});
+
+var baseline_time;
+function show_responses(){
+  setTimeout(function(){
+    Phase.submit();
+  },5000);
+  $("#emotion_video").hide();
+  $("#response_buttons").show();
+  baseline_time = new Date().getTime();
+}
+
+$(".response_btn").on("click", function(){
+  var response_time = new Date().getTime() - baseline_time;
+  $("#emotion_rt").val(response_time)
+  $("#emotion_response").val(this.innerHTML);
+  Phase.submit();
+});
+
+</script>
