@@ -1,0 +1,292 @@
+item_name,text,type,answers,values,side_by_side,
+Instructions0,"<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the past 3 months<br>",instruct,,,,
+"Instructions1
+","<span style='color:#006699'><span style='font-size:20px'>I was told more than once that I spend too much time ______ online.<br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions2
+","<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions3
+","<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions4
+","<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or 
+unavailable. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions5
+","<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions6
+","<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions7
+","<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. 
+ <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions8
+","<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions9
+","<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions10
+","<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions11
+","<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions12
+","<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions13
+","<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>
+<br>
+<span style='font-size:16px'>Please fill in the blank by choosing one response that best describes how strongly each item applies to you:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions14
+","<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions15
+","<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>
+<br>
+<span style='font-size:16px'>Please fill in the blank by choosing one response that best describes how strongly each item applies to you:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions16
+","<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions17
+","<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions18
+","<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions19
+","<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions20
+","<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions21
+","<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions22
+","<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions23
+","<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions24
+","<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the 
+same satisfaction as before. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,In general,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,On social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions25
+","<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+"Instructions26
+","<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>
+<br>
+<span style='font-size:16px'>Please complete the above statement with each of the options below, and choose one individual response per option that best describes how strongly each matches your own experience:</span></span>",instruct,,,,
+CIAS_A1,General use,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A2,Gaming,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A3,Social media,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A4,Messaging,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A5,Streaming videos,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A6,Browsing,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+CIAS_A7,Shopping,likert,Definitely agree|Slightly agree|Slightly disagree|Definitely disagree,1|1|0|0,yes,
+,,,,,,
