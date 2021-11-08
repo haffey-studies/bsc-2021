@@ -6,7 +6,7 @@
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
-  "location": "haffey-studies/bsc-2021/sb",
+  "location": "zia-ant/null/sb",
   "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
   "surveys": {
     "social_boundaries.csv": [
@@ -24,7 +24,7 @@
         "score:collectivism_total",
         "side_text",
         "optional",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -36,11 +36,11 @@
         "",
         "",
         "",
-        null,
-        null,
         "",
-        null,
-        null
+        "",
+        "",
+        "",
+        ""
       ],
       [
         "sb1",
@@ -53,10 +53,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb2",
@@ -69,10 +69,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb3",
@@ -85,10 +85,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb4",
@@ -101,10 +101,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb5",
@@ -117,10 +117,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb6",
@@ -133,10 +133,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb7",
@@ -149,10 +149,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb8",
@@ -165,10 +165,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb9",
@@ -181,10 +181,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb10",
@@ -197,10 +197,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb11",
@@ -213,10 +213,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb12",
@@ -229,10 +229,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb13",
@@ -245,10 +245,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb14",
@@ -261,10 +261,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb15",
@@ -277,10 +277,10 @@
         "",
         "",
         "1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb16",
@@ -293,10 +293,10 @@
         "",
         "",
         "r1",
-        null,
+        "",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb17",
@@ -308,11 +308,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb18",
@@ -324,11 +324,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb19",
@@ -340,11 +340,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb20",
@@ -356,11 +356,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb21",
@@ -372,11 +372,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb22",
@@ -388,11 +388,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb23",
@@ -404,11 +404,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb24",
@@ -420,11 +420,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb25",
@@ -436,11 +436,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb26",
@@ -452,11 +452,11 @@
         "",
         "1",
         "",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb27",
@@ -468,11 +468,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb28",
@@ -484,11 +484,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb29",
@@ -500,11 +500,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb30",
@@ -516,11 +516,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb31",
@@ -532,11 +532,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb32",
@@ -548,11 +548,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb33",
@@ -564,11 +564,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "sb34",
@@ -580,11 +580,11 @@
         "",
         "",
         "1",
-        null,
+        "",
         "1",
         "Never|Always",
         "no",
-        null
+        ""
       ],
       [
         "",
@@ -596,11 +596,11 @@
         "",
         "",
         "",
-        null,
-        null,
         "",
-        null,
-        null
+        "",
+        "",
+        "",
+        ""
       ]
     ]
   },

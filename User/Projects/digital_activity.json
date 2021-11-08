@@ -1,0 +1,2130 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,digital_activity.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/digital_activity",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "digital_activity.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "side_by_side",
+        "question_width",
+        null
+      ],
+      [
+        "Instructions0",
+        "<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the <b><u>past 3 months</u></b><br>\n\n<span style='font-size:16px'>Please complete the blanks in the below statements with each type of digital activity. Choose one individual response per activity that best describes how strongly each matches your own experience:</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "Instructions1\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I was told more than once that I spend too much time ______ online.<br></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_A1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_A7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions2\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_B1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_B7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions3\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_C1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_C7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions4\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or \nunavailable. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_D1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_D7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions5\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_E1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_E7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions6\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_F1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_F7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions7\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. \n <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_G1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_G7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions8\n",
+        "<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_H1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_H7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions9\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_I1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_I7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions10\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_J1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_J7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions11\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_K1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_K7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions12\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_L1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_L7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions13\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_M1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_M7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions14\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_N1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_N7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions15\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_O1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_O7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions16\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_P1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_P7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions17\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_Q1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Q7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions18\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_R1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_R7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions19\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_S1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_S7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions20\n",
+        "<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_T1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_T7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions21\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_U1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_U7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions22\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_V1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_V7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions23\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_W1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_W7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions24\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the \nsame satisfaction as before. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_X1",
+        "In general",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X3",
+        "On social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_X7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions25\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_Y1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Y7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "Instructions26\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>\n<br>\n",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        null
+      ],
+      [
+        "CIAS_Z1",
+        "General use",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z2",
+        "Gaming",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z3",
+        "Social media",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z4",
+        "Messaging",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z5",
+        "Streaming videos",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z6",
+        "Browsing",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        "CIAS_Z7",
+        "Shopping",
+        "likert",
+        "Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience",
+        "0|1|2|3",
+        "yes",
+        "20%",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}

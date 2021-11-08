@@ -1,0 +1,137 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,adhd.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/adhd",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "adhd.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "score:attention",
+        "score:hyperactivity",
+        "score:adhd_total",
+        "optional",
+        "btn_width",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Below are a series of statements. Please answer them as accurately as possible.<br>\n<br>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "adhd1",
+        "How often do you have trouble wrapping up the final details of a project, once the challenging parts have been done?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "1",
+        "",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "adhd2",
+        "How often do you have difficulty getting things in order when you have to do a task that requires organization?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "1",
+        "",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "adhd3",
+        "How often do you have problems remembering appointments or obligations?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "1",
+        "",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "adhd4",
+        "When you have a task that requires a lot of thought, how often do you avoid or delay getting started?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "1",
+        "",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "adhd5",
+        "How often do you fidget or squirm with your hands or feet when you have to sit down for a long time?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "",
+        "1",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "adhd6",
+        "How often do you feel overly active and compelled to do things, like you were driven by a motor?",
+        "likert",
+        "Never|Rarely|Sometimes|Often|Very Often",
+        "0|1|2|3|4",
+        "",
+        "1",
+        "1",
+        "no",
+        "100px",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}
