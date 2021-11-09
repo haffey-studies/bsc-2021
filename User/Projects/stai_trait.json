@@ -1,0 +1,273 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,stai-trait.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/stai_trait",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "stai-trait.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "score:optimism",
+        "optional",
+        "btn_width",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you <span style='color:#ff0000'><b><u>generally (not just right now)</u></b></span> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel.\n</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "stai_1",
+        "I feel calm",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "r1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_2",
+        "I feel secure",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "r1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_3",
+        "I feel tense",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_4",
+        "I feel strained",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_5",
+        "I feel at ease",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_6",
+        "I feel upset",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_7",
+        "I am presently worrying over possibly misfortunes",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_8",
+        "I feel satisfied",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_9",
+        "I feel frightened",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_10",
+        "I feel uncomfortable",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_11",
+        "I feel self-confident",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_12",
+        "I feel nervous",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_13",
+        "I feel jittery",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_14",
+        "I feel indecisive",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_15",
+        "I am relaxed",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_16",
+        "I feel content",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_17",
+        "I am worried",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_18",
+        "I feel confused",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_19",
+        "I feel steady",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "stai_20",
+        "I feel pleasant",
+        "likert",
+        "Not at all|A little|Somewhat|Very Much So",
+        "0|1|2|3|4",
+        "1",
+        "no",
+        "150px",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}
