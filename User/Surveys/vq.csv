@@ -1,0 +1,7 @@
+item_name,text,type,answers,values,optional,
+Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,instruct,,,,
+VQ1,I believe that receiving a vaccination against COVID-19 will protect me from the virus,likert,Disagree|Neutral|Agree,1|1|0|0,no,
+VQ2,I am fearful about the side-effects of the vaccination,likert,Disagree|Neutral|Agree,1|1|0|0,no,
+VQ3,I believe that science is the main way to end the COVID-19 pandemic,likert,Disagree|Neutral|Agree,1|1|0|0,no,
+VQ4,I have received at least one dose of a government approved COVID-19 vaccine,likert,Yes|No|Prefer not to say,1|1|0|0,no,
+,,,,,,

@@ -1,0 +1,128 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,cb.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/perceived_benefit",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "cb.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "optional",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "perceived_benefit_1",
+        "I believe that hand washing is helpful to prevent myself from COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_2",
+        "I believe that social distancing is helpful for me to prevent myself from COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_3",
+        "I believe that social-distancing is helpful for me to prevent  COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_4",
+        "I believe that avoiding over-crowded places is helpful to prevent COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_5",
+        "I believe that praying is helpful in protecting me from COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_6",
+        "I believe that the government restrictions is helpful to prevent COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_7",
+        "I believe that the information regarding COVID-19 is helpful for preventing COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_8",
+        "I believe that respecting the rules and regulations set by the government is helpful for preventing COVID-19",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "perceived_benefit_9",
+        "I believe that washing my hands after coughing or sneezing will protect myself and my family",
+        "likert",
+        "Disagree|Neutral|Agree",
+        "0|1|2",
+        "no",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}

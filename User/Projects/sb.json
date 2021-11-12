@@ -6,7 +6,7 @@
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
-  "location": "zia-ant/null/sb",
+  "location": "haffey-studies/bsc-2021/sb",
   "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
   "surveys": {
     "social_boundaries.csv": [
