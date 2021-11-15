@@ -1,0 +1,17 @@
+item_name,text,type,answers,values,optional,question_width,
+symptoms_exposure_instructions,<span style='color:#006699'><span style='font-size:20px'>Please choose <b><u>ALL</u> OF THE FOLLOWING</b> of the following that apply to you</span></span>,instruct,,,,,
+symptoms_exposure,,checkbox,"In the last 6 months I have known someone who currently has or had in the past been quarantined for COVID-19 due to exposure.|
+In the last 6 months I have a close family member or friend who currently has or had in the past been quarantined for COVID-19 due to exposure. |
+In the last 6 months I know someone who currently has or had in the past been diagnosed with COVID-19 due to exposure.|
+In the last 6 months I have a close family member or friend who currently has or had in the past been diagnosed with COVID-19 due to exposure. |
+In the last 6 months I am or have been a carer for someone who had been diagnosed with COVID-19.|
+In the last 6 months I am or have been in quarantine in the past due to COVID-19.|
+In the last 6 months I am self-isolating or have  self-isolated in order to avoid infection. |
+In the last 6 months I am or have been  regarded as ‘high risk’. |
+In the last 6 months I have self-isolated due to government advice but did not have symptoms at the time (e.g. being told that you’ve been exposed, but did not proceed to have symptoms). |
+In the last 6 months I have self-isolated because I have had symptoms. |
+In the last 6 months I have been tested (including self-testing) for COVID-19.|
+In the last 6 months I have been diagnosed with COVID-19. |
+In the last 6 months I have received a flu vaccination. |
+In the last 6 months, I have had the flu.",1|2|3|4|5|6|7|8|9,no,0%,
+,,,,,,,

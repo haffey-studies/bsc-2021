@@ -1,0 +1,110 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,resilience.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/resilience",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "resilience.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "score:resililence_total",
+        "btn_width",
+        null
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Use the following scale and select one option for each statement to indicate how much you disagree or agree with each of the statements.</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        null,
+        null
+      ],
+      [
+        "BRS1",
+        "I tend to bounce back quickly after hard times",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "1",
+        "150px",
+        null
+      ],
+      [
+        "BRS2",
+        "I have a hard time making it through stressful events",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "r1",
+        "150px",
+        null
+      ],
+      [
+        "BRS3",
+        "It does not take me long to recover from a stressful event",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "1",
+        "150px",
+        null
+      ],
+      [
+        "BRS4",
+        "It is hard for me to snap back when something bad happens",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "r1",
+        "150px",
+        null
+      ],
+      [
+        "BRS5",
+        "I usually come through difficult times with little trouble",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "1",
+        "150px",
+        null
+      ],
+      [
+        "BRS6",
+        "I tend to take a long time to get over set-backs in my life",
+        "likert",
+        "Strongly disagree|Disagree|Neutral|Agree|Strongly agree",
+        "0|1|2|3|4",
+        "r1",
+        "150px",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}

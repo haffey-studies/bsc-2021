@@ -1,4 +1,13 @@
-item_name,text,type,answers,values,question_width,optional,
-Instructions1,<span style='color:#006699'><span style='font-size:20px'>The following questions aim to capture your experience of COVID and related lockdowns. There are no correct or incorrect options.</span></span>,instruct,,,,,
-living_status,Please select <b>one</b> of the following options that best represents how much you adjusted your lifestyle in response to COVID and related lockdowns.,radio,"I am living as normal|I am not self-isolating but have cut down my usual activities as a precaution|I am not self-isolating but have been told to work from home|I am self-isolating as I do not want to get ill, but I am not high risk|I am self-isolating as I do not want to get ill, but I am regarded as high risk|I am self-isolating as I do not want others to get ill|I have been told to self-isolate due to possible symptoms of COVID-19|I have been told to self-isolate due to a diagnosis of COVID-19|I have been ordered by the government or local authority to self-isolate/stay home",,20%,no,
+item_name,text,type,answers,values,optional,question_width,
+living_status_instructions,<span style='color:#006699'><span style='font-size:20px'>Choose one of the following that best describes your current experience</span></span>,instruct,,,,,
+living_status,,radio,"I am living as normal|
+I am not self-isolating but have cut down my usual activities as a precaution|
+I am not self-isolating but have been told to work from home|
+I am self-isolating as I do not want to get ill, but I am not high risk|
+I am self-isolating as  I do not want to ill, but I am regarded as high risk|
+I am self-isolating as I do not want others to get ill|
+I have been told to self-isolate due to possible symptoms of COVID-19|
+I have been told to self-isolate due to a diagnosis of COVID-19|
+I have been ordered by the government or local authority to self-isolate/stay home
+",1|2|3|4|5|6|7|8|9,no,0%,
 ,,,,,,,

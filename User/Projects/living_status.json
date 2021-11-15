@@ -1,0 +1,60 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,current_living_status.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/living_status",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "current_living_status.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "optional",
+        "question_width",
+        ""
+      ],
+      [
+        "living_status_instructions",
+        "<span style='color:#006699'><span style='font-size:20px'>Choose one of the following that best describes your current experience</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "living_status",
+        "",
+        "radio",
+        "I am living as normal|\nI am not self-isolating but have cut down my usual activities as a precaution|\nI am not self-isolating but have been told to work from home|\nI am self-isolating as I do not want to get ill, but I am not high risk|\nI am self-isolating as  I do not want to ill, but I am regarded as high risk|\nI am self-isolating as I do not want others to get ill|\nI have been told to self-isolate due to possible symptoms of COVID-19|\nI have been told to self-isolate due to a diagnosis of COVID-19|\nI have been ordered by the government or local authority to self-isolate/stay home\n",
+        "1|2|3|4|5|6|7|8|9",
+        "no",
+        "0%",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}
