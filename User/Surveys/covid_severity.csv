@@ -1,0 +1,5 @@
+item_name,text,type,answers,values,btn_width,score:covid_severity,optional,
+Instructions4,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how each item applies to you:</span></span>,instruct,,,,,,
+Ctress1,How serious do you think COVID-19 is?,likert,Not at all serious | Not serious | Slightly Serious | Serious | Very Serious,0|1|2|3|4,125px,1,no,
+Cstress2,How would you feel if you contracted COVID-19 in the near future?,likert,Not at all serious | Not serious | Slightly Serious | Serious | Very Serious,0|1|2|3|4,125px,1,no,
+,,,,,,,,

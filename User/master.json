@@ -5391,7 +5391,7 @@
         },
         "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
         "all_stims": {
-          "stimuli_1.csv": "cue,answer,video_file,audio_file,user_id,Video,Audio,\r\nA,Apple,../User/Stimuli/1029_IOM_ANG_XX-converted.mp4,../User/Stimuli/1029_IOM_DIS_XX.mp3,,Anger,Disgust,\r\nB,Banana,,,,,,\r\n,,,,,,,"
+          "stimuli_1.csv": "video,audio,video_file,audio_file,user_id,Video,Audio,Congruent,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD.ogg,../User/Stimuli/1029_TSI_DIS_XX.wav,1029,Anger,Disgust,incongruent,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/1003_TSI_FEA_XX.wav,1003,Anger,Fear,incongruent,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD-converted.mp4,../User/Stimuli/1072_TSI_HAP_XX.wav,1072,Anger,Happiness,incongruent,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_SAD_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/1018_TSI_SAD_XX.wav,1018,Anger,Sad,incongruent,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/1018_TSI_ANG_XX.wav,1018,Disgust,Anger,incongruent,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/1029_TSI_FEA_XX.wav,1029,Disgust,Fear,incongruent,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/1003_TSI_HAP_XX.wav,1003,Disgust,Happiness,incongruent,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD-converted.mp4,../User/Stimuli/1072_TSI_SAD_XX.wav,1072,Disgust,Sad,incongruent,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD-converted.mp4,../User/Stimuli/1072_TSI_ANG_XX.wav,1072,Fear,Anger,incongruent,\r\n1018_IEO_FEA_MD-converted.mp4,1018_TSI_DIS_XX.wav,\"../User/Stimuli/video/\n1018_IEO_FEA_MD-converted.mp4\",../User/Stimuli/1018_TSI_DIS_XX.wav,1018,Fear,Disgust,incongruent,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_HAP_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/1029_TSI_HAP_XX.wav,1029,Fear,Happiness,incongruent,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/1003_TSI_SAD_XX.wav,1003,Fear,Sad,incongruent,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/1003_TSI_ANG_XX.wav,1003,Happiness,Anger,incongruent,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TIS_DIS_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD-converted.mp4,../User/Stimuli/1072_TIS_DIS_XX.wav,1072,Happiness,Disgust,incongruent,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_FEA_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/1018_TSI_FEA_XX.wav,1018,Happiness,Fear,incongruent,\r\n1029_IEO_HAP_MD-converted.mp4,1029_TSI_SAD_XX.wav,\"../User/Stimuli/video/\n1029_IEO_HAP_MD-converted.mp4\",../User/Stimuli/1029_TSI_SAD_XX.wav,1029,Happiness,Sad,incongruent,\r\n1029_IEO_SAD_MD-converted.mp4,1029_TSI_ANG_XX.wav,\"../User/Stimuli/video/\n1029_IEO_SAD_MD-converted.mp4\",../User/Stimuli/1029_TSI_ANG_XX.wav,1029,Sad,Anger,incongruent,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/1003_TSI_DIS_XX.wav,1003,Sad,Disgust,incongruent,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD-converted.mp4,../User/Stimuli/1072_TSI_FEA_XX.wav,1072,Sad,Fear,incongruent,\r\n\"\n1018_IEO_SAD_MD-converted.mp4\",1018_TSI_HAP_XX.wav,\"../User/Stimuli/video/\n1018_IEO_SAD_MD-converted.mp4\",../User/Stimuli/1018_TSI_HAP_XX.wav,1018,Sad,Happiness,incongruent,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/1031_TSI_DIS_XX.wav,1031,Anger,Disgust,incongruent,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/1032_TSI_FEA_XX.wav,1032,Anger,Fear,incongruent,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/1014_TSI_HAP_XX.wav,1014,Anger,Happiness,incongruent,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/1045_TSI_SAD_XX.wav,1045,Anger,Sad,incongruent,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/1045_TSI_ANG_XX.wav,1045,Disgust,Anger,incongruent,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/1031_TSI_FEA_XX.wav,1031,Disgust,Fear,incongruent,\r\n\"\n1032_IEO_DIS_HI-converted.mp4\",1032_TSI_HAP_XX.wav,\"../User/Stimuli/video/\n1032_IEO_DIS_HI-converted.mp4\",../User/Stimuli/1032_TSI_HAP_XX.wav,1032,Disgust,Happiness,incongruent,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/1014_TSI_SAD_XX.wav,1014,Disgust,Sad,incongruent,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/1014_TSI_ANG_XX.wav,1014,Fear,Anger,incongruent,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/1045_TSI_DIS_XX.wav,1045,Fear,Disgust,incongruent,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/1031_TSI_HAP_XX.wav,1031,Fear,Happiness,incongruent,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/1032_TSI_SAD_XX.wav,1032,Fear,Sad,incongruent,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/1032_TSI_ANG_XX.wav,1032,Happiness,Anger,incongruent,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/1014_TSI_DIS_XX.wav,1014,Happiness,Disgust,incongruent,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/1045_TSI_FEA_XX.wav,1045,Happiness,Fear,incongruent,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/1031_TSI_SAD_XX.wav,1031,Happiness,Sad,incongruent,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/1031_TSI_ANG_XX.wav,1031,Sad,Anger,incongruent,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_DIS_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/1032_TSI_DIS_XX.wav,1032,Sad,Disgust,incongruent,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/1014_TSI_FEA_XX.wav,1014,Sad,Fear,incongruent,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/1045_TSI_HAP_XX.wav,1045,Sad,Happiness,incongruent,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/1018_TSI_ANG_XX.wav,1018,Anger,Anger,congruent,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_ANG_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD-converted.mp4,../User/Stimuli/1029_TSI_ANG_XX.wav,1029,Anger,Anger,congruent,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/1003_TSI_ANG_XX.wav,1003,Anger,Anger,congruent,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD-converted.mp4,../User/Stimuli/1072_TSI_ANG_XX.wav,1072,Anger,Anger,congruent,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_DIS_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD-converted.mp4,../User/Stimuli/1072_TSI_DIS_XX.wav,1072,Disgust,Disgust,congruent,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_DIS_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/1018_TSI_DIS_XX.wav,1018,Disgust,Disgust,congruent,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/1029_TSI_DIS_XX.wav,1029,Disgust,Disgust,congruent,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/1003_TSI_DIS_XX.wav,1003,Disgust,Disgust,congruent,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/1003_TSI_FEA_XX.wav,1003,Fear,Fear,congruent,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD-converted.mp4,../User/Stimuli/1072_TSI_FEA_XX.wav,1072,Fear,Fear,congruent,\r\n\"\n1018_IEO_FEA_MD-converted.mp4\",\"\n1018_TSI_FEA_XX.wav\",\"../User/Stimuli/video/\n1018_IEO_FEA_MD-converted.mp4\",\"../User/Stimuli/\n1018_TSI_FEA_XX.wav\",1018,Fear,Fear,congruent,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/1029_TSI_FEA_XX.wav,1029,Fear,Fear,congruent,\r\n\"\n1029_IEO_HAP_MD-converted.mp4\",\"\n1029_TSI_HAP_XX.wav\",\"../User/Stimuli/video/\n1029_IEO_HAP_MD-converted.mp4\",\"../User/Stimuli/\n1029_TSI_HAP_XX.wav\",1029,Happiness,Happiness,congruent,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/1003_TSI_HAP_XX.wav,1003,Happiness,Happiness,congruent,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD-converted.mp4,../User/Stimuli/1072_TSI_HAP_XX.wav,1072,Happiness,Happiness,congruent,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_HAP_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/1018_TSI_HAP_XX.wav,1018,Happiness,Happiness,congruent,\r\n\"\n1018_IEO_SAD_MD-converted.mp4\",\"\n1018_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\n1018_IEO_SAD_MD-converted.mp4\",\"../User/Stimuli/\n1018_TSI_SAD_XX.wav\",1018,Sad,Sad,congruent,\r\n\"\n1029_IEO_SAD_MD-converted.mp4\",\"\n1029_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\n1029_IEO_SAD_MD-converted.mp4\",\"../User/Stimuli/\n1029_TSI_SAD_XX.wav\",1029,Sad,Sad,congruent,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/1003_TSI_SAD_XX.wav,1003,Sad,Sad,congruent,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD-converted.mp4,../User/Stimuli/1072_TSI_SAD_XX.wav,1072,Sad,Sad,congruent,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/1032_TSI_ANG_XX.wav,1032,Anger,Anger,congruent,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/1014_TSI_ANG_XX.wav,1014,Anger,Anger,congruent,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/1045_TSI_ANG_XX.wav,1045,Anger,Anger,congruent,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/1031_TSI_ANG_XX.wav,1031,Anger,Anger,congruent,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/1031_TSI_DIS_XX.wav,1031,Disgust,Disgust,congruent,\r\n\"\n1032_IEO_DIS_HI-converted.mp4\",\"\n1032_TSI_DIS_XX.wav\",\"../User/Stimuli/video/\n1032_IEO_DIS_HI-converted.mp4\",\"../User/Stimuli/\n1032_TSI_DIS_XX.wav\",1032,Disgust,Disgust,congruent,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/1014_TSI_DIS_XX.wav,1014,Disgust,Disgust,congruent,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/1045_TSI_DIS_XX.wav,1045,Disgust,Disgust,congruent,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/1045_TSI_FEA_XX.wav,1045,Fear,Fear,congruent,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/1031_TSI_FEA_XX.wav,1031,Fear,Fear,congruent,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/1032_TSI_FEA_XX.wav,1032,Fear,Fear,congruent,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/1014_TSI_FEA_XX.wav,1014,Fear,Fear,congruent,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/1014_TSI_HAP_XX.wav,1014,Happiness,Happiness,congruent,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/1045_TSI_HAP_XX.wav,1045,Happiness,Happiness,congruent,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/1031_TSI_HAP_XX.wav,1031,Happiness,Happiness,congruent,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_HAP_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/1032_TSI_HAP_XX.wav,1032,Happiness,Happiness,congruent,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/1032_TSI_SAD_XX.wav,1032,Sad,Sad,congruent,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/1014_TSI_SAD_XX.wav,1014,Sad,Sad,congruent,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/1045_TSI_SAD_XX.wav,1045,Sad,Sad,congruent,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/1031_TSI_SAD_XX.wav,1031,Sad,Sad,congruent,\r\n,,,,,,,,"
         },
         "location": "haffey-studies/bsc-2021/emotion_recognition",
         "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
@@ -9329,6 +9329,7 @@
               "values",
               "btn_width",
               "score:covid_stress",
+              "optional",
               null
             ],
             [
@@ -9338,6 +9339,7 @@
               "",
               "",
               "",
+              null,
               null,
               null
             ],
@@ -9349,6 +9351,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9359,6 +9362,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9369,6 +9373,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9379,6 +9384,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9389,6 +9395,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9399,6 +9406,7 @@
               "0|1|2|3|4",
               "125px",
               "1",
+              "no",
               null
             ],
             [
@@ -9409,6 +9417,82 @@
               "",
               "",
               null,
+              null,
+              null
+            ]
+          ]
+        },
+        "phasetypes": {
+          "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+        },
+        "procs_csv": {},
+        "stims_csv": {}
+      },
+      "covid_severity": {
+        "all_procs": {
+          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,covid_severity.csv,"
+        },
+        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+        "all_stims": {
+          "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+        },
+        "location": "haffey-studies/bsc-2021/covid_severity",
+        "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+        "surveys": {
+          "covid_severity.csv": [
+            [
+              "item_name",
+              "text",
+              "type",
+              "answers",
+              "values",
+              "btn_width",
+              "score:covid_severity",
+              "optional",
+              null
+            ],
+            [
+              "Instructions4",
+              "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how each item applies to you:</span></span>",
+              "instruct",
+              "",
+              "",
+              "",
+              null,
+              null,
+              null
+            ],
+            [
+              "Ctress1",
+              "How serious do you think COVID-19 is?",
+              "likert",
+              "Not at all serious | Not serious | Slightly Serious | Serious | Very Serious",
+              "0|1|2|3|4",
+              "125px",
+              "1",
+              "no",
+              null
+            ],
+            [
+              "Cstress2",
+              "How would you feel if you contracted COVID-19 in the near future?",
+              "likert",
+              "Not at all serious | Not serious | Slightly Serious | Serious | Very Serious",
+              "0|1|2|3|4",
+              "125px",
+              "1",
+              "no",
+              null
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
               null
             ]
           ]
@@ -20329,6 +20413,7 @@
           "values",
           "btn_width",
           "score:covid_stress",
+          "optional",
           null
         ],
         [
@@ -20338,6 +20423,7 @@
           "",
           "",
           "",
+          null,
           null,
           null
         ],
@@ -20349,6 +20435,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20359,6 +20446,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20369,6 +20457,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20379,6 +20468,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20389,6 +20479,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20399,6 +20490,7 @@
           "0|1|2|3|4",
           "125px",
           "1",
+          "no",
           null
         ],
         [
@@ -20409,6 +20501,64 @@
           "",
           "",
           null,
+          null,
+          null
+        ]
+      ],
+      "covid_severity.csv": [
+        [
+          "item_name",
+          "text",
+          "type",
+          "answers",
+          "values",
+          "btn_width",
+          "score:covid_severity",
+          "optional",
+          null
+        ],
+        [
+          "Instructions4",
+          "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how each item applies to you:</span></span>",
+          "instruct",
+          "",
+          "",
+          "",
+          null,
+          null,
+          null
+        ],
+        [
+          "Ctress1",
+          "How serious do you think COVID-19 is?",
+          "likert",
+          "Not at all serious | Not serious | Slightly Serious | Serious | Very Serious",
+          "0|1|2|3|4",
+          "125px",
+          "1",
+          "no",
+          null
+        ],
+        [
+          "Cstress2",
+          "How would you feel if you contracted COVID-19 in the near future?",
+          "likert",
+          "Not at all serious | Not serious | Slightly Serious | Serious | Very Serious",
+          "0|1|2|3|4",
+          "125px",
+          "1",
+          "no",
+          null
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
           null
         ]
       ]
