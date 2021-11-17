@@ -77,17 +77,6 @@
         null
       ],
       [
-        "uor_consent_5",
-        "I am happy to be contacted about future studies (optional)",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
         "uor_consent_6",
         "First name",
         "text",
