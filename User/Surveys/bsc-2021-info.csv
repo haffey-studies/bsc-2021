@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,optional,side_by_side,
+item_name,text,type,answers,values,optional,side_by_side,question_width,
 Instructions1,"<h2>University of Reading</h2><br>
 <div align=""right"">School of Psychology and Clinical Language Sciences<br>
 Whiteknights<br>
@@ -75,23 +75,74 @@ Reading RG6 6AL</div>
 <h2>Title of Study: Investigating autistic traits, experience of the pandemic, digital behaviour, anxiety and depression</h2>
 <h1>PARTICIPANT INFORMATION SHEET </h1>
 
-We would be grateful if you could assist us by participating in our online study [BRIEF STUDY DESCRIPTION]. <br>
+We would be grateful if you could assist us by participating in our online study investigating autism, your experience of the pandemic, how much you engage with different types of screen time, and how much you experience anxiety or depressive symptoms. <br>
 <br>
-In the experiment you will be presented with [DESCRIPTION OF STIMULI AND PROCEDURE]. The experiment should take no longer than [MAXIMUM TIME EXPECTED]. [DESCRIPTION OF ELIGIBILITY AND EXCLUSION CRITERIA].<br>
+In the experiment you will be presented with a series of questionnaires and a task that requires you identify emotions. The experiment should take no longer than 2 hours in total. You may not wish to participate in this study if answering questions relating to the topics in the title could cause you distress. We would like to highlight some sources of support that relate to the above topics that you can check in with:<br>
+
+
+<style>
+#contact_table td{
+  border: 1px solid black;
+}
+</style>
+<table id=""contact_table"">
+  <tr>
+    <td>Organisation</td>
+    <td>What they offer</td>
+    <td>Contact Details</td>
+  </tr>
+  <tr>
+    <td>Mind</td>
+    <td>Promotes the views and needs of people with mental health difficulties</td>
+    <td>Ph: 0300 123 3393 <br>
+(Monday-Friday, 9am to 6pm) <br>
+Web: www.mind.org.uk</td>
+  </tr>
+  <tr>
+    <td>Samaritans </td>
+    <td>Confidential support for people experiencing feelings of distress or despair</td>
+    <td>Ph: 116 123 <br>
+(Free 24-hour helpline) <br>
+Web: www.samaritans.org.uk</td>
+  </tr>
+  <tr>
+    <td>SANE</td>
+    <td>Emotional support, information and guidance for people affected by mental illness, their families and carers</td>
+    <td>Ph: 0300 304 7000 <br>
+(Daily, 4.30pm to 10.30pm)<br>
+Textcare: comfort and care via text message, sent when the person needs it most: www.sane.org.uk/textcare <br>
+Peer support forum: <br>
+www.sane.org.uk/supportforum; <br>
+Web: www.sane.org.uk/support</td>
+  </tr>
+  <tr>
+    <td>National Autistic Society</td>
+    <td>Provides advice, guidance, help and support on the challenges autistic people and their families face.</td>
+    <td>Web: www.autism.org.uk</td>
+  </tr>
+</table>
+
 <br>
-Your data will be kept confidential and securely stored, with only an anonymous number identifying it. Data collected from this study will be preserved and made available in anonymised form, so that data can be re-used by others.<br>
+Your data will be kept confidential and securely stored, with only an anonymous number identifying it. Data collected from this study will be preserved and made available in <b>anonymised</b> form, so that data can be re-used by others.<br>
 <br>
-[DESCRIPTION OF RISKS e.g. We foresee few risks during the experiment, but you will be presented with some negative images, which may evoke an emotional response. Thus, the study may include a mild risk of anxiety, sadness or other emotional reactions. However, those stimuli are widely observed in our daily life. If you are concerned about the images in the study then you may discontinue your participation at any time.]<br>
+We foresee few risks during the experiment, but the questionnaires will reflect on topics in the title, which may evoke an emotional response. Thus, the study may include a risk of anxiety, sadness or other emotional reactions. If you are concerned about these topics then you may discontinue your participation at any time.<br>
 <br>
 Taking part in this study is completely voluntary; you may withdraw at any time without having to give any reason. Please feel free to ask any questions that you may have about this study at any point.<br>
 <br>
-[INFORMATION ABOUT COMPENSATION - HOW MUCH AND HOW IT WILL BE DELIVERED e.g. You will receive 0.5 credits through SONA. You will receive a £5 Amazon voucher by email. You will receive £2.50 through Prolific.]<br>
+If you are a Psychology student then you will receive 2 credits through SONA. <br>
 <br>
 This application has been reviewed by the University Research Ethics Committee and has been given a favourable ethical opinion for conduct ([SREC OR UREC NUMBER]).<br>
 <br>
-If you have any questions or concerns about the research, please feel free to contact Investigator1.<br>
+If you have any questions or concerns about the research, please feel free to contact Anthony Haffey.<br>
 <br>
-Email: Investigator1, Tel: +44-(0)118-378-XXXX.<br>
+Email: a.haffey@reading.ac.uk<br>
 <br>
-Thank you for your help.",instruct,,,,,
-,
+Thank you for your help.",instruct,,,,,,
+uor_consent_1,I understand that my participation in this study is voluntary and that I may withdraw any time without giving any reason.,checkbox,Agree,1,No,yes,70%,
+uor_consent_2,I have read the information sheet about this study and the procedure of the study has been explained to me.,checkbox,Agree,1,No,yes,70%,
+uor_consent_3,I have been given the opportunity to ask any questions that I may have about the study and these have been answered to my satisfaction.,checkbox,Agree,1,No,yes,70%,
+uor_consent_4,"I understand that the data collected from me in this study will be preserved and made available in anonymised form, so that they can be consulted and re-used by others.",checkbox,Agree,1,No,yes,70%,
+uor_consent_5,I am happy to be contacted about future studies (optional),checkbox,Agree,1,No,yes,70%,
+uor_consent_6,First name,text,Agree,1,No,yes,70%,
+uor_consent_7,Last name,text,Agree,1,No,yes,70%,
+,,,,,,,,
