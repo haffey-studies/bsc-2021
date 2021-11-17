@@ -2,7 +2,7 @@
   "all_procs": {
     "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,csi.csv,"
   },
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,skip_quality,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,random,,,5,,yes,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
@@ -20,7 +20,7 @@
         "score:probelm_solving",
         "score:seeking_social_support",
         "score:avoidance",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -32,7 +32,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.1",
@@ -44,7 +44,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.2",
@@ -56,7 +56,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.3",
@@ -68,7 +68,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.4",
@@ -80,7 +80,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.5",
@@ -92,7 +92,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.6",
@@ -104,7 +104,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.7",
@@ -116,7 +116,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.8",
@@ -128,7 +128,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.9",
@@ -140,7 +140,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.10",
@@ -152,7 +152,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.11",
@@ -164,7 +164,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.12",
@@ -176,7 +176,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.13",
@@ -188,7 +188,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.14",
@@ -200,7 +200,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.15",
@@ -212,7 +212,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.16",
@@ -224,7 +224,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.17",
@@ -236,7 +236,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.18",
@@ -248,7 +248,7 @@
         "1",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.19",
@@ -260,7 +260,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.20",
@@ -272,7 +272,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.21",
@@ -284,7 +284,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.22",
@@ -296,7 +296,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.23",
@@ -308,7 +308,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.24",
@@ -320,7 +320,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.25",
@@ -332,7 +332,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.26",
@@ -344,7 +344,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.27",
@@ -356,7 +356,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.28",
@@ -368,7 +368,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.29",
@@ -380,7 +380,7 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
         "CSI.30",
@@ -392,7 +392,7 @@
         "",
         "",
         "1",
-        null
+        ""
       ],
       [
         "CSI.31",
@@ -404,7 +404,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.32",
@@ -416,7 +416,7 @@
         "",
         "1",
         "",
-        null
+        ""
       ],
       [
         "CSI.33",
@@ -428,19 +428,19 @@
         "1",
         "",
         "",
-        null
+        ""
       ],
       [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     ]
   },

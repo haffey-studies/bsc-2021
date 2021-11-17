@@ -1,14 +1,138 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,"
   },
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,skip_quality,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,random,,,5,,yes,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
   "location": "haffey-studies/bsc-2021/demographics",
   "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
-  "surveys": {},
+  "surveys": {
+    "demographics-2021.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "optional",
+        "values",
+        "side_by_side",
+        "btn_width",
+        ""
+      ],
+      [
+        "Gender",
+        "Gender",
+        "likert",
+        "Female|Male|Other",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Age",
+        "Age",
+        "number",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Education",
+        "Education (which level are you currently in, or is the highest you've completed)",
+        "dropdown",
+        "Some high school| High school graduate| Some college, no degree| Associate's degree| Bachelor's degree|Graduate degree (Master's, Doctorate, etc.)",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "English_Fluency",
+        "Do you speak English fluently?",
+        "likert",
+        "Yes|No",
+        "no",
+        "",
+        "yes",
+        "200px",
+        ""
+      ],
+      [
+        "English_Age",
+        "At what age did you start learning English? (write \"0\" if from birth)",
+        "number",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Country",
+        "What is your country of residence?",
+        "text",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Handedness",
+        "What is your preferred hand?",
+        "likert",
+        "Left|Right|Both",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Ethnicity",
+        "Please state your ethnicity",
+        "dropdown",
+        "Asian|Black|Caucasian|Hispanic|Other",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Other",
+        "If you've answered other, please state your ethnicity (including mixed ethnicities)",
+        "text",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "phasetypes": {
     "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
   },

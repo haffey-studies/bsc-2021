@@ -2,7 +2,7 @@
   "all_procs": {
     "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,covid_severity.csv,"
   },
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,skip_quality,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,random,,,5,,yes,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
@@ -19,7 +19,7 @@
         "btn_width",
         "score:covid_severity",
         "optional",
-        null
+        ""
       ],
       [
         "Instructions4",
@@ -28,9 +28,9 @@
         "",
         "",
         "",
-        null,
-        null,
-        null
+        "",
+        "",
+        ""
       ],
       [
         "Ctress1",
@@ -41,7 +41,7 @@
         "125px",
         "1",
         "no",
-        null
+        ""
       ],
       [
         "Cstress2",
@@ -52,7 +52,7 @@
         "125px",
         "1",
         "no",
-        null
+        ""
       ],
       [
         "",
@@ -63,7 +63,7 @@
         "",
         "",
         "",
-        null
+        ""
       ]
     ]
   },

@@ -2,7 +2,7 @@
   "all_procs": {
     "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,covid_lifestyle.csv,"
   },
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,skip_quality,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,random,,,5,,yes,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
@@ -18,7 +18,7 @@
         "values",
         "optional",
         "btn_width",
-        null
+        ""
       ],
       [
         "instructions3",
@@ -28,7 +28,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "Lifestyle1",
@@ -38,7 +38,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle2",
@@ -48,7 +48,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle3",
@@ -58,7 +58,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle4",
@@ -68,7 +68,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle5",
@@ -78,7 +78,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle6",
@@ -88,7 +88,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle7",
@@ -98,7 +98,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle8",
@@ -108,7 +108,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle9",
@@ -118,7 +118,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle10",
@@ -128,7 +128,7 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
         "Lifestyle11",
@@ -138,17 +138,17 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        null
+        ""
       ],
       [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     ]
   },
