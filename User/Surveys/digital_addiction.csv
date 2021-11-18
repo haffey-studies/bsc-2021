@@ -9,7 +9,7 @@ CIAS_A2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_A3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_A4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_A5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_A6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_A6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_A7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions2
 ","<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>
@@ -20,7 +20,7 @@ CIAS_B2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_B3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_B4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_B5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_B6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_B6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_B7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions3
 ","<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>
@@ -31,7 +31,7 @@ CIAS_C2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_C3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_C4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_C5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_C6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_C6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_C7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions4
 ","<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or 
@@ -43,7 +43,7 @@ CIAS_D2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_D3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_D4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_D5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_D6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_D6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_D7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions5
 ","<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>
@@ -54,7 +54,7 @@ CIAS_E2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_E3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_E4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_E5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_E6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_E6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_E7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions6
 ","<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>
@@ -65,7 +65,7 @@ CIAS_F2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_F3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_F4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_F5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_F6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_F6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_F7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions7
 ","<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. 
@@ -77,7 +77,7 @@ CIAS_G2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_G3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_G4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_G5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_G6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_G6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_G7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions8
 ","<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>
@@ -88,7 +88,7 @@ CIAS_H2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_H3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_H4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_H5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_H6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_H6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_H7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions9
 ","<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>
@@ -99,7 +99,7 @@ CIAS_I2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_I3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_I4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_I5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_I6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_I6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_I7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions10
 ","<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>
@@ -110,7 +110,7 @@ CIAS_J2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_J3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_J4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_J5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_J6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_J6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_J7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions11
 ","<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>
@@ -121,7 +121,7 @@ CIAS_K2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_K3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_K4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_K5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_K6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_K6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_K7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions12
 ","<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>
@@ -132,7 +132,7 @@ CIAS_L2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_L3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_L4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_L5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_L6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_L6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_L7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions13
 ","<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>
@@ -142,7 +142,7 @@ CIAS_M2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_M3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_M4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_M5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_M6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_M6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_M7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions14
 ","<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>
@@ -153,7 +153,7 @@ CIAS_N2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_N3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_N4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_N5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_N6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_N6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_N7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions15
 ","<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>
@@ -163,7 +163,7 @@ CIAS_O2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_O3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_O4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_O5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_O6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_O6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_O7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions16
 ","<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>
@@ -174,7 +174,7 @@ CIAS_P2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_P3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_P4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_P5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_P6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_P6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_P7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions17
 ","<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>
@@ -185,7 +185,7 @@ CIAS_Q2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_Q3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Q4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Q5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_Q6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_Q6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Q7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions18
 ","<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>
@@ -196,7 +196,7 @@ CIAS_R2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_R3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_R4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_R5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_R6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_R6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_R7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions19
 ","<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>
@@ -207,7 +207,7 @@ CIAS_S2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_S3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_S4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_S5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_S6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_S6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_S7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions20
 ","<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>
@@ -218,7 +218,7 @@ CIAS_T2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_T3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_T4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_T5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_T6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_T6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_T7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions21
 ","<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>
@@ -229,7 +229,7 @@ CIAS_U2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_U3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_U4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_U5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_U6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_U6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_U7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions22
 ","<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>
@@ -240,7 +240,7 @@ CIAS_V2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_V3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_V4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_V5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_V6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_V6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_V7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions23
 ","<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>
@@ -251,7 +251,7 @@ CIAS_W2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_W3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_W4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_W5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_W6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_W6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_W7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions24
 ","<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the 
@@ -263,7 +263,7 @@ CIAS_X2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_X3,On social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_X4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_X5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_X6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_X6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_X7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions25
 ","<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>
@@ -274,7 +274,7 @@ CIAS_Y2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_Y3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Y4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Y5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_Y6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_Y6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Y7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 "Instructions26
 ","<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>
@@ -285,6 +285,6 @@ CIAS_Z2,Gaming,likert,Does not match my experience at all|Probably does <b>not</
 CIAS_Z3,Social media,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Z4,Messaging,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Z5,Streaming videos,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
-CIAS_Z6,Browsing,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
+CIAS_Z6,Reading content,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 CIAS_Z7,Shopping,likert,Does not match my experience at all|Probably does <b>not</b> match my experience|Probably matches my experience|Definitely matches my experience,0|1|2|3,yes,20%,
 ,,,,,,,
