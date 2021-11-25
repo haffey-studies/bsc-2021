@@ -1,0 +1,141 @@
+{
+  "all_procs": {
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n2,survey,user,This is the start of a new experiment.,off,phq8-pandemic.csv,"
+  },
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+  "all_stims": {
+    "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
+  },
+  "location": "haffey-studies/bsc-2021/phq8_pandemic",
+  "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
+  "surveys": {
+    "phq8-pandemic.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "score:phq9",
+        "optional",
+        "btn_width",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>During the Covid-19 pandemic, how often have you been bothered by any of the following problems?",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "PHQ1",
+        "little interest or pleasure in doing things?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ2",
+        "Feeling down, depressed, or hopeless?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ3",
+        "Trouble falling or staying asleep, or sleeping too much?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ4",
+        "Feeling tired or having little energy?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ5",
+        "Poor appetite or overeating?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ6",
+        "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ7",
+        "Trouble concentrating on things, such as reading the newspaper or watching the television? ",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "PHQ8",
+        "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
+        "likert",
+        "Not at all|Occassionally|More than half the days|Nearly every day",
+        "0|1|2|3",
+        "1",
+        "No",
+        "150px",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "phasetypes": {
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+  },
+  "procs_csv": {},
+  "stims_csv": {}
+}
