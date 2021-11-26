@@ -1,10 +1,14 @@
-item_name,text,type,answers,values,btn_width,score:probelm_solving,score:seeking_social_support,score:avoidance,
-Instructions1,"<span style='color:#006699'><span style='font-size:20px'>With the last 2 years and COVID-19 in mind, indicate to what extent you...</span></span>",instruct,,,,,,,
+item_name,text,type,answers,values,btn_width,score:problem_solving,score:seeking_social_support,score:avoidance,
+Instructions1,"<span style='color:#006699'><span style='font-size:20px'>
+  
+  <!-- With the last 2 years and COVID-19 in mind, -->
+
+<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",instruct,,,,,,,
 CSI.1,Let your feelings out to a friend?,likert,A lot|A little|Not at all,3|2|1,100px,,1,,
 CSI.2,Rearranged things around you so that your problem had the best chance of being resolved?,likert,A lot|A little|Not at all,3|2|1,100px,1,,,
 CSI.3,Brainstormed all possible solutions before deciding what do to?,likert,A lot|A little|Not at all,3|2|1,100px,1,,,
 CSI.4,Tried to distract yourself from the problem?,likert,A lot|A little|Not at all,3|2|1,100px,,,1,
-CSI.5,Accpeted sympathy and understanding from someone?,likert,A lot|A little|Not at all,3|2|1,100px,,1,,
+CSI.5,Accepted sympathy and understanding from someone?,likert,A lot|A little|Not at all,3|2|1,100px,,1,,
 CSI.6,Did all you could to keep others from seeing how bad things really were?,likert,A lot|A little|Not at all,3|2|1,100px,,,1,
 CSI.7,Talked to people about the situation because talking about it helped you to feel better?,likert,A lot|A little|Not at all,3|2|1,100px,,1,,
 CSI.8,Set some goals for yourself to deal with the situation?,likert,A lot|A little|Not at all,3|2|1,100px,1,,,
