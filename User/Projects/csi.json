@@ -17,14 +17,14 @@
         "answers",
         "values",
         "btn_width",
-        "score:probelm_solving",
+        "score:problem_solving",
         "score:seeking_social_support",
         "score:avoidance",
         ""
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>With the last 2 years and COVID-19 in mind, indicate to what extent you...</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>\n  \n  <!-- With the last 2 years and COVID-19 in mind, -->\n\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
         "instruct",
         "",
         "",
@@ -84,7 +84,7 @@
       ],
       [
         "CSI.5",
-        "Accpeted sympathy and understanding from someone?",
+        "Accepted sympathy and understanding from someone?",
         "likert",
         "A lot|A little|Not at all",
         "3|2|1",
