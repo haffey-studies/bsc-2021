@@ -161,7 +161,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Below are a series of statements. Please answer them as accurately as possible.<br>\r\n<br>",
+        "<span style='color:#006699'><span style='font-size:20px'>Below are a series of statements. Please answer them as accurately as possible.<br>\n<br>",
         "instruct",
         "",
         "",
@@ -412,7 +412,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic </u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\r\n</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic </u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\n</span></span>",
         "instruct",
         "",
         "",
@@ -2145,7 +2145,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>\r\n  \r\n  <!-- With the last 2 years and COVID-19 in mind, -->\r\n\r\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>\n  \n  <!-- With the last 2 years and COVID-19 in mind, -->\n\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
         "instruct",
         "",
         "",
@@ -4970,7 +4970,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you <span style='color:#ff0000'><b><u>generally (not just right now)</u></b></span> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel.\r\n</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you <span style='color:#ff0000'><b><u>generally (not just right now)</u></b></span> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel.\n</span></span>",
         "instruct",
         "",
         "",
@@ -5224,7 +5224,7 @@
       ],
       [
         "Instructions0",
-        "<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the <b><u>past 3 months</u></b><br>\r\n\r\n<span style='font-size:16px'>Please complete the blanks in the below statements with each type of digital activity. Choose one individual response per activity that best describes how strongly each matches your own experience:</span></span>",
+        "<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the <b><u>past 3 months</u></b><br>\n\n<span style='font-size:16px'>Please complete the blanks in the below statements with each type of digital activity. Choose one individual response per activity that best describes how strongly each matches your own experience:</span></span>",
         "instruct",
         "",
         "",
@@ -5233,7 +5233,7 @@
         ""
       ],
       [
-        "Instructions1\r\n",
+        "Instructions1\n",
         "<span style='color:#006699'><span style='font-size:20px'>I was told more than once that I spend too much time ______ online.<br></span>",
         "instruct",
         "",
@@ -5313,8 +5313,8 @@
         ""
       ],
       [
-        "Instructions2\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>\r\n<br>\r\n",
+        "Instructions2\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5393,8 +5393,8 @@
         ""
       ],
       [
-        "Instructions3\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>\r\n<br>\r\n",
+        "Instructions3\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5473,8 +5473,8 @@
         ""
       ],
       [
-        "Instructions4\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or \r\nunavailable. <br>\r\n<br>\r\n",
+        "Instructions4\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or \nunavailable. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5553,8 +5553,8 @@
         ""
       ],
       [
-        "Instructions5\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>\r\n<br>\r\n",
+        "Instructions5\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5633,8 +5633,8 @@
         ""
       ],
       [
-        "Instructions6\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>\r\n<br>\r\n",
+        "Instructions6\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5713,8 +5713,8 @@
         ""
       ],
       [
-        "Instructions7\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. \r\n <br>\r\n<br>\r\n",
+        "Instructions7\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. \n <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5793,8 +5793,8 @@
         ""
       ],
       [
-        "Instructions8\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>\r\n<br>\r\n",
+        "Instructions8\n",
+        "<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5873,8 +5873,8 @@
         ""
       ],
       [
-        "Instructions9\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>\r\n<br>\r\n",
+        "Instructions9\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -5953,8 +5953,8 @@
         ""
       ],
       [
-        "Instructions10\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>\r\n<br>\r\n",
+        "Instructions10\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6033,8 +6033,8 @@
         ""
       ],
       [
-        "Instructions11\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>\r\n<br>\r\n",
+        "Instructions11\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6113,8 +6113,8 @@
         ""
       ],
       [
-        "Instructions12\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>\r\n<br>\r\n",
+        "Instructions12\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6193,8 +6193,8 @@
         ""
       ],
       [
-        "Instructions13\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>\r\n",
+        "Instructions13\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>\n",
         "instruct",
         "",
         "",
@@ -6273,8 +6273,8 @@
         ""
       ],
       [
-        "Instructions14\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>\r\n<br>\r\n",
+        "Instructions14\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6353,8 +6353,8 @@
         ""
       ],
       [
-        "Instructions15\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>\r\n",
+        "Instructions15\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>\n",
         "instruct",
         "",
         "",
@@ -6433,8 +6433,8 @@
         ""
       ],
       [
-        "Instructions16\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>\r\n<br>\r\n",
+        "Instructions16\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6513,8 +6513,8 @@
         ""
       ],
       [
-        "Instructions17\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>\r\n<br>\r\n",
+        "Instructions17\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6593,8 +6593,8 @@
         ""
       ],
       [
-        "Instructions18\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>\r\n<br>\r\n",
+        "Instructions18\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6673,8 +6673,8 @@
         ""
       ],
       [
-        "Instructions19\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>\r\n<br>\r\n",
+        "Instructions19\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6753,8 +6753,8 @@
         ""
       ],
       [
-        "Instructions20\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>\r\n<br>\r\n",
+        "Instructions20\n",
+        "<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6833,8 +6833,8 @@
         ""
       ],
       [
-        "Instructions21\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>\r\n<br>\r\n",
+        "Instructions21\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6913,8 +6913,8 @@
         ""
       ],
       [
-        "Instructions22\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>\r\n<br>\r\n",
+        "Instructions22\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -6993,8 +6993,8 @@
         ""
       ],
       [
-        "Instructions23\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>\r\n<br>\r\n",
+        "Instructions23\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -7073,8 +7073,8 @@
         ""
       ],
       [
-        "Instructions24\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the \r\nsame satisfaction as before. <br>\r\n<br>\r\n",
+        "Instructions24\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the \nsame satisfaction as before. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -7153,8 +7153,8 @@
         ""
       ],
       [
-        "Instructions25\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>\r\n<br>\r\n",
+        "Instructions25\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -7233,8 +7233,8 @@
         ""
       ],
       [
-        "Instructions26\r\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>\r\n<br>\r\n",
+        "Instructions26\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>\n<br>\n",
         "instruct",
         "",
         "",
@@ -7465,7 +7465,7 @@
       ],
       [
         "Instructions2",
-        "<span style='font-size:20px'><h4>Android:</h4>\r\n- Go to your settings app<br>\r\n- Select the \"Digital wellbeing and parental controls\" tab<br>\r\n- Click on the \"Dashboard\" option<br>\r\n- This will show you the figures for each app individually<br>\r\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\r\n<br>\r\n<h4>Apple:</h4>\r\n- Go to your settings app <br>\r\n- Select the \"Screen Time\" tab<br>\r\nClick on \"See all activity\"<br>\r\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\r\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\r\nThen select categories under the \"Most used\" tab<br>\r\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
+        "<span style='font-size:20px'><h4>Android:</h4>\n- Go to your settings app<br>\n- Select the \"Digital wellbeing and parental controls\" tab<br>\n- Click on the \"Dashboard\" option<br>\n- This will show you the figures for each app individually<br>\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\n<br>\n<h4>Apple:</h4>\n- Go to your settings app <br>\n- Select the \"Screen Time\" tab<br>\nClick on \"See all activity\"<br>\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\nThen select categories under the \"Most used\" tab<br>\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
         "instruct",
         "",
         "",
@@ -7473,7 +7473,7 @@
       ],
       [
         "instruction_timings",
-        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\r\n\r\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
+        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\n\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
         "instruct",
         "",
         "",
