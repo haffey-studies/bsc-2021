@@ -19,106 +19,29 @@
         "optional",
         "side_by_side",
         "question_width",
-        null
+        ""
       ],
       [
         "Instructions1",
-        "\n\n<h1>THANK YOU!</h1>\n\n<p>Thank you for participating in the study. The aim of this study was to investigate the relationships between autistic traits, experience of the pandemic, digital behaviour, anxiety and depression.</p>\n\n<p>We hope that you have found the study an interesting and positive experience. However, if you have found any part of this experience to be distressing and you wish to speak to one of the experimenters, please contact Dr Anthony Haffey (a.haffey@reading.ac.uk).</p>\n\n<p>There are also a few organisations listed below that you can contact.</p>\n\n<style>\n#contact_table td{\n  border: 1px solid black;\n}\n</style>\n<table id=\"contact_table\">\n  <tr>\n    <td>Organisation</td>\n    <td>What they offer</td>\n    <td>Contact Details</td>\n  </tr>\n  <tr>\n    <td>Mind</td>\n    <td>Promotes the views and needs of people with mental health difficulties</td>\n    <td>Ph: 0300 123 3393 <br>\n(Monday-Friday, 9am to 6pm) <br>\nWeb: www.mind.org.uk</td>\n  </tr>\n  <tr>\n    <td>Samaritans </td>\n    <td>Confidential support for people experiencing feelings of distress or despair</td>\n    <td>Ph: 116 123 <br>\n(Free 24-hour helpline) <br>\nWeb: www.samaritans.org.uk</td>\n  </tr>\n  <tr>\n    <td>SANE</td>\n    <td>Emotional support, information and guidance for people affected by mental illness, their families and carers</td>\n    <td>Ph: 0300 304 7000 <br>\n(Daily, 4.30pm to 10.30pm)<br>\nTextcare: comfort and care via text message, sent when the person needs it most: www.sane.org.uk/textcare <br>\nPeer support forum: <br>\nwww.sane.org.uk/supportforum; <br>\nWeb: www.sane.org.uk/support</td>\n  </tr>\n  <tr>\n    <td>National Autistic Society</td>\n    <td>Provides advice, guidance, help and support on the challenges autistic people and their families face.</td>\n    <td>Web: www.autism.org.uk</td>\n  </tr>\n</table>\n\n\n<br>\n<p>Your GP can also help you find specific support services in your local area. If you are in immediate risk, or you feel like you cannot keep yourself safe, please phone 999.</p>\n\n\n<p>Thank you again for taking part in our research, and please feel free to contact Dr Anthony Haffey (a.haffey@reading.ac.uk) should you have any questions, concerns, or feedback.</p>\n\n\n<p>If you have any questions or concerns about the research, please feel free to contact Anthony Haffey.</p>\n<br>\nEmail: a.haffey@reading.ac.uk<br>\n<br>\nThank you for your help.",
+        "\r\n\r\n<h1>THANK YOU!</h1>\r\n\r\n<p>Thank you for participating in the study. The aim of this study was to investigate the relationships between autistic traits, experience of the pandemic, digital behaviour, anxiety and depression.</p>\r\n\r\n<p>We hope that you have found the study an interesting and positive experience. However, if you have found any part of this experience to be distressing and you wish to speak to one of the experimenters, please contact Dr Anthony Haffey (a.haffey@reading.ac.uk).</p>\r\n\r\n<p>There are also a few organisations listed below that you can contact.</p>\r\n\r\n<style>\r\n#contact_table td{\r\n  border: 1px solid black;\r\n}\r\n</style>\r\n<table id=\"contact_table\">\r\n  <tr>\r\n    <td>Organisation</td>\r\n    <td>What they offer</td>\r\n    <td>Contact Details</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Mind</td>\r\n    <td>Promotes the views and needs of people with mental health difficulties</td>\r\n    <td>Ph: 0300 123 3393 <br>\r\n(Monday-Friday, 9am to 6pm) <br>\r\nWeb: www.mind.org.uk</td>\r\n  </tr>\r\n  <tr>\r\n    <td>Samaritans </td>\r\n    <td>Confidential support for people experiencing feelings of distress or despair</td>\r\n    <td>Ph: 116 123 <br>\r\n(Free 24-hour helpline) <br>\r\nWeb: www.samaritans.org.uk</td>\r\n  </tr>\r\n  <tr>\r\n    <td>SANE</td>\r\n    <td>Emotional support, information and guidance for people affected by mental illness, their families and carers</td>\r\n    <td>Ph: 0300 304 7000 <br>\r\n(Daily, 4.30pm to 10.30pm)<br>\r\nTextcare: comfort and care via text message, sent when the person needs it most: www.sane.org.uk/textcare <br>\r\nPeer support forum: <br>\r\nwww.sane.org.uk/supportforum; <br>\r\nWeb: www.sane.org.uk/support</td>\r\n  </tr>\r\n  <tr>\r\n    <td>National Autistic Society</td>\r\n    <td>Provides advice, guidance, help and support on the challenges autistic people and their families face.</td>\r\n    <td>Web: www.autism.org.uk</td>\r\n  </tr>\r\n</table>\r\n\r\n\r\n<br>\r\n<p>Your GP can also help you find specific support services in your local area. If you are in immediate risk, or you feel like you cannot keep yourself safe, please phone 999.</p>\r\n\r\n\r\n<p>Thank you again for taking part in our research. If you have any questions or concerns about the research, please feel free to contact Anthony Haffey.</p>\r\n<br>\r\nEmail: a.haffey@reading.ac.uk<br>\r\n<br>\r\nThank you for your help.",
         "instruct",
         "",
         "",
         "",
         "",
         "",
-        null
+        ""
       ],
       [
-        "uor_consent_1",
-        "I understand that my participation in this study is voluntary and that I may withdraw any time without giving any reason.",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_2",
-        "I have read the information sheet about this study and the procedure of the study has been explained to me.",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_3",
-        "I have been given the opportunity to ask any questions that I may have about the study and these have been answered to my satisfaction.",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_4",
-        "I understand that the data collected from me in this study will be preserved and made available in anonymised form, so that they can be consulted and re-used by others.",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_5",
-        "I am happy to be contacted about future studies (optional)",
-        "checkbox",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_6",
-        "First name",
-        "text",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        "uor_consent_7",
-        "Last name",
-        "text",
-        "Agree",
-        "1",
-        "No",
-        "yes",
-        "70%",
-        null
-      ],
-      [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     ]
   },
