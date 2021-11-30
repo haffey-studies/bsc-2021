@@ -1,6 +1,6 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n2 to 81,emotion_recognition,user,This is the start of a new experiment.,off,,\r\n0,survey,user,,off,autism_quotient.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n2 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,survey,user,,off,autism_quotient.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
   "all_stims": {
