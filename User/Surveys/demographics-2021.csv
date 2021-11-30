@@ -7,5 +7,5 @@ English_Age,"At what age did you start learning English? (write ""0"" if from bi
 Country,What is your country of residence?,text,,no,,,,
 Handedness,What is your preferred hand?,likert,Left|Right|Both,no,,yes,100px,
 Ethnicity,Please state your ethnicity,dropdown,Asian|Black|Caucasian|Hispanic|Other,no,,yes,100px,
-Other,"If you've answered other, please state your ethnicity (including mixed ethnicities)",text,,no,,,,
+Other,"If you've answered other, please state your ethnicity (including mixed ethnicities)",text,,yes,,,,
 ,,,,,,,,
