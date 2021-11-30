@@ -1,5 +1,5 @@
 item_name,text,type,answers,values,score:optimism,optional,btn_width,
-Instructions1,"<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic </u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.
+Instructions1,"<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic</u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.
 </span></span>",instruct,,,,,,
 stai_1,I feel calm,likert,Not at all|A little|Somewhat|Very Much So,0|1|2|3|4,r1,no,150px,
 stai_2,I feel secure,likert,Not at all|A little|Somewhat|Very Much So,0|1|2|3|4,r1,no,150px,
