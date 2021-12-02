@@ -5387,7 +5387,7 @@
       },
       "emotion_recognition": {
         "all_procs": {
-          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\",off,,\r\n0,instruct,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,\r\n0,instruct,,you're about to start block 1 of 2,off,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,instruct,,you're about to start block 2 of 2,off,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,survey,user,,off,autism_quotient.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
+          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,audio_check_file,possible_responses,\r\n0,survey,user,,off,bsc-2021-info.csv,,,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\",off,,,,\r\n0,audio_check_code,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,../User/Stimuli/1086_TAI_NEU_XX.wav,\"[\r\n  \"\"It's eleven o'clock\"\",\r\n  \"\"That is exactly what happened\"\",\r\n  \"\"I'm on my way to the meeting\"\",\r\n  \"\"I wonder what this is about\"\",\r\n  \"\"The airplane is almost full\"\",\r\n  \"\"Maybe tomorrow it will be cold\"\",\r\n  \"\"I would like a new alarm clock\"\",\r\n  \"\"I think I have a doctor's appointment\"\",\r\n  \"\"Don't forget a jacket\"\",\r\n  \"\"I think I've seen this before\"\",\r\n  \"\"The surface is slick\"\",\r\n  \"\"We'll stop in a couple of minutes\"\"\r\n]\",\r\n0,instruct,,you're about to start block 1 of 2,off,,,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,\r\n0,instruct,,you're about to start block 2 of 2,off,,,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,\r\n0,survey,user,,off,autism_quotient.csv,,,\r\n0,survey,user,,off,demographics-2021.csv,,,\r\n0,survey,user,,off,bsc-2021-debrief.csv,,,"
         },
         "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
         "all_stims": {
@@ -6496,6 +6496,7 @@
         "phasetypes": {
           "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
           "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
+          "audio_check_code": "[[[LOCATION]]]../User/PhaseTypes/audio_check_code.html",
           "emotion_recognition": "[[[LOCATION]]]../User/PhaseTypes/emotion_recognition.html"
         },
         "procs_csv": {},
@@ -14562,7 +14563,7 @@
       },
       "all_tasks": {
         "all_procs": {
-          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,alphabetical_list,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\r\n\",off,,,\r\n0,instruct,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,,\r\n0,instruct,,you're about to start block 1 of 2,off,,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,\r\n0,instruct,,you're about to start block 2 of 2,off,,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,,adhd.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,autism_quotient.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,belief_about_compliance.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,compliance.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,covid_news.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,csi.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,digital_addiction.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,ipip_extraversion.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,ipip_neuroticism.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8-pandemic.csv,,\r\n0,survey,user,This is the start of a new experiment.,surveys,,pb.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8.csv,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_activity.csv,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_anxiety.csv,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_behaviours.csv,stai-trait.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,resilience.csv,stai-pandemic.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,,symptoms_and_exposure.csv,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_lifestyle.csv,,\r\n0,survey,user,This is the start of a new experiment.,surveys,,,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,,"
+          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,alphabetical_list,audio_check_file,possible_responses,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,,,,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\r\n\",off,,,,,\r\n0,audio_check_code,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,,../User/Stimuli/1086_TAI_NEU_XX.wav,\"[\r\n  \"\"It's eleven o'clock\"\",\r\n  \"\"That is exactly what happened\"\",\r\n  \"\"I'm on my way to the meeting\"\",\r\n  \"\"I wonder what this is about\"\",\r\n  \"\"The airplane is almost full\"\",\r\n  \"\"Maybe tomorrow it will be cold\"\",\r\n  \"\"I would like a new alarm clock\"\",\r\n  \"\"I think I have a doctor's appointment\"\",\r\n  \"\"Don't forget a jacket\"\",\r\n  \"\"I think I've seen this before\"\",\r\n  \"\"The surface is slick\"\",\r\n  \"\"We'll stop in a couple of minutes\"\"\r\n]\",\r\n0,instruct,,you're about to start block 1 of 2,off,,,,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,instruct,,you're about to start block 2 of 2,off,,,,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,adhd.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,autism_quotient.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,belief_about_compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_lifestyle.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_news.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_stress.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,csi.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_activity.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_addiction.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_extraversion.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_neuroticism.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,pb.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_anxiety.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_behaviours.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,resilience.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,social_media_trends.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-trait.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,symptoms_and_exposure.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,,,,"
         },
         "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url_backup,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
         "all_stims": {
@@ -22998,11 +22999,244 @@
               "",
               ""
             ]
+          ],
+          "social_media_trends.csv": [
+            [
+              "item_name",
+              "text",
+              "type",
+              "answers",
+              "values",
+              "optional",
+              "btn_width",
+              ""
+            ],
+            [
+              "Instructions1",
+              "<span style='color:#006699'><span style='font-size:20px'>Please answer the following statements according to your behaviour throughout the Covid-19 pandemic i.e., ‘throughout lockdown I took part in...’/ ‘throughout lockdown I was inspired by social media to take part in...’ </span></span>\r\n<br>\r\nSome of the statements have prompts and examples to aid recall, but please think carefully so that answers are as genuine as possible.\r\nThis questionnaire should take no more than 5 minutes",
+              "instruct",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "sm_trend_1",
+              "Exercise challenges (e.g. ‘run 5, donate 5, tag 5’) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_2",
+              "Following a new exercise instructor/influencer (e.g. Grace fit, Joe Wicks, Chloe Ting) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_3",
+              "Cooking new things/ cooking challenges (e.g. ‘tomato feta pasta’ on tiktok) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_4",
+              "Baking new things/ baking challenges (e.g. ‘cloud bread’, ‘pancake cereal’, ‘rainbow cakes’) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_5",
+              "Campaigning for social and political movements ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_6",
+              "Downloaded/ started using video chat apps more often (e.g. ‘houseparty’) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_7",
+              "Challenges involving alcoholic beverages (e.g. Snapchat/Instagram pint challenge) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_8",
+              "Change of diet/ eating challenges ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_9",
+              "Shopping (e.g. buying new appliances, clothes, cosmetics, ingredients, or any other product) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_10",
+              "Hair and beauty trends ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_11",
+              "Changing my style or physical appearances",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_12",
+              "Changing my beliefs or believing in something new (e.g. political, religious, spiritual, theoretical, conspiracy) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_13",
+              "Changing my opinion on the covid vaccine - (e.g. whether or not to receive it)",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_14",
+              "Having a change in opinion/ acceptance of previously controversial ideas (e.g. body positivity, diminishing gender norms) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_15",
+              "Forming alternative methods of income (e.g. crypto/stocks, small business) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_16",
+              "Watching trending TV shows/movies (e.g. tiger king) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_17",
+              "Creative tiktok challenges (e.g. dance, art) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_18",
+              "Changing my attitudes towards people present on online platforms i.e. Celebrities and influencers (e.g. ‘cancel culture’, James Charles, Kanye West) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_19",
+              "Renovating/ decorating my home or another home or part of ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "sm_trend_20",
+              "Following a trend that includes my pet (e.g. getting my dog to hold an egg, showing your dog as a puppy compared to now) ",
+              "likert",
+              "Strongly Disagree|Disagree|Neither|Agree|Strongly Agree",
+              "0|1|2|3|4",
+              "no",
+              "100px",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
           ]
         },
         "phasetypes": {
           "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
           "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
+          "audio_check_code": "[[[LOCATION]]]../User/PhaseTypes/audio_check_code.html",
           "emotion_recognition": "[[[LOCATION]]]../User/PhaseTypes/emotion_recognition.html"
         },
         "procs_csv": {},
@@ -38336,7 +38570,9 @@
       "stroop": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:{{color}};\n  font-size:20px;\n  height:50px;\n  left:182px;\n  top:179px;\n  width:50px;\n  z-index:0;\n}\n</style>\n<input type='hidden' id='keyboard_response' name='keyboard_response'/>\n<div id='trial_contents'>\n  <button id='canvas_element_0' value='' class='end_trial  update_name' style='border:0; background-color:transparent'><span style='width:100%;height:100%'>{{cue}}</span></button>\n</div>\n<input type='hidden' name='' />\n<script>\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\n</script>\n",
       "emotion_recognition": "<!--\r\n  Video-audio emotion recognition task\r\n  Author: Dr. Anthony Haffey (2021)\r\n\r\nTrial design \r\n- click on the center to start the trial\r\n-\tFixation cross (500ms)\r\n-\tAudio-visual at the same time (determined by the video length)\r\n-\tAll five emotions equi-distant from the center (5 seconds) (include timer)\r\n-\tConfidence rating (5 seconds) (include timer)\r\n\r\n-->\r\n<style>\r\n#emotion_video{\r\n  height:   400px;\r\n  width:    400px;\r\n  position: absolute;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  margin: auto;\r\n  display:none;\r\n}\r\n#fixation_cross{\r\n  font-size:60px;\r\n  height:   100px;\r\n  width:    100px;\r\n  position: absolute;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  margin: auto;\r\n  display:none;\r\n  text-align: center;\r\n  margin: auto;\r\n  text-align: center;\r\n}\r\n#response_buttons{\r\n  height:   450px;\r\n  width:    600px;\r\n  position: absolute;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  margin: auto;\r\n  display:none;\r\n}\r\n.response_btn{\r\n  font-size:30px;\r\n  width:200px;\r\n}\r\n\r\n#angry_btn{\r\n  position:absolute;\r\n  top:20px;\r\n  left:200px;\r\n}\r\n#disgust_btn{\r\n  position:absolute;\r\n  top:200px;\r\n  left:400px;\r\n}\r\n#fear_btn{\r\n  position:absolute;\r\n  top:380px;\r\n  left:350px;\r\n}\r\n#happiness_btn{\r\n  position:absolute;\r\n  top:380px;\r\n  left:60px;\r\n  \r\n}\r\n#sad_btn{\r\n  position:absolute;\r\n  top:200px;\r\n  left:0px;\r\n}\r\n\r\n#confidence_buttons{\r\n  height:   50px;\r\n  width:    600px;\r\n  position: absolute;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  margin: auto;\r\n  text-align: center;\r\n  display:none;\r\n}\r\n\r\n#start_btn{\r\n  height:   50px;\r\n  width:    50px;\r\n  position: absolute;\r\n  top: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  right: 0;\r\n  margin: auto;\r\n}\r\n\r\n</style>\r\n<button id=\"start_btn\">Start</button>\r\n<div id=\"fixation_cross\">+</div>\r\n\r\n<video width=\"320\" height=\"240\" id=\"emotion_video\" muted>\r\n  <source src=\"{{video_file}}\">\r\n</video>\r\n<audio id=\"emotion_audio\">\r\n  <source src=\"{{audio_file}}\">\r\n</audio>\r\n\r\n<div id=\"response_buttons\">\r\n  <button class=\"response_btn btn btn-primary\" id=\"angry_btn\">Angry</button>\r\n  <button class=\"response_btn btn btn-primary\" id=\"disgust_btn\">Disgust</button>\r\n  <button class=\"response_btn btn btn-primary\" id=\"fear_btn\">Fear</button>\r\n  <button class=\"response_btn btn btn-primary\" id=\"happiness_btn\">Happiness</button>\r\n  <button class=\"response_btn btn btn-primary\" id=\"sad_btn\">Sad</button>\r\n</div>\r\n\r\n<div id=\"confidence_buttons\">\r\n  Not at all confident\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_1_btn\">1</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_2_btn\">2</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_3_btn\">3</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_4_btn\">4</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_5_btn\">5</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_6_btn\">6</button>\r\n  <button class=\"confidence_btn btn btn-primary\" id=\"conf_7_btn\">7</button>\r\n  Completely confident\r\n</div>\r\n\r\n<input type=\"hidden\" id=\"confidence_response\" name=\"confidence_response\"/>\r\n<input type=\"hidden\" id=\"emotion_response\"    name=\"emotion_response\"/>\r\n<input type=\"hidden\" id=\"emotion_rt\"          name=\"emotion_rt\"/>\r\n\r\n<script>\r\nvar audio_ended = false;\r\nvar video_ended = false;\r\n$(\"#start_btn\").on(\"click\",function(){\r\n  $(\"#start_btn\").hide();\r\n  $(\"#fixation_cross\").show();\r\n  setTimeout(function(){\r\n    $(\"#fixation_cross\").hide();\r\n    $(\"#emotion_video\").show();\r\n    $(\"#emotion_video\").trigger(\"play\");\r\n    $(\"#emotion_audio\").trigger(\"play\");  \r\n  },500);\r\n});\r\n$(\"#emotion_audio\").on(\"ended\", function(){\r\n  audio_ended = true;\r\n  if(video_ended){\r\n    show_responses();\r\n  }\r\n});\r\n\r\n$(\"#emotion_video\").on(\"ended\", function(){\r\n  video_ended = true;\r\n  if(audio_ended){\r\n    show_responses();\r\n  }\r\n});\r\n\r\nvar baseline_time;\r\nfunction show_responses(){\r\n  $(\"#emotion_video\").hide();\r\n  $(\"#response_buttons\").show();\r\n  baseline_time = new Date().getTime();\r\n  setTimeout(function(){\r\n    $(\"#response_buttons\").hide();\r\n    $(\"#confidence_buttons\").show();\r\n  },5000);\r\n}\r\n\r\n$(\".confidence_btn\").on(\"click\", function(){\r\n  $(\"#confidence_response\").val(this.innerHTML);\r\n  Phase.submit();\r\n});\r\n\r\n$(\".response_btn\").on(\"click\", function(){\r\n  var response_time = new Date().getTime() - baseline_time;\r\n  $(\"#emotion_rt\").val(response_time)\r\n  $(\"#emotion_response\").val(this.innerHTML);\r\n  $(\"#response_buttons\").hide();\r\n  $(\"#confidence_buttons\").show();\r\n  setTimeout(function(){\r\n    Phase.submit();\r\n  },5000);\r\n  \r\n});\r\n\r\n</script>",
       "graphic_example": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:black;\n  font-size:20px;\n  height:50px;\n  left:195px;\n  top:107px;\n  width:50px;\n  z-index:0;\n}\n</style>\n<input type='hidden' id='keyboard_response' name='keyboard_response'/>\n<div id='trial_contents'>\n  <button id='canvas_element_0' value='' class=' update_name' style='border:0; background-color:transparent'><span style='width:100%;height:100%'>canvas_element_0 html</span></button>\n</div>\n<input type='hidden' name='' />\n<script>\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\n</script>\n",
-      "graphic_to_delete": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:black;\n  font-size:20px;\n  height:50px;\n  left:165px;\n  top:104px;\n  width:50px;\n  z-index:0;\n}\n</style>\n<input type='hidden' id='keyboard_response' name='keyboard_response'/>\n<div id='trial_contents'>\n  <button id='canvas_element_0' value='' class=' update_name' style='border:0; background-color:transparent'><span style='width:100%;height:100%'>canvas_element_0 html</span></button>\n</div>\n<input type='hidden' name='' />\n<script>\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\n</script>\n"
+      "graphic_to_delete": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:black;\n  font-size:20px;\n  height:50px;\n  left:165px;\n  top:104px;\n  width:50px;\n  z-index:0;\n}\n</style>\n<input type='hidden' id='keyboard_response' name='keyboard_response'/>\n<div id='trial_contents'>\n  <button id='canvas_element_0' value='' class=' update_name' style='border:0; background-color:transparent'><span style='width:100%;height:100%'>canvas_element_0 html</span></button>\n</div>\n<input type='hidden' name='' />\n<script>\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\n</script>\n",
+      "audio_check": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  height:100px;\n  left:117px;\n  top:158px;\n  width:200px;\n  z-index:0;\n}\n#canvas_element_1{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:black;\n  font-size:12px;\n  height:100px;\n  left:110px;\n  top:150px;\n  width:100px;\n  z-index:0;\n}\n</style>\n<input type='hidden' id='keyboard_response' name='keyboard_response'/>\n<div id='trial_contents'>\n  <button id='canvas_element_0' value='' class='audio_response update_name' style='border:0; background-color:transparent'>\n    <audio  style='object-fit: fill; width:100%; height:100%'>\n      <source src=''>\n    </audio>\n  </button>\n  <input id='canvas_element_1' class='button_response update_name' type='button' value='canvas_element_1 value' />\n</div>\n<input type='hidden' name='audio_response' />\n<input type='hidden' name='button_response' />\n<script>\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\nPhase.set_timer(function(){$('#canvas_element_0').find('audio')[0].play()},'0');//Phase.set_timer is a Collector function required because of buffering (which prevents the use of setTimeout)\n</script>\n",
+      "audio_check_code": "<style>\n.update_name:focus{\n  border:0;\n}\n#trial_contents{\n  position: absolute;\n  top:0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  margin:auto;\n  width:600;\n  height:600;\n}\nbody{\n  background-color:white;\n}\n#canvas_element_0{\n  position:absolute;\n  height:100px;\n  left:117px;\n  top:158px;\n  width:200px;\n  z-index:0;\n}\n#canvas_element_1{\n  position:absolute;\n  background-color:transparent;\n  border-color:;\n  border-radius:;\n  border-style:;\n  border-width:;\n  color:black;\n  font-size:12px;\n  height:100px;\n  left:110px;\n  top:150px;\n  width:100px;\n  z-index:0;\n}\n</style>\n<div id='trial_contents'>\n  <audio  id=\"audio_check_file\" style='object-fit: fill; width:100%' controls>\n    <source src='{{audio_check_file}}'>\n  </audio>\n  <div id=\"response_buttons\"></div>\n</div>\n<input type='hidden' id=\"audio_check_response\" name='audio_check_response'/>\n<script>\n\n{{possible_responses}}.forEach(function(possible_response){\n  $(\"#response_buttons\")\n    .append(\n      $(\"<button>\")\n        .html(possible_response)\n        .addClass(\"btn\")\n        .addClass(\"btn-primary\")\n        .addClass(\"response_btn\")\n        .css(\"margin\", \"4px\")\n        .css(\"width\", \"100%\")\n    )\n    .append(\"<br>\")\n});\n\n$(\".response_btn\").on(\"click\", function(){\n  $(\"#audio_check_response\").val(this.innerHTML);\n  Phase.submit();\n});\n\n\n$('.update_name').on('click',function(){\n  var class_list = this.className.split(' ');\n  var end_trial = false;\n  if(class_list.indexOf('end_trial') !== -1){\n    end_trial = true;\n\t }\n  class_list.splice(class_list.indexOf('end_trial'),1);\n  class_list.splice(class_list.indexOf('update_name'),1);\n  $('input[name = \"' + class_list + '\"]').val(this.value);\n  if(end_trial){\n    Phase.submit();\n  }\n});\nPhase.set_timer(function(){\n  $('#audio_check_file').trigger(\"play\");\n},0);//Phase.set_timer is a Collector function required because of buffering (which prevents the use of setTimeout)\n</script>\n"
     },
     "graphic": {
       "files": {
@@ -38427,6 +38663,149 @@
             "end_press": true
           },
           "mods": {}
+        },
+        "audio_check": {
+          "elements": {
+            "canvas_element_0": {
+              "left": {
+                "type": "text",
+                "value": "117px"
+              },
+              "top": {
+                "type": "text",
+                "value": "158px"
+              },
+              "z-index": {
+                "type": "number",
+                "value": 0
+              },
+              "show": {
+                "type": "text",
+                "value": 0
+              },
+              "hide": {
+                "type": "text",
+                "value": ""
+              },
+              "type": "audio",
+              "src": {
+                "type": "text",
+                "value": ""
+              },
+              "delay": {
+                "type": "text",
+                "value": "0"
+              },
+              "width": {
+                "type": "text",
+                "value": "200px"
+              },
+              "height": {
+                "type": "text",
+                "value": "100px"
+              },
+              "name": {
+                "type": "text",
+                "value": "audio_response"
+              },
+              "value": {
+                "type": "text",
+                "value": ""
+              },
+              "end_click": {
+                "type": "checkbox",
+                "value": false
+              },
+              "controls": {
+                "type": "checkbox",
+                "value": false
+              }
+            },
+            "canvas_element_1": {
+              "left": {
+                "type": "text",
+                "value": "110px"
+              },
+              "top": {
+                "type": "text",
+                "value": "150px"
+              },
+              "z-index": {
+                "type": "number",
+                "value": 0
+              },
+              "show": {
+                "type": "text",
+                "value": 0
+              },
+              "hide": {
+                "type": "text",
+                "value": ""
+              },
+              "type": "input",
+              "color": {
+                "type": "text",
+                "value": "black"
+              },
+              "background-color": {
+                "type": "text",
+                "value": "transparent"
+              },
+              "value": {
+                "type": "text",
+                "value": "canvas_element_1 value"
+              },
+              "font-size": {
+                "type": "text",
+                "value": "12px"
+              },
+              "input_type": {
+                "type": "text",
+                "value": "button"
+              },
+              "name": {
+                "type": "text",
+                "value": "button_response"
+              },
+              "width": {
+                "type": "text",
+                "value": "100px"
+              },
+              "height": {
+                "type": "text",
+                "value": "100px"
+              },
+              "border-style": {
+                "type": "text",
+                "value": ""
+              },
+              "border-width": {
+                "type": "text",
+                "value": ""
+              },
+              "border-color": {
+                "type": "text",
+                "value": ""
+              },
+              "border-radius": {
+                "type": "text",
+                "value": ""
+              },
+              "end_click": {
+                "type": "checkbox",
+                "value": false
+              }
+            }
+          },
+          "width": "600",
+          "height": "600",
+          "background-color": "white",
+          "mouse_visible": true,
+          "keyboard": {
+            "valid_keys": "",
+            "end_press": true
+          },
+          "mods": {}
         }
       },
       "relevant_styles": [
@@ -38443,9 +38822,9 @@
         "width",
         "z-index"
       ],
-      "element_id": "canvas_element_0",
+      "element_id": "canvas_element_1",
       "hovered_element": ""
     },
-    "file": "emotion_recognition"
+    "file": "audio_check_code"
   }
 }

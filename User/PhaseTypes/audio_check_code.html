@@ -1,0 +1,87 @@
+<style>
+.update_name:focus{
+  border:0;
+}
+#trial_contents{
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin:auto;
+  width:600;
+  height:600;
+}
+body{
+  background-color:white;
+}
+#canvas_element_0{
+  position:absolute;
+  height:100px;
+  left:117px;
+  top:158px;
+  width:200px;
+  z-index:0;
+}
+#canvas_element_1{
+  position:absolute;
+  background-color:transparent;
+  border-color:;
+  border-radius:;
+  border-style:;
+  border-width:;
+  color:black;
+  font-size:12px;
+  height:100px;
+  left:110px;
+  top:150px;
+  width:100px;
+  z-index:0;
+}
+</style>
+<div id='trial_contents'>
+  <audio  id="audio_check_file" style='object-fit: fill; width:100%' controls>
+    <source src='{{audio_check_file}}'>
+  </audio>
+  <div id="response_buttons"></div>
+</div>
+<input type='hidden' id="audio_check_response" name='audio_check_response'/>
+<script>
+
+{{possible_responses}}.forEach(function(possible_response){
+  $("#response_buttons")
+    .append(
+      $("<button>")
+        .html(possible_response)
+        .addClass("btn")
+        .addClass("btn-primary")
+        .addClass("response_btn")
+        .css("margin", "4px")
+        .css("width", "100%")
+    )
+    .append("<br>")
+});
+
+$(".response_btn").on("click", function(){
+  $("#audio_check_response").val(this.innerHTML);
+  Phase.submit();
+});
+
+
+$('.update_name').on('click',function(){
+  var class_list = this.className.split(' ');
+  var end_trial = false;
+  if(class_list.indexOf('end_trial') !== -1){
+    end_trial = true;
+	 }
+  class_list.splice(class_list.indexOf('end_trial'),1);
+  class_list.splice(class_list.indexOf('update_name'),1);
+  $('input[name = "' + class_list + '"]').val(this.value);
+  if(end_trial){
+    Phase.submit();
+  }
+});
+Phase.set_timer(function(){
+  $('#audio_check_file').trigger("play");
+},0);//Phase.set_timer is a Collector function required because of buffering (which prevents the use of setTimeout)
+</script>
