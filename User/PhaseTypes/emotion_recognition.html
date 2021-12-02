@@ -79,6 +79,20 @@ Trial design
   top:200px;
   left:0px;
 }
+
+#confidence_buttons{
+  height:   50px;
+  width:    600px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  display:none;
+}
+
 #start_btn{
   height:   50px;
   width:    50px;
@@ -109,8 +123,21 @@ Trial design
   <button class="response_btn btn btn-primary" id="sad_btn">Sad</button>
 </div>
 
-<input type="hidden" id="emotion_response" name="emotion_response"/>
-<input type="hidden" id="emotion_rt"       name="emotion_rt"/>
+<div id="confidence_buttons">
+  Not at all confident
+  <button class="confidence_btn btn btn-primary" id="conf_1_btn">1</button>
+  <button class="confidence_btn btn btn-primary" id="conf_2_btn">2</button>
+  <button class="confidence_btn btn btn-primary" id="conf_3_btn">3</button>
+  <button class="confidence_btn btn btn-primary" id="conf_4_btn">4</button>
+  <button class="confidence_btn btn btn-primary" id="conf_5_btn">5</button>
+  <button class="confidence_btn btn btn-primary" id="conf_6_btn">6</button>
+  <button class="confidence_btn btn btn-primary" id="conf_7_btn">7</button>
+  Completely confident
+</div>
+
+<input type="hidden" id="confidence_response" name="confidence_response"/>
+<input type="hidden" id="emotion_response"    name="emotion_response"/>
+<input type="hidden" id="emotion_rt"          name="emotion_rt"/>
 
 <script>
 var audio_ended = false;
@@ -141,19 +168,30 @@ $("#emotion_video").on("ended", function(){
 
 var baseline_time;
 function show_responses(){
-  setTimeout(function(){
-    Phase.submit();
-  },5000);
   $("#emotion_video").hide();
   $("#response_buttons").show();
   baseline_time = new Date().getTime();
+  setTimeout(function(){
+    $("#response_buttons").hide();
+    $("#confidence_buttons").show();
+  },5000);
 }
+
+$(".confidence_btn").on("click", function(){
+  $("#confidence_response").val(this.innerHTML);
+  Phase.submit();
+});
 
 $(".response_btn").on("click", function(){
   var response_time = new Date().getTime() - baseline_time;
   $("#emotion_rt").val(response_time)
   $("#emotion_response").val(this.innerHTML);
-  Phase.submit();
+  $("#response_buttons").hide();
+  $("#confidence_buttons").show();
+  setTimeout(function(){
+    Phase.submit();
+  },5000);
+  
 });
 
 </script>

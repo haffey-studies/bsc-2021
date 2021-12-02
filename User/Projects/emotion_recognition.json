@@ -1,6 +1,6 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n2 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,survey,user,,off,autism_quotient.csv,\r\n0,survey,user,,off,,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\",off,,\r\n0,instruct,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,\r\n0,instruct,,you're about to start block 1 of 2,off,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,instruct,,you're about to start block 2 of 2,off,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,\r\n0,survey,user,,off,autism_quotient.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
   "all_stims": {
@@ -981,10 +981,134 @@
       [
         ""
       ]
+    ],
+    "demographics-2021.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "optional",
+        "values",
+        "side_by_side",
+        "btn_width",
+        ""
+      ],
+      [
+        "Gender",
+        "Gender",
+        "likert",
+        "Female|Male|Other",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Age",
+        "Age",
+        "number",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Education",
+        "Education (which level are you currently in, or is the highest you've completed)",
+        "dropdown",
+        "Some high school| High school graduate| Some college, no degree| Associate's degree| Bachelor's degree|Graduate degree (Master's, Doctorate, etc.)",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "English_Fluency",
+        "Do you speak English fluently?",
+        "likert",
+        "Yes|No",
+        "no",
+        "",
+        "yes",
+        "200px",
+        ""
+      ],
+      [
+        "English_Age",
+        "At what age did you start learning English? (write \"0\" if from birth)",
+        "number",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Country",
+        "What is your country of residence?",
+        "text",
+        "",
+        "no",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Handedness",
+        "What is your preferred hand?",
+        "likert",
+        "Left|Right|Both",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Ethnicity",
+        "Please state your ethnicity",
+        "dropdown",
+        "Asian|Black|Caucasian|Hispanic|Other",
+        "no",
+        "",
+        "yes",
+        "100px",
+        ""
+      ],
+      [
+        "Other",
+        "If you've answered other, please state your ethnicity (including mixed ethnicities)",
+        "text",
+        "",
+        "yes",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
     ]
   },
   "phasetypes": {
     "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
+    "instruct": "[[[LOCATION]]]../Default/DefaultPhaseTypes/instruct.html",
     "emotion_recognition": "[[[LOCATION]]]../User/PhaseTypes/emotion_recognition.html"
   },
   "procs_csv": {},

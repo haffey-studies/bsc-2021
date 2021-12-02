@@ -1,0 +1,53 @@
+<style>
+.update_name:focus{
+  border:0;
+}
+#trial_contents{
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin:auto;
+  width:600;
+  height:600;
+}
+body{
+  background-color:white;
+}
+#canvas_element_0{
+  position:absolute;
+  background-color:transparent;
+  border-color:;
+  border-radius:;
+  border-style:;
+  border-width:;
+  color:black;
+  font-size:20px;
+  height:50px;
+  left:165px;
+  top:104px;
+  width:50px;
+  z-index:0;
+}
+</style>
+<input type='hidden' id='keyboard_response' name='keyboard_response'/>
+<div id='trial_contents'>
+  <button id='canvas_element_0' value='' class=' update_name' style='border:0; background-color:transparent'><span style='width:100%;height:100%'>canvas_element_0 html</span></button>
+</div>
+<input type='hidden' name='' />
+<script>
+$('.update_name').on('click',function(){
+  var class_list = this.className.split(' ');
+  var end_trial = false;
+  if(class_list.indexOf('end_trial') !== -1){
+    end_trial = true;
+	 }
+  class_list.splice(class_list.indexOf('end_trial'),1);
+  class_list.splice(class_list.indexOf('update_name'),1);
+  $('input[name = "' + class_list + '"]').val(this.value);
+  if(end_trial){
+    Phase.submit();
+  }
+});
+</script>
