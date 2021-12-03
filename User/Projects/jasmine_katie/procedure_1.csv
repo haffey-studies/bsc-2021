@@ -1,0 +1,8 @@
+item,phasetype,max_time,text,shuffle_1,survey,
+0,survey,user,,off,bsc-2021-info.csv,
+0,survey,user,,off,social_media_trends.csv,
+0,survey,user,,off,phq8-pandemic.csv,
+0,survey,user,,off,stai-pandemic.csv,
+0,survey,user,,off,ipip_neuroticism.csv,
+0,survey,user,,off,demographics-2021.csv,
+0,survey,user,,off,bsc-2021-debrief.csv,
