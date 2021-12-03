@@ -1,0 +1,8 @@
+item,phasetype,max_time,text,shuffle_1,survey,
+0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,
+0,survey,user,This is the start of a new experiment.,repetition,repetitive_anxiety.csv,
+0,survey,user,This is the start of a new experiment.,off,digital_activity.csv,
+0,survey,user,This is the start of a new experiment.,off,autism_quotient.csv,
+0,survey,user,This is the start of a new experiment.,repetition,repetitive_behaviours.csv,
+0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,
+0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,
