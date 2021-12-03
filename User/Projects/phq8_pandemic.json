@@ -16,14 +16,14 @@
         "type",
         "answers",
         "values",
-        "score:phq9",
+        "score:phq8_pandemic",
         "optional",
         "btn_width",
         ""
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>During the Covid-19 pandemic, how often have you been bothered by any of the following problems?",
+        "<span style='color:#006699'><span style='font-size:20px'><b><u style=\"color:red\">During the Covid-19 pandemic</u></b>, how often have you been bothered by any of the following problems?",
         "instruct",
         "",
         "",
@@ -33,8 +33,8 @@
         ""
       ],
       [
-        "PHQ1",
-        "little interest or pleasure in doing things?",
+        "PHQ8p1",
+        "Little interest or pleasure in doing things?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
         "0|1|2|3",
@@ -44,7 +44,7 @@
         ""
       ],
       [
-        "PHQ2",
+        "PHQ8p2",
         "Feeling down, depressed, or hopeless?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -55,7 +55,7 @@
         ""
       ],
       [
-        "PHQ3",
+        "PHQ8p3",
         "Trouble falling or staying asleep, or sleeping too much?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -66,7 +66,7 @@
         ""
       ],
       [
-        "PHQ4",
+        "PHQ8p4",
         "Feeling tired or having little energy?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -77,7 +77,7 @@
         ""
       ],
       [
-        "PHQ5",
+        "PHQ8p5",
         "Poor appetite or overeating?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -88,7 +88,7 @@
         ""
       ],
       [
-        "PHQ6",
+        "PHQ8p6",
         "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -99,7 +99,7 @@
         ""
       ],
       [
-        "PHQ7",
+        "PHQ8p7",
         "Trouble concentrating on things, such as reading the newspaper or watching the television? ",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -110,7 +110,7 @@
         ""
       ],
       [
-        "PHQ8",
+        "PHQ8p8",
         "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",

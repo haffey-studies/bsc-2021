@@ -11739,14 +11739,14 @@
               "type",
               "answers",
               "values",
-              "score:phq9",
+              "score:phq8_pandemic",
               "optional",
               "btn_width",
               ""
             ],
             [
               "Instructions1",
-              "<span style='color:#006699'><span style='font-size:20px'>During the Covid-19 pandemic, how often have you been bothered by any of the following problems?",
+              "<span style='color:#006699'><span style='font-size:20px'><b><u style=\"color:red\">During the Covid-19 pandemic</u></b>, how often have you been bothered by any of the following problems?",
               "instruct",
               "",
               "",
@@ -11756,8 +11756,8 @@
               ""
             ],
             [
-              "PHQ1",
-              "little interest or pleasure in doing things?",
+              "PHQ8p1",
+              "Little interest or pleasure in doing things?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
               "0|1|2|3",
@@ -11767,7 +11767,7 @@
               ""
             ],
             [
-              "PHQ2",
+              "PHQ8p2",
               "Feeling down, depressed, or hopeless?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11778,7 +11778,7 @@
               ""
             ],
             [
-              "PHQ3",
+              "PHQ8p3",
               "Trouble falling or staying asleep, or sleeping too much?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11789,7 +11789,7 @@
               ""
             ],
             [
-              "PHQ4",
+              "PHQ8p4",
               "Feeling tired or having little energy?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11800,7 +11800,7 @@
               ""
             ],
             [
-              "PHQ5",
+              "PHQ8p5",
               "Poor appetite or overeating?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11811,7 +11811,7 @@
               ""
             ],
             [
-              "PHQ6",
+              "PHQ8p6",
               "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11822,7 +11822,7 @@
               ""
             ],
             [
-              "PHQ7",
+              "PHQ8p7",
               "Trouble concentrating on things, such as reading the newspaper or watching the television? ",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -11833,7 +11833,7 @@
               ""
             ],
             [
-              "PHQ8",
+              "PHQ8p8",
               "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
               "likert",
               "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -15157,7 +15157,7 @@
             ],
             [
               "stai_1",
-              "I feel calm",
+              "I felt calm",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15168,7 +15168,7 @@
             ],
             [
               "stai_2",
-              "I feel secure",
+              "I felt secure",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15179,7 +15179,7 @@
             ],
             [
               "stai_3",
-              "I feel tense",
+              "I felt tense",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15190,7 +15190,7 @@
             ],
             [
               "stai_4",
-              "I feel strained",
+              "I felt strained",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15201,18 +15201,18 @@
             ],
             [
               "stai_5",
-              "I feel at ease",
+              "I felt at ease",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_6",
-              "I feel upset",
+              "I felt upset",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15223,7 +15223,7 @@
             ],
             [
               "stai_7",
-              "I am presently worrying over possibly misfortunes",
+              "I worried over possible misfortunes",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15234,18 +15234,18 @@
             ],
             [
               "stai_8",
-              "I feel satisfied",
+              "I felt satisfied",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_9",
-              "I feel frightened",
+              "I felt frightened",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15256,7 +15256,7 @@
             ],
             [
               "stai_10",
-              "I feel uncomfortable",
+              "I felt uncomfortable",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15267,7 +15267,7 @@
             ],
             [
               "stai_11",
-              "I feel self-confident",
+              "I felt self-confident",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15278,7 +15278,7 @@
             ],
             [
               "stai_12",
-              "I feel nervous",
+              "I felt nervous",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15289,7 +15289,7 @@
             ],
             [
               "stai_13",
-              "I feel jittery",
+              "I felt jittery",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15300,7 +15300,7 @@
             ],
             [
               "stai_14",
-              "I feel indecisive",
+              "I felt indecisive",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15311,29 +15311,29 @@
             ],
             [
               "stai_15",
-              "I am relaxed",
+              "I was relaxed",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_16",
-              "I feel content",
+              "I felt content",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_17",
-              "I am worried",
+              "I was worried",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15344,7 +15344,7 @@
             ],
             [
               "stai_18",
-              "I feel confused",
+              "I felt confused",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -15355,36 +15355,36 @@
             ],
             [
               "stai_19",
-              "I feel steady",
+              "I felt steady",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_20",
-              "I feel pleasant",
+              "I felt pleasant",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
             ]
           ],
           "covid_news.csv": [
@@ -19789,7 +19789,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -19822,7 +19822,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -19899,7 +19899,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -19910,7 +19910,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -19943,7 +19943,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -19954,7 +19954,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25571,7 +25571,7 @@
               "type",
               "answers",
               "values",
-              "score:optimism",
+              "score:stai_last_month",
               "optional",
               "btn_width",
               ""
@@ -25637,7 +25637,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25670,7 +25670,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25747,7 +25747,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25758,7 +25758,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25791,7 +25791,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25802,7 +25802,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26745,7 +26745,7 @@
               "type",
               "answers",
               "values",
-              "score:optimism",
+              "score:stai_last_month",
               "optional",
               "btn_width",
               ""
@@ -26811,7 +26811,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26844,7 +26844,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26921,7 +26921,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26932,7 +26932,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26965,7 +26965,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -26976,7 +26976,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30173,7 +30173,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30206,7 +30206,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30283,7 +30283,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30294,7 +30294,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30327,7 +30327,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -30338,7 +30338,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33496,7 +33496,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33529,7 +33529,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33606,7 +33606,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33617,7 +33617,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33650,7 +33650,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33661,7 +33661,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -33984,7 +33984,7 @@
             ],
             [
               "stai_1",
-              "I feel calm",
+              "I felt calm",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -33995,7 +33995,7 @@
             ],
             [
               "stai_2",
-              "I feel secure",
+              "I felt secure",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34006,7 +34006,7 @@
             ],
             [
               "stai_3",
-              "I feel tense",
+              "I felt tense",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34017,7 +34017,7 @@
             ],
             [
               "stai_4",
-              "I feel strained",
+              "I felt strained",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34028,18 +34028,18 @@
             ],
             [
               "stai_5",
-              "I feel at ease",
+              "I felt at ease",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_6",
-              "I feel upset",
+              "I felt upset",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34050,7 +34050,7 @@
             ],
             [
               "stai_7",
-              "I am presently worrying over possibly misfortunes",
+              "I worried over possible misfortunes",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34061,18 +34061,18 @@
             ],
             [
               "stai_8",
-              "I feel satisfied",
+              "I felt satisfied",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_9",
-              "I feel frightened",
+              "I felt frightened",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34083,7 +34083,7 @@
             ],
             [
               "stai_10",
-              "I feel uncomfortable",
+              "I felt uncomfortable",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34094,7 +34094,7 @@
             ],
             [
               "stai_11",
-              "I feel self-confident",
+              "I felt self-confident",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34105,7 +34105,7 @@
             ],
             [
               "stai_12",
-              "I feel nervous",
+              "I felt nervous",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34116,7 +34116,7 @@
             ],
             [
               "stai_13",
-              "I feel jittery",
+              "I felt jittery",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34127,7 +34127,7 @@
             ],
             [
               "stai_14",
-              "I feel indecisive",
+              "I felt indecisive",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34138,29 +34138,29 @@
             ],
             [
               "stai_15",
-              "I am relaxed",
+              "I was relaxed",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_16",
-              "I feel content",
+              "I felt content",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_17",
-              "I am worried",
+              "I was worried",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34171,7 +34171,7 @@
             ],
             [
               "stai_18",
-              "I feel confused",
+              "I felt confused",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -34182,36 +34182,36 @@
             ],
             [
               "stai_19",
-              "I feel steady",
+              "I felt steady",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
               "stai_20",
-              "I feel pleasant",
+              "I felt pleasant",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
             ],
             [
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
             ]
           ],
           "social_media_trends.csv": [
@@ -40867,7 +40867,7 @@
           "type",
           "answers",
           "values",
-          "score:optimism",
+          "score:stai_state",
           "optional",
           "btn_width",
           ""
@@ -40933,7 +40933,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -40966,7 +40966,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -41043,7 +41043,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -41054,7 +41054,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -41087,7 +41087,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -41098,7 +41098,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -46855,7 +46855,7 @@
           "type",
           "answers",
           "values",
-          "score:optimism",
+          "score:stai_last_month",
           "optional",
           "btn_width",
           ""
@@ -46921,7 +46921,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -46954,7 +46954,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47031,7 +47031,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47042,7 +47042,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47075,7 +47075,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47086,7 +47086,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47176,7 +47176,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47209,7 +47209,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47286,7 +47286,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47297,7 +47297,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47330,7 +47330,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -47341,7 +47341,7 @@
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
@@ -51485,7 +51485,7 @@
         ],
         [
           "stai_1",
-          "I feel calm",
+          "I felt calm",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51496,7 +51496,7 @@
         ],
         [
           "stai_2",
-          "I feel secure",
+          "I felt secure",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51507,7 +51507,7 @@
         ],
         [
           "stai_3",
-          "I feel tense",
+          "I felt tense",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51518,7 +51518,7 @@
         ],
         [
           "stai_4",
-          "I feel strained",
+          "I felt strained",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51529,18 +51529,18 @@
         ],
         [
           "stai_5",
-          "I feel at ease",
+          "I felt at ease",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
           "stai_6",
-          "I feel upset",
+          "I felt upset",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51551,7 +51551,7 @@
         ],
         [
           "stai_7",
-          "I am presently worrying over possibly misfortunes",
+          "I worried over possible misfortunes",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51562,18 +51562,18 @@
         ],
         [
           "stai_8",
-          "I feel satisfied",
+          "I felt satisfied",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
           "stai_9",
-          "I feel frightened",
+          "I felt frightened",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51584,7 +51584,7 @@
         ],
         [
           "stai_10",
-          "I feel uncomfortable",
+          "I felt uncomfortable",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51595,7 +51595,7 @@
         ],
         [
           "stai_11",
-          "I feel self-confident",
+          "I felt self-confident",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51606,7 +51606,7 @@
         ],
         [
           "stai_12",
-          "I feel nervous",
+          "I felt nervous",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51617,7 +51617,7 @@
         ],
         [
           "stai_13",
-          "I feel jittery",
+          "I felt jittery",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51628,7 +51628,7 @@
         ],
         [
           "stai_14",
-          "I feel indecisive",
+          "I felt indecisive",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51639,29 +51639,29 @@
         ],
         [
           "stai_15",
-          "I am relaxed",
+          "I was relaxed",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
           "stai_16",
-          "I feel content",
+          "I felt content",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
           "stai_17",
-          "I am worried",
+          "I was worried",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51672,7 +51672,7 @@
         ],
         [
           "stai_18",
-          "I feel confused",
+          "I felt confused",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -51683,36 +51683,36 @@
         ],
         [
           "stai_19",
-          "I feel steady",
+          "I felt steady",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
           "stai_20",
-          "I feel pleasant",
+          "I felt pleasant",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
-          "1",
+          "r1",
           "no",
           "150px",
           ""
         ],
         [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
         ]
       ],
       "phq8-pandemic.csv": [
