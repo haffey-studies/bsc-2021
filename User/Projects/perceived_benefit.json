@@ -18,7 +18,8 @@
         "values",
         "optional",
         "btn_width",
-        null
+        "score:compliance_belief",
+        ""
       ],
       [
         "Instructions1",
@@ -28,7 +29,8 @@
         "",
         "",
         "",
-        null
+        "",
+        ""
       ],
       [
         "perceived_benefit_1",
@@ -38,7 +40,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_2",
@@ -48,7 +51,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_3",
@@ -58,7 +62,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_4",
@@ -68,7 +73,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_5",
@@ -78,7 +84,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_6",
@@ -88,7 +95,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_7",
@@ -98,7 +106,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_8",
@@ -108,7 +117,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "perceived_benefit_9",
@@ -118,7 +128,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        null
+        "1",
+        ""
       ],
       [
         "",
@@ -128,7 +139,8 @@
         "",
         "",
         "",
-        null
+        "",
+        ""
       ]
     ]
   },

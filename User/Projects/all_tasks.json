@@ -1,10 +1,10 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,alphabetical_list,audio_check_file,possible_responses,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,,,,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion label best describes the emotion that was displayed on the actor’s face. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before commencing with the trials. </p>\r\n\",off,,,,,\r\n0,audio_check_code,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,,../User/Stimuli/1086_TAI_NEU_XX.wav,\"[\r\n  \"\"It's eleven o'clock\"\",\r\n  \"\"That is exactly what happened\"\",\r\n  \"\"I'm on my way to the meeting\"\",\r\n  \"\"I wonder what this is about\"\",\r\n  \"\"The airplane is almost full\"\",\r\n  \"\"Maybe tomorrow it will be cold\"\",\r\n  \"\"I would like a new alarm clock\"\",\r\n  \"\"I think I have a doctor's appointment\"\",\r\n  \"\"Don't forget a jacket\"\",\r\n  \"\"I think I've seen this before\"\",\r\n  \"\"The surface is slick\"\",\r\n  \"\"We'll stop in a couple of minutes\"\"\r\n]\",\r\n0,instruct,,you're about to start block 1 of 2,off,,,,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,instruct,,you're about to start block 2 of 2,off,,,,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,adhd.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,autism_quotient.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,belief_about_compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_lifestyle.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_news.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_stress.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,csi.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_activity.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_addiction.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_extraversion.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_neuroticism.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,pb.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_anxiety.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_behaviours.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,resilience.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,social_media_trends.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-trait.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,symptoms_and_exposure.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,,,,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,alphabetical_list,audio_check_file,possible_responses,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,,,,\r\n0,instruct,user,\"<p>In each trial, you will be presented with a video of an actor, expressing a certain emotion. After each trial, please select which emotion that was displayed on the actor’s <b>face</b>. Please try and respond as <b>quickly</b> and <b>accurately</b> as possible. </p>\r\n\r\n<p>You will then be asked to rate how confident you were that the emotion label you selected represented the emotion shown by the face. This will be from 1 (not at all confident) to 10 (completely confident). </p>\r\n\r\n<p>Before you begin, ensure that you are in a quiet place and use headphones. You will be able to test your sound before starting the trials. </p>\",off,,,,,\r\n0,audio_check_code,user,\"Participants should have a multiple choice when presented with an audio file of which phrase they've just heard.\r\n\r\n\"\"The airplane is almost full\"\" is the correct option.\",off,,,../User/Stimuli/1086_TAI_NEU_XX.wav,\"[\r\n  \"\"It's eleven o'clock\"\",\r\n  \"\"That is exactly what happened\"\",\r\n  \"\"I'm on my way to the meeting\"\",\r\n  \"\"I wonder what this is about\"\",\r\n  \"\"The airplane is almost full\"\",\r\n  \"\"Maybe tomorrow it will be cold\"\",\r\n  \"\"I would like a new alarm clock\"\",\r\n  \"\"I think I have a doctor's appointment\"\",\r\n  \"\"Don't forget a jacket\"\",\r\n  \"\"I think I've seen this before\"\",\r\n  \"\"The surface is slick\"\",\r\n  \"\"We'll stop in a couple of minutes\"\"\r\n]\",\r\n0,instruct,,You're about to start block 1 of 2. Remember that your job is to identify the emotion on the <b>participant's face</b>.,off,,,,,\r\n2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,instruct,,you're about to start block 2 of 2,off,,,,,\r\n42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,adhd.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,autism_quotient.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,belief_about_compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,compliance.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_lifestyle.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_news.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,covid_stress.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,csi.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_activity.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,digital_addiction.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_extraversion.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,ipip_neuroticism.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,cb.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,phq8-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_anxiety.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,repetitive_behaviours.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,resilience.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,social_media_trends.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-trait.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,stai-pandemic.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,surveys,symptoms_and_exposure.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,,,,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,,,,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url_backup,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
   "all_stims": {
-    "stimuli_1.csv": "video,audio,video_file,audio_file,user_id,Video,Audio,Congruent,ethnicity,notes,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_FEA_XX.wav,1003,Anger,Fear,incongruent,Caucasian,,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_HAP_XX.wav,1003,Disgust,Happiness,incongruent,Caucasian,,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_SAD_XX.wav,1003,Fear,Sad,incongruent,Caucasian,,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_ANG_XX.wav,1003,Happiness,Anger,incongruent,Caucasian,,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_DIS_XX.wav,1003,Sad,Disgust,incongruent,Caucasian,,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_ANG_XX.wav,1003,Anger,Anger,congruent,Caucasian,,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_DIS_XX.wav,1003,Disgust,Disgust,congruent,Caucasian,,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_FEA_XX.wav,1003,Fear,Fear,congruent,Caucasian,,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_HAP_XX.wav,1003,Happiness,Happiness,congruent,Caucasian,,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_SAD_XX.wav,1003,Sad,Sad,congruent,Caucasian,,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_HAP_XX.wav,1014,Anger,Happiness,incongruent,Caucasian,,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_SAD_XX.wav,1014,Disgust,Sad,incongruent,Caucasian,,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1014_TSI_ANG_XX.wav,1014,Fear,Anger,incongruent,Caucasian,,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_DIS_XX.wav,1014,Happiness,Disgust,incongruent,Caucasian,,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_FEA_XX.wav,1014,Sad,Fear,incongruent,Caucasian,,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_ANG_XX.wav,1014,Anger,Anger,congruent,Caucasian,,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_DIS_XX.wav,1014,Disgust,Disgust,congruent,Caucasian,,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1014_TSI_FEA_XX.wav,1014,Fear,Fear,congruent,Caucasian,,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_HAP_XX.wav,1014,Happiness,Happiness,congruent,Caucasian,,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_SAD_XX.wav,1014,Sad,Sad,congruent,Caucasian,,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_SAD_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1018_TSI_SAD_XX.wav,1018,Anger,Sad,incongruent,hispanic,,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_ANG_XX.wav,1018,Disgust,Anger,incongruent,hispanic,,\r\n1018_IEO_FEA_MD-converted.mp4,1018_TSI_DIS_XX.wav,\"../User/Stimuli/video/\n1018_IEO_FEA_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_DIS_XX.wav,1018,Fear,Disgust,incongruent,hispanic,,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_FEA_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_FEA_XX.wav,1018,Happiness,Fear,incongruent,hispanic,,\r\n\"\n1018_IEO_SAD_MD-converted.mp4\",1018_TSI_HAP_XX.wav,\"../User/Stimuli/video/\n1018_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_HAP_XX.wav,1018,Sad,Happiness,incongruent,hispanic,,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1018_TSI_ANG_XX.wav,1018,Anger,Anger,congruent,hispanic,,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_DIS_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_DIS_XX.wav,1018,Disgust,Disgust,congruent,hispanic,,\r\n\"\n1018_IEO_FEA_MD-converted.mp4\",\"\n1018_TSI_FEA_XX.wav\",\"../User/Stimuli/video/\n1018_IEO_FEA_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_FEA_XX.wav,1018,Fear,Fear,congruent,hispanic,,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_HAP_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_HAP_XX.wav,1018,Happiness,Happiness,congruent,hispanic,,\r\n\"\n1018_IEO_SAD_MD-converted.mp4\",\"\n1018_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\n1018_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_SAD_XX.wav,1018,Sad,Sad,congruent,hispanic,,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD.ogg,../User/Stimuli/audio/1029_TSI_DIS_XX.wav,1029,Anger,Disgust,incongruent,African american,,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_FEA_XX.wav,1029,Disgust,Fear,incongruent,African american,,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_HAP_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_HAP_XX.wav,1029,Fear,Happiness,incongruent,African american,,\r\n1029_IEO_HAP_MD-converted.mp4,1029_TSI_SAD_XX.wav,\"../User/Stimuli/video/\n1029_IEO_HAP_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_SAD_XX.wav,1029,Happiness,Sad,incongruent,African american,,\r\n1029_IEO_SAD_MD-converted.mp4,1029_TSI_ANG_XX.wav,\"../User/Stimuli/video/\n1029_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_ANG_XX.wav,1029,Sad,Anger,incongruent,African american,,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_ANG_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD.ogg,../User/Stimuli/audio/1029_TSI_ANG_XX.wav,1029,Anger,Anger,congruent,African american,,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_DIS_XX.wav,1029,Disgust,Disgust,congruent,African american,,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_FEA_XX.wav,1029,Fear,Fear,congruent,African american,,\r\n\"\n1029_IEO_HAP_MD-converted.mp4\",\"\n1029_TSI_HAP_XX.wav\",\"../User/Stimuli/video/\n1029_IEO_HAP_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_HAP_XX.wav,1029,Happiness,Happiness,congruent,African american,,\r\n\"\n1029_IEO_SAD_MD-converted.mp4\",\"\n1029_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\n1029_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_SAD_XX.wav,1029,Sad,Sad,congruent,African american,,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1031_TSI_DIS_XX.wav,1031,Anger,Disgust,incongruent,hispanic,,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_FEA_XX.wav,1031,Disgust,Fear,incongruent,hispanic,,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_HAP_XX.wav,1031,Fear,Happiness,incongruent,hispanic,,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_SAD_XX.wav,1031,Happiness,Sad,incongruent,hispanic,,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_ANG_XX.wav,1031,Sad,Anger,incongruent,hispanic,,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1031_TSI_ANG_XX.wav,1031,Anger,Anger,congruent,hispanic,,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_DIS_XX.wav,1031,Disgust,Disgust,congruent,hispanic,,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_FEA_XX.wav,1031,Fear,Fear,congruent,hispanic,,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_HAP_XX.wav,1031,Happiness,Happiness,congruent,hispanic,,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_SAD_XX.wav,1031,Sad,Sad,congruent,hispanic,,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_FEA_XX.wav,1032,Anger,Fear,incongruent,African american,,\r\n\"\n1032_IEO_DIS_HI-converted.mp4\",1032_TSI_HAP_XX.wav,\"../User/Stimuli/video/\n1032_IEO_DIS_HI-converted.mp4\",../User/Stimuli/audio/1032_TSI_HAP_XX.wav,1032,Disgust,Happiness,incongruent,African american,,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1032_TSI_SAD_XX.wav,1032,Fear,Sad,incongruent,African american,,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_ANG_XX.wav,1032,Happiness,Anger,incongruent,African american,,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_DIS_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_DIS_XX.wav,1032,Sad,Disgust,incongruent,African american,,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_ANG_XX.wav,1032,Anger,Anger,congruent,African american,,\r\n\"\n1032_IEO_DIS_HI-converted.mp4\",\"\n1032_TSI_DIS_XX.wav\",\"../User/Stimuli/video/\n1032_IEO_DIS_HI-converted.mp4\",../User/Stimuli/audio/1032_TSI_DIS_XX.wav,1032,Disgust,Disgust,congruent,African american,,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1032_TSI_FEA_XX.wav,1032,Fear,Fear,congruent,African american,,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_HAP_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_HAP_XX.wav,1032,Happiness,Happiness,congruent,African american,,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_SAD_XX.wav,1032,Sad,Sad,congruent,African american,,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_SAD_XX.wav,1045,Anger,Sad,incongruent,east asian,,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_ANG_XX.wav,1045,Disgust,Anger,incongruent,east asian,,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_DIS_XX.wav,1045,Fear,Disgust,incongruent,east asian,,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1045_TSI_FEA_XX.wav,1045,Happiness,Fear,incongruent,east asian,,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_HAP_XX.wav,1045,Sad,Happiness,incongruent,east asian,,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_ANG_XX.wav,1045,Anger,Anger,congruent,east asian,,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_DIS_XX.wav,1045,Disgust,Disgust,congruent,east asian,,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_FEA_XX.wav,1045,Fear,Fear,congruent,east asian,,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1045_TSI_HAP_XX.wav,1045,Happiness,Happiness,congruent,east asian,,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_SAD_XX.wav,1045,Sad,Sad,congruent,east asian,,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD.mp4,../User/Stimuli/audio/1072_TSI_HAP_XX.wav,1072,Anger,Happiness,incongruent,east asian,,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD_trimmed.mp4,../User/Stimuli/audio/1072_TSI_SAD_XX.wav,1072,Disgust,Sad,incongruent,east asian,video repeats,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD.mp4,../User/Stimuli/audio/1072_TSI_ANG_XX.wav,1072,Fear,Anger,incongruent,east asian,,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TIS_DIS_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD.mp4,../User/Stimuli/audio/1072_TSI_DIS_XX.wav,1072,Happiness,Disgust,incongruent,east asian,,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD.mp4,../User/Stimuli/audio/1072_TSI_FEA_XX.wav,1072,Sad,Fear,incongruent,east asian,,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD.mp4,../User/Stimuli/audio/1072_TSI_ANG_XX.wav,1072,Anger,Anger,congruent,east asian,,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_DIS_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD.mp4,../User/Stimuli/audio/1072_TSI_DIS_XX.wav,1072,Disgust,Disgust,congruent,east asian,,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD.mp4,../User/Stimuli/audio/1072_TSI_FEA_XX.wav,1072,Fear,Fear,congruent,east asian,,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD.mp4,../User/Stimuli/audio/1072_TSI_HAP_XX.wav,1072,Happiness,Happiness,congruent,east asian,,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD.mp4,../User/Stimuli/audio/1072_TSI_SAD_XX.wav,1072,Sad,Sad,congruent,east asian,,\r\n,,,,,,,,,,"
+    "stimuli_1.csv": "video,audio,video_file,audio_file,user_id,Video,Audio,Congruent,ethnicity,notes,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_FEA_XX.wav,1003,Anger,Fear,incongruent,Caucasian,,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_HAP_XX.wav,1003,Disgust,Happiness,incongruent,Caucasian,,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_SAD_XX.wav,1003,Fear,Sad,incongruent,Caucasian,,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_ANG_XX.wav,1003,Happiness,Anger,incongruent,Caucasian,,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_DIS_XX.wav,1003,Sad,Disgust,incongruent,Caucasian,,\r\n1003_IEO_ANG_MD-converted.mp4,1003_TSI_ANG_XX.wav,../User/Stimuli/video/1003_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_ANG_XX.wav,1003,Anger,Anger,congruent,Caucasian,,\r\n1003_IEO_DIS_MD-converted.mp4,1003_TSI_DIS_XX.wav,../User/Stimuli/video/1003_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_DIS_XX.wav,1003,Disgust,Disgust,congruent,Caucasian,,\r\n1003_IEO_FEA_MD-converted.mp4,1003_TSI_FEA_XX.wav,../User/Stimuli/video/1003_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_FEA_XX.wav,1003,Fear,Fear,congruent,Caucasian,,\r\n1003_IEO_HAP_MD-converted.mp4,1003_TSI_HAP_XX.wav,../User/Stimuli/video/1003_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_HAP_XX.wav,1003,Happiness,Happiness,congruent,Caucasian,,\r\n1003_IEO_SAD_MD-converted.mp4,1003_TSI_SAD_XX.wav,../User/Stimuli/video/1003_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1003_TSI_SAD_XX.wav,1003,Sad,Sad,congruent,Caucasian,,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_HAP_XX.wav,1014,Anger,Happiness,incongruent,Caucasian,,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_SAD_XX.wav,1014,Disgust,Sad,incongruent,Caucasian,,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1014_TSI_ANG_XX.wav,1014,Fear,Anger,incongruent,Caucasian,,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_DIS_XX.wav,1014,Happiness,Disgust,incongruent,Caucasian,,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_FEA_XX.wav,1014,Sad,Fear,incongruent,Caucasian,,\r\n1014_IEO_ANG_MD-converted.mp4,1014_TSI_ANG_XX.wav,../User/Stimuli/video/1014_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_ANG_XX.wav,1014,Anger,Anger,congruent,Caucasian,,\r\n1014_IEO_DIS_MD-converted.mp4,1014_TSI_DIS_XX.wav,../User/Stimuli/video/1014_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_DIS_XX.wav,1014,Disgust,Disgust,congruent,Caucasian,,\r\n1014_IEO_FEA_HI-converted.mp4,1014_TSI_FEA_XX.wav,../User/Stimuli/video/1014_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1014_TSI_FEA_XX.wav,1014,Fear,Fear,congruent,Caucasian,,\r\n1014_IEO_HAP_MD-converted.mp4,1014_TSI_HAP_XX.wav,../User/Stimuli/video/1014_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_HAP_XX.wav,1014,Happiness,Happiness,congruent,Caucasian,,\r\n1014_IEO_SAD_MD-converted.mp4,1014_TSI_SAD_XX.wav,../User/Stimuli/video/1014_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1014_TSI_SAD_XX.wav,1014,Sad,Sad,congruent,Caucasian,,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_SAD_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1018_TSI_SAD_XX.wav,1018,Anger,Sad,incongruent,hispanic,,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_ANG_XX.wav,1018,Disgust,Anger,incongruent,hispanic,,\r\n1018_IEO_FEA_MD-converted.mp4,1018_TSI_DIS_XX.wav,\"../User/Stimuli/video/\r\n1018_IEO_FEA_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_DIS_XX.wav,1018,Fear,Disgust,incongruent,hispanic,,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_FEA_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_FEA_XX.wav,1018,Happiness,Fear,incongruent,hispanic,,\r\n\"\r\n1018_IEO_SAD_MD-converted.mp4\",1018_TSI_HAP_XX.wav,\"../User/Stimuli/video/\r\n1018_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_HAP_XX.wav,1018,Sad,Happiness,incongruent,hispanic,,\r\n1018_IEO_ANG_MD-converted.mp4,1018_TSI_ANG_XX.wav,../User/Stimuli/video/1018_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1018_TSI_ANG_XX.wav,1018,Anger,Anger,congruent,hispanic,,\r\n1018_IEO_DIS_HI-converted.mp4,1018_TSI_DIS_XX.wav,../User/Stimuli/video/1018_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_DIS_XX.wav,1018,Disgust,Disgust,congruent,hispanic,,\r\n\"\r\n1018_IEO_FEA_MD-converted.mp4\",\"\r\n1018_TSI_FEA_XX.wav\",\"../User/Stimuli/video/\r\n1018_IEO_FEA_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_FEA_XX.wav,1018,Fear,Fear,congruent,hispanic,,\r\n1018_IEO_HAP_HI-converted.mp4,1018_TSI_HAP_XX.wav,../User/Stimuli/video/1018_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1018_TSI_HAP_XX.wav,1018,Happiness,Happiness,congruent,hispanic,,\r\n\"\r\n1018_IEO_SAD_MD-converted.mp4\",\"\r\n1018_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\r\n1018_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1018_TSI_SAD_XX.wav,1018,Sad,Sad,congruent,hispanic,,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD.ogg,../User/Stimuli/audio/1029_TSI_DIS_XX.wav,1029,Anger,Disgust,incongruent,African american,,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_FEA_XX.wav,1029,Disgust,Fear,incongruent,African american,,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_HAP_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_HAP_XX.wav,1029,Fear,Happiness,incongruent,African american,,\r\n1029_IEO_HAP_MD-converted.mp4,1029_TSI_SAD_XX.wav,\"../User/Stimuli/video/\r\n1029_IEO_HAP_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_SAD_XX.wav,1029,Happiness,Sad,incongruent,African american,,\r\n1029_IEO_SAD_MD-converted.mp4,1029_TSI_ANG_XX.wav,\"../User/Stimuli/video/\r\n1029_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_ANG_XX.wav,1029,Sad,Anger,incongruent,African american,,\r\n1029_IEO_ANG_MD-converted.mp4,1029_TSI_ANG_XX.wav,../User/Stimuli/video/1029_IEO_ANG_MD.ogg,../User/Stimuli/audio/1029_TSI_ANG_XX.wav,1029,Anger,Anger,congruent,African american,,\r\n1029_IEO_DIS_MD-converted.mp4,1029_TSI_DIS_XX.wav,../User/Stimuli/video/1029_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_DIS_XX.wav,1029,Disgust,Disgust,congruent,African american,,\r\n1029_IEO_FEA_MD-converted.mp4,1029_TSI_FEA_XX.wav,../User/Stimuli/video/1029_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1029_TSI_FEA_XX.wav,1029,Fear,Fear,congruent,African american,,\r\n\"\r\n1029_IEO_HAP_MD-converted.mp4\",\"\r\n1029_TSI_HAP_XX.wav\",\"../User/Stimuli/video/\r\n1029_IEO_HAP_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_HAP_XX.wav,1029,Happiness,Happiness,congruent,African american,,\r\n\"\r\n1029_IEO_SAD_MD-converted.mp4\",\"\r\n1029_TSI_SAD_XX.wav\",\"../User/Stimuli/video/\r\n1029_IEO_SAD_MD-converted.mp4\",../User/Stimuli/audio/1029_TSI_SAD_XX.wav,1029,Sad,Sad,congruent,African american,,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1031_TSI_DIS_XX.wav,1031,Anger,Disgust,incongruent,hispanic,,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_FEA_XX.wav,1031,Disgust,Fear,incongruent,hispanic,,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_HAP_XX.wav,1031,Fear,Happiness,incongruent,hispanic,,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_SAD_XX.wav,1031,Happiness,Sad,incongruent,hispanic,,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_ANG_XX.wav,1031,Sad,Anger,incongruent,hispanic,,\r\n1031_IEO_ANG_MD-converted.mp4,1031_TSI_ANG_XX.wav,../User/Stimuli/video/1031_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1031_TSI_ANG_XX.wav,1031,Anger,Anger,congruent,hispanic,,\r\n1031_IEO_DIS_HI-converted.mp4,1031_TSI_DIS_XX.wav,../User/Stimuli/video/1031_IEO_DIS_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_DIS_XX.wav,1031,Disgust,Disgust,congruent,hispanic,,\r\n1031_IEO_FEA_HI-converted.mp4,1031_TSI_FEA_XX.wav,../User/Stimuli/video/1031_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_FEA_XX.wav,1031,Fear,Fear,congruent,hispanic,,\r\n1031_IEO_HAP_HI-converted.mp4,1031_TSI_HAP_XX.wav,../User/Stimuli/video/1031_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_HAP_XX.wav,1031,Happiness,Happiness,congruent,hispanic,,\r\n1031_IEO_SAD_HI-converted.mp4,1031_TSI_SAD_XX.wav,../User/Stimuli/video/1031_IEO_SAD_HI-converted.mp4,../User/Stimuli/audio/1031_TSI_SAD_XX.wav,1031,Sad,Sad,congruent,hispanic,,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_FEA_XX.wav,1032,Anger,Fear,incongruent,African american,,\r\n\"\r\n1032_IEO_DIS_HI-converted.mp4\",1032_TSI_HAP_XX.wav,\"../User/Stimuli/video/\r\n1032_IEO_DIS_HI-converted.mp4\",../User/Stimuli/audio/1032_TSI_HAP_XX.wav,1032,Disgust,Happiness,incongruent,African american,,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1032_TSI_SAD_XX.wav,1032,Fear,Sad,incongruent,African american,,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_ANG_XX.wav,1032,Happiness,Anger,incongruent,African american,,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_DIS_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_DIS_XX.wav,1032,Sad,Disgust,incongruent,African american,,\r\n1032_IEO_ANG_MD-converted.mp4,1032_TSI_ANG_XX.wav,../User/Stimuli/video/1032_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_ANG_XX.wav,1032,Anger,Anger,congruent,African american,,\r\n\"\r\n1032_IEO_DIS_HI-converted.mp4\",\"\r\n1032_TSI_DIS_XX.wav\",\"../User/Stimuli/video/\r\n1032_IEO_DIS_HI-converted.mp4\",../User/Stimuli/audio/1032_TSI_DIS_XX.wav,1032,Disgust,Disgust,congruent,African american,,\r\n1032_IEO_FEA_HI-converted.mp4,1032_TSI_FEA_XX.wav,../User/Stimuli/video/1032_IEO_FEA_HI-converted.mp4,../User/Stimuli/audio/1032_TSI_FEA_XX.wav,1032,Fear,Fear,congruent,African american,,\r\n1032_IEO_HAP_MD-converted.mp4,1032_TSI_HAP_XX.wav,../User/Stimuli/video/1032_IEO_HAP_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_HAP_XX.wav,1032,Happiness,Happiness,congruent,African american,,\r\n1032_IEO_SAD_MD-converted.mp4,1032_TSI_SAD_XX.wav,../User/Stimuli/video/1032_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1032_TSI_SAD_XX.wav,1032,Sad,Sad,congruent,African american,,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_SAD_XX.wav,1045,Anger,Sad,incongruent,east asian,,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_ANG_XX.wav,1045,Disgust,Anger,incongruent,east asian,,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_DIS_XX.wav,1045,Fear,Disgust,incongruent,east asian,,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1045_TSI_FEA_XX.wav,1045,Happiness,Fear,incongruent,east asian,,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_HAP_XX.wav,1045,Sad,Happiness,incongruent,east asian,,\r\n1045_IEO_ANG_MD-converted.mp4,1045_TSI_ANG_XX.wav,../User/Stimuli/video/1045_IEO_ANG_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_ANG_XX.wav,1045,Anger,Anger,congruent,east asian,,\r\n1045_IEO_DIS_MD-converted.mp4,1045_TSI_DIS_XX.wav,../User/Stimuli/video/1045_IEO_DIS_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_DIS_XX.wav,1045,Disgust,Disgust,congruent,east asian,,\r\n1045_IEO_FEA_MD-converted.mp4,1045_TSI_FEA_XX.wav,../User/Stimuli/video/1045_IEO_FEA_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_FEA_XX.wav,1045,Fear,Fear,congruent,east asian,,\r\n1045_IEO_HAP_HI-converted.mp4,1045_TSI_HAP_XX.wav,../User/Stimuli/video/1045_IEO_HAP_HI-converted.mp4,../User/Stimuli/audio/1045_TSI_HAP_XX.wav,1045,Happiness,Happiness,congruent,east asian,,\r\n1045_IEO_SAD_MD-converted.mp4,1045_TSI_SAD_XX.wav,../User/Stimuli/video/1045_IEO_SAD_MD-converted.mp4,../User/Stimuli/audio/1045_TSI_SAD_XX.wav,1045,Sad,Sad,congruent,east asian,,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD.mp4,../User/Stimuli/audio/1072_TSI_HAP_XX.wav,1072,Anger,Happiness,incongruent,east asian,,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD_trimmed.mp4,../User/Stimuli/audio/1072_TSI_SAD_XX.wav,1072,Disgust,Sad,incongruent,east asian,video repeats,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD.mp4,../User/Stimuli/audio/1072_TSI_ANG_XX.wav,1072,Fear,Anger,incongruent,east asian,,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TIS_DIS_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD.mp4,../User/Stimuli/audio/1072_TSI_DIS_XX.wav,1072,Happiness,Disgust,incongruent,east asian,,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD.mp4,../User/Stimuli/audio/1072_TSI_FEA_XX.wav,1072,Sad,Fear,incongruent,east asian,,\r\n1072_IEO_ANG_MD-converted.mp4,1072_TSI_ANG_XX.wav,../User/Stimuli/video/1072_IEO_ANG_MD.mp4,../User/Stimuli/audio/1072_TSI_ANG_XX.wav,1072,Anger,Anger,congruent,east asian,,\r\n1072_IEO_DIS_MD-converted.mp4,1072_TSI_DIS_XX.wav,../User/Stimuli/video/1072_IEO_DIS_MD.mp4,../User/Stimuli/audio/1072_TSI_DIS_XX.wav,1072,Disgust,Disgust,congruent,east asian,,\r\n1072_IEO_FEA_MD-converted.mp4,1072_TSI_FEA_XX.wav,../User/Stimuli/video/1072_IEO_FEA_MD.mp4,../User/Stimuli/audio/1072_TSI_FEA_XX.wav,1072,Fear,Fear,congruent,east asian,,\r\n1072_IEO_HAP_MD-converted.mp4,1072_TSI_HAP_XX.wav,../User/Stimuli/video/1072_IEO_HAP_MD.mp4,../User/Stimuli/audio/1072_TSI_HAP_XX.wav,1072,Happiness,Happiness,congruent,east asian,,\r\n1072_IEO_SAD_MD-converted.mp4,1072_TSI_SAD_XX.wav,../User/Stimuli/video/1072_IEO_SAD_MD.mp4,../User/Stimuli/audio/1072_TSI_SAD_XX.wav,1072,Sad,Sad,congruent,east asian,,\r\n,,,,,,,,,,"
   },
   "location": "haffey-studies/bsc-2021/all_tasks",
   "public_key": "YzlDJDxohu5olwQJYvN+v6vMe0RnJl7ZPFdP/isceks=",
@@ -161,7 +161,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Below are a series of statements. Please answer them as accurately as possible.<br>\n<br>",
+        "<span style='color:#006699'><span style='font-size:20px'>Below are a series of statements. Please answer them as accurately as possible.<br>\r\n<br>",
         "instruct",
         "",
         "",
@@ -424,7 +424,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic</u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\n</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic</u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\r\n</span></span>",
         "instruct",
         "",
         "",
@@ -672,8 +672,8 @@
         "type",
         "answers",
         "values",
-        "mq_social",
-        "mq_general",
+        "score:covid_news_social",
+        "score:covid_news_general",
         "optional",
         "btn_width",
         ""
@@ -1025,7 +1025,8 @@
         "optional",
         "btn_width",
         "notes",
-        ""
+        "score:perceived_benefit",
+        null
       ],
       [
         "Instructions1",
@@ -1036,7 +1037,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "PB1",
@@ -1047,7 +1049,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB2",
@@ -1058,7 +1061,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB3",
@@ -1069,7 +1073,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB4",
@@ -1080,7 +1085,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB5",
@@ -1091,7 +1097,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB6",
@@ -1102,7 +1109,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB7",
@@ -1113,7 +1121,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB8",
@@ -1124,7 +1133,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB9",
@@ -1135,7 +1145,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB10",
@@ -1146,7 +1157,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -1157,7 +1169,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "compliance.csv": [
@@ -1170,7 +1183,8 @@
         "optional",
         "btn_width",
         "notes",
-        ""
+        "score:compliance",
+        null
       ],
       [
         "Instructions1",
@@ -1181,7 +1195,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "PB1",
@@ -1192,7 +1207,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB2",
@@ -1203,7 +1219,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB3",
@@ -1214,7 +1231,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB4",
@@ -1225,7 +1243,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB5",
@@ -1236,7 +1255,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB6",
@@ -1247,7 +1267,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB7",
@@ -1258,7 +1279,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB8",
@@ -1269,7 +1291,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB9",
@@ -1280,7 +1303,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "PB10",
@@ -1291,7 +1315,8 @@
         "no",
         "150px",
         "perceived benefits",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -1302,7 +1327,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "autism_quotient.csv": [
@@ -2157,7 +2183,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>\n  \n  <!-- With the last 2 years and COVID-19 in mind, -->\n\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>\r\n  \r\n  <!-- With the last 2 years and COVID-19 in mind, -->\r\n\r\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
         "instruct",
         "",
         "",
@@ -3784,7 +3810,7 @@
         "score:anxiety",
         "score:anger",
         "score:depression",
-        "score:self-consciousness",
+        "score:self_consciousness",
         "score:immoderation",
         "score:vulnerability",
         "shuffle_question",
@@ -4852,14 +4878,14 @@
         "type",
         "answers",
         "values",
-        "score:phq9",
+        "score:phq8_pandemic",
         "optional",
         "btn_width",
         ""
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>During the Covid-19 pandemic, how often have you been bothered by any of the following problems?",
+        "<span style='color:#006699'><span style='font-size:20px'><b><u style=\"color:red\">During the Covid-19 pandemic</u></b>, how often have you been bothered by any of the following problems?",
         "instruct",
         "",
         "",
@@ -4869,8 +4895,8 @@
         ""
       ],
       [
-        "PHQ1",
-        "little interest or pleasure in doing things?",
+        "PHQ8p1",
+        "Little interest or pleasure in doing things?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
         "0|1|2|3",
@@ -4880,7 +4906,7 @@
         ""
       ],
       [
-        "PHQ2",
+        "PHQ8p2",
         "Feeling down, depressed, or hopeless?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4891,7 +4917,7 @@
         ""
       ],
       [
-        "PHQ3",
+        "PHQ8p3",
         "Trouble falling or staying asleep, or sleeping too much?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4902,7 +4928,7 @@
         ""
       ],
       [
-        "PHQ4",
+        "PHQ8p4",
         "Feeling tired or having little energy?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4913,7 +4939,7 @@
         ""
       ],
       [
-        "PHQ5",
+        "PHQ8p5",
         "Poor appetite or overeating?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4924,7 +4950,7 @@
         ""
       ],
       [
-        "PHQ6",
+        "PHQ8p6",
         "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4935,7 +4961,7 @@
         ""
       ],
       [
-        "PHQ7",
+        "PHQ8p7",
         "Trouble concentrating on things, such as reading the newspaper or watching the television? ",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4946,7 +4972,7 @@
         ""
       ],
       [
-        "PHQ8",
+        "PHQ8p8",
         "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
         "likert",
         "Not at all|Occassionally|More than half the days|Nearly every day",
@@ -4982,7 +5008,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you <span style='color:#ff0000'><b><u>generally (not just right now)</u></b></span> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel.\n</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you <span style='color:#ff0000'><b><u>generally (not just right now)</u></b></span> feel. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe how you generally feel.\r\n</span></span>",
         "instruct",
         "",
         "",
@@ -5236,7 +5262,7 @@
       ],
       [
         "Instructions0",
-        "<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the <b><u>past 3 months</u></b><br>\n\n<span style='font-size:16px'>Please complete the blanks in the below statements with each type of digital activity. Choose one individual response per activity that best describes how strongly each matches your own experience:</span></span>",
+        "<span style='color:#006699'><span style='font-size:22px'>When providing a response for each statement, please focus on the <b><u>past 3 months</u></b><br>\r\n\r\n<span style='font-size:16px'>Please complete the blanks in the below statements with each type of digital activity. Choose one individual response per activity that best describes how strongly each matches your own experience:</span></span>",
         "instruct",
         "",
         "",
@@ -5245,7 +5271,7 @@
         ""
       ],
       [
-        "Instructions1\n",
+        "Instructions1\r\n",
         "<span style='color:#006699'><span style='font-size:20px'>I was told more than once that I spend too much time ______ online.<br></span>",
         "instruct",
         "",
@@ -5325,8 +5351,8 @@
         ""
       ],
       [
-        "Instructions2\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>\n<br>\n",
+        "Instructions2\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel uneasy once I stop going online with the purpose of ______ for a certain period of time. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5405,8 +5431,8 @@
         ""
       ],
       [
-        "Instructions3\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>\n<br>\n",
+        "Instructions3\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find that I have been spending longer and longer periods of time ______ online. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5485,8 +5511,8 @@
         ""
       ],
       [
-        "Instructions4\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or \nunavailable. <br>\n<br>\n",
+        "Instructions4\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel restless and irritable when I am unable to go online with the purpose of ______ because the Internet is disconnected or \r\nunavailable. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5565,8 +5591,8 @@
         ""
       ],
       [
-        "Instructions5\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>\n<br>\n",
+        "Instructions5\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel energized when I am online ______.  <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5645,8 +5671,8 @@
         ""
       ],
       [
-        "Instructions6\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>\n<br>\n",
+        "Instructions6\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I stay online ______ for longer periods of time than intended<br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5725,8 +5751,8 @@
         ""
       ],
       [
-        "Instructions7\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. \n <br>\n<br>\n",
+        "Instructions7\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Although using the Internet with the purpose of ______ has negatively affected my relationships, the amount of time I spend online has not decreased. \r\n <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5805,8 +5831,8 @@
         ""
       ],
       [
-        "Instructions8\n",
-        "<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>\n<br>\n",
+        "Instructions8\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>More than once, I have slept less than four hours when I have been online ______. . <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5885,8 +5911,8 @@
         ""
       ],
       [
-        "Instructions9\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>\n<br>\n",
+        "Instructions9\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have increased substantially the amount of time I spend ______ online.. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -5965,8 +5991,8 @@
         ""
       ],
       [
-        "Instructions10\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>\n<br>\n",
+        "Instructions10\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel distressed or down when I stop using the Internet for _____, for a certain period of time. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6045,8 +6071,8 @@
         ""
       ],
       [
-        "Instructions11\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>\n<br>\n",
+        "Instructions11\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to go online when it involves ______. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6125,8 +6151,8 @@
         ""
       ],
       [
-        "Instructions12\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>\n<br>\n",
+        "Instructions12\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I find myself online ______ instead of spending time with friends. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6205,8 +6231,8 @@
         ""
       ],
       [
-        "Instructions13\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>\n",
+        "Instructions13\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I get backaches or other physical discomfort from spending time online ______. <br>\r\n",
         "instruct",
         "",
         "",
@@ -6285,8 +6311,8 @@
         ""
       ],
       [
-        "Instructions14\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>\n<br>\n",
+        "Instructions14\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for _____ is the first thought I have when I wake up each morning.  <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6365,8 +6391,8 @@
         ""
       ],
       [
-        "Instructions15\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>\n",
+        "Instructions15\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for the purpose of ______ has negatively affected my schoolwork or job performance.  <br>\r\n",
         "instruct",
         "",
         "",
@@ -6445,8 +6471,8 @@
         ""
       ],
       [
-        "Instructions16\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>\n<br>\n",
+        "Instructions16\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel like I am missing something if I am not online ______ for a certain period of time. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6525,8 +6551,8 @@
         ""
       ],
       [
-        "Instructions17\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>\n<br>\n",
+        "Instructions17\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has directly caused my interactions with family members to decrease. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6605,8 +6631,8 @@
         ""
       ],
       [
-        "Instructions18\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>\n<br>\n",
+        "Instructions18\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online for ______ has resulted in my time spent doing recreational activities to decrease.  <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6685,8 +6711,8 @@
         ""
       ],
       [
-        "Instructions19\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>\n<br>\n",
+        "Instructions19\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to control the impulse to return to online ______ after closing an app/website. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6765,8 +6791,8 @@
         ""
       ],
       [
-        "Instructions20\n",
-        "<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>\n<br>\n",
+        "Instructions20\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>My life would be joyless without using the internet for ______ .  <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6845,8 +6871,8 @@
         ""
       ],
       [
-        "Instructions21\n",
-        "<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>\n<br>\n",
+        "Instructions21\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>Going online with the purpose of ______ has negatively affected my physical health.    <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -6925,8 +6951,8 @@
         ""
       ],
       [
-        "Instructions22\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>\n<br>\n",
+        "Instructions22\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I have tried to spend less time ______online but have been unsuccessful.  <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -7005,8 +7031,8 @@
         ""
       ],
       [
-        "Instructions23\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>\n<br>\n",
+        "Instructions23\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I make it a habit to sleep less so that more time can be spent online ______. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -7085,8 +7111,8 @@
         ""
       ],
       [
-        "Instructions24\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the \nsame satisfaction as before. <br>\n<br>\n",
+        "Instructions24\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I need to spend an increasing amount of time online ______ to achieve the \r\nsame satisfaction as before. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -7165,8 +7191,8 @@
         ""
       ],
       [
-        "Instructions25\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>\n<br>\n",
+        "Instructions25\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I fail to have meals on time because of using the internet for ______. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -7245,8 +7271,8 @@
         ""
       ],
       [
-        "Instructions26\n",
-        "<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>\n<br>\n",
+        "Instructions26\r\n",
+        "<span style='color:#006699'><span style='font-size:20px'>I feel tired during the day because of using the internet for ______ late at night. <br>\r\n<br>\r\n",
         "instruct",
         "",
         "",
@@ -7342,7 +7368,7 @@
         "type",
         "answers",
         "values",
-        "score:phq9",
+        "score:phq8_original",
         "optional",
         "btn_width",
         ""
@@ -7359,8 +7385,8 @@
         ""
       ],
       [
-        "PHQ1",
-        "little interest or pleasure in doing things?",
+        "PHQ8_1",
+        "Little interest or pleasure in doing things?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
         "0|1|2|3",
@@ -7370,7 +7396,7 @@
         ""
       ],
       [
-        "PHQ2",
+        "PHQ8_2",
         "Feeling down, depressed, or hopeless?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7381,7 +7407,7 @@
         ""
       ],
       [
-        "PHQ3",
+        "PHQ8_3",
         "Trouble falling or staying asleep, or sleeping too much?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7392,7 +7418,7 @@
         ""
       ],
       [
-        "PHQ4",
+        "PHQ8_4",
         "Feeling tired or having little energy?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7403,7 +7429,7 @@
         ""
       ],
       [
-        "PHQ5",
+        "PHQ8_5",
         "Poor appetite or overeating?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7414,7 +7440,7 @@
         ""
       ],
       [
-        "PHQ6",
+        "PHQ8_6",
         "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7425,7 +7451,7 @@
         ""
       ],
       [
-        "PHQ7",
+        "PHQ8_7",
         "Trouble concentrating on things, such as reading the newspaper or watching the television? ",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7436,7 +7462,7 @@
         ""
       ],
       [
-        "PHQ8",
+        "PHQ8_8",
         "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
         "likert",
         "Not at all|Several days|More than half the days|Nearly every day",
@@ -7477,7 +7503,7 @@
       ],
       [
         "Instructions2",
-        "<span style='font-size:20px'><h4>Android:</h4>\n- Go to your settings app<br>\n- Select the \"Digital wellbeing and parental controls\" tab<br>\n- Click on the \"Dashboard\" option<br>\n- This will show you the figures for each app individually<br>\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\n<br>\n<h4>Apple:</h4>\n- Go to your settings app <br>\n- Select the \"Screen Time\" tab<br>\nClick on \"See all activity\"<br>\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\nThen select categories under the \"Most used\" tab<br>\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
+        "<span style='font-size:20px'><h4>Android:</h4>\r\n- Go to your settings app<br>\r\n- Select the \"Digital wellbeing and parental controls\" tab<br>\r\n- Click on the \"Dashboard\" option<br>\r\n- This will show you the figures for each app individually<br>\r\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\r\n<br>\r\n<h4>Apple:</h4>\r\n- Go to your settings app <br>\r\n- Select the \"Screen Time\" tab<br>\r\nClick on \"See all activity\"<br>\r\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\r\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\r\nThen select categories under the \"Most used\" tab<br>\r\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
         "instruct",
         "",
         "",
@@ -7485,7 +7511,7 @@
       ],
       [
         "instruction_timings",
-        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\n\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
+        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\r\n\r\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
         "instruct",
         "",
         "",
@@ -8176,7 +8202,7 @@
         ""
       ],
       [
-        "Ctress1",
+        "Cstress1",
         "How do you perceive the risk of contagion during this period of COVID-19 pandemic?",
         "likert",
         "Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful",
@@ -8262,7 +8288,8 @@
         "values",
         "optional",
         "btn_width",
-        ""
+        "score:covid_lifestyle",
+        null
       ],
       [
         "instructions3",
@@ -8272,7 +8299,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "Lifestyle1",
@@ -8282,7 +8310,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle2",
@@ -8292,7 +8321,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle3",
@@ -8302,7 +8332,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle4",
@@ -8312,7 +8343,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle5",
@@ -8322,7 +8354,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle6",
@@ -8332,7 +8365,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle7",
@@ -8342,7 +8376,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle8",
@@ -8352,7 +8387,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle9",
@@ -8362,7 +8398,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle10",
@@ -8372,7 +8409,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "Lifestyle11",
@@ -8382,7 +8420,8 @@
         "1|2|3|4|5|6",
         "no",
         "125px",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -8392,7 +8431,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "symptoms_and_exposure.csv": [
@@ -8659,6 +8699,140 @@
         ""
       ],
       [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "cb.csv": [
+      [
+        "item_name",
+        "text",
+        "type",
+        "answers",
+        "values",
+        "optional",
+        "btn_width",
+        "score:compliance_benefit_belief",
+        ""
+      ],
+      [
+        "Instructions1",
+        "<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>",
+        "instruct",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "perceived_benefit_1",
+        "I believe that hand washing is helpful to prevent myself from COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_2",
+        "I believe that social distancing is helpful for me to prevent myself from COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_3",
+        "I believe that social-distancing is helpful for me to prevent  COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_4",
+        "I believe that avoiding over-crowded places is helpful to prevent COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_5",
+        "I believe that praying is helpful in protecting me from COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_6",
+        "I believe that the government restrictions is helpful to prevent COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_7",
+        "I believe that the information regarding COVID-19 is helpful for preventing COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_8",
+        "I believe that respecting the rules and regulations set by the government is helpful for preventing COVID-19",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "perceived_benefit_9",
+        "I believe that washing my hands after coughing or sneezing will protect myself and my family",
+        "likert",
+        "Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree",
+        "0|1|2|3|4",
+        "no",
+        "100px",
+        "1",
+        ""
+      ],
+      [
+        "",
         "",
         "",
         "",

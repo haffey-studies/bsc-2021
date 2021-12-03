@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,btn_width,score:neuroticism,score:anxiety,score:anger,score:depression,score:self-consciousness,score:immoderation,score:vulnerability,shuffle_question,
+item_name,text,type,answers,values,btn_width,score:neuroticism,score:anxiety,score:anger,score:depression,score:self_consciousness,score:immoderation,score:vulnerability,shuffle_question,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Please answer these statements honestly and accurately to best describe you:</span></span>,instruct,,,,,,,,,,,,
 IPIP-NEO_N1.1,Worry about things.,likert,Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate,1|2|3|4|5,100px,1,1,,,,,,yes,
 IPIP-NEO_N1.2,Fear for the worst.,likert,Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate,1|2|3|4|5,100px,1,1,,,,,,yes,

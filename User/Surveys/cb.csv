@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,optional,btn_width,score:compliance_belief,
+item_name,text,type,answers,values,optional,btn_width,score:compliance_benefit_belief,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,instruct,,,,,,
 perceived_benefit_1,I believe that hand washing is helpful to prevent myself from COVID-19,likert,Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree,0|1|2|3|4,no,100px,1,
 perceived_benefit_2,I believe that social distancing is helpful for me to prevent myself from COVID-19,likert,Strongly Disagree|Disagree|Neutral|Agree|Strongly Agree,0|1|2|3|4,no,100px,1,

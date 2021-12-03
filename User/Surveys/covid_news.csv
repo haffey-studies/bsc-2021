@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,mq_social,mq_general,optional,btn_width,
+item_name,text,type,answers,values,score:covid_news_social,score:covid_news_general,optional,btn_width,
 Instructions1,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how strongly each item applies to you:</span></span>,instruct,,,,,,,
 CQ1,"I obtain news regarding covid-19 from Facebook ",likert,Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree,0|1|2|3,1,,no,100px,
 CQ2,"I obtain news regarding covid-19 from Twitter ",likert,Strongly Disagree|Somewhat Disagree|Somewhat Agree|Strongly Agree,0|1|2|3,1,,no,100px,

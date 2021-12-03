@@ -1,6 +1,6 @@
 item_name,text,type,answers,values,btn_width,score:covid_stress,optional,
 Instructions4,<span style='color:#006699'><span style='font-size:20px'>Choose one response that best describes how each item applies to you:</span></span>,instruct,,,,,,
-Ctress1,How do you perceive the risk of contagion during this period of COVID-19 pandemic?,likert,Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful,0|1|2|3|4,125px,1,no,
+Cstress1,How do you perceive the risk of contagion during this period of COVID-19 pandemic?,likert,Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful,0|1|2|3|4,125px,1,no,
 Cstress2,How do you perceive the condition of social isolation imposed during this period of COVID-19 pandemic?,likert,Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful,0|1|2|3|4,125px,1,no,
 Cstress3,How do you perceive the relatioships with your relatives during this period of COVID-19 pandemic?,likert,Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful,0|1|2|3|4,125px,1,no,
 Cstress4,How do you perceive the relationships with your university colleagues during this period of COVID-19 pandemic?,likert,Not at all stressful| Somewhat stressful| Moderately stressful| Very stressful| Extremely stressful,0|1|2|3|4,125px,1,no,
