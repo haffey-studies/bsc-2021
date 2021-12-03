@@ -18,7 +18,8 @@
         "values",
         "optional",
         "question_width",
-        ""
+        "score:covid_symptoms_exposure",
+        null
       ],
       [
         "symptoms_exposure_instructions",
@@ -28,27 +29,173 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
-        "symptoms_exposure",
-        "",
-        "checkbox",
-        "In the last 6 months I have known someone who currently has or had in the past been quarantined for COVID-19 due to exposure.|\r\nIn the last 6 months I have a close family member or friend who currently has or had in the past been quarantined for COVID-19 due to exposure. |\r\nIn the last 6 months I know someone who currently has or had in the past been diagnosed with COVID-19 due to exposure.|\r\nIn the last 6 months I have a close family member or friend who currently has or had in the past been diagnosed with COVID-19 due to exposure. |\r\nIn the last 6 months I am or have been a carer for someone who had been diagnosed with COVID-19.|\r\nIn the last 6 months I am or have been in quarantine in the past due to COVID-19.|\r\nIn the last 6 months I am self-isolating or have  self-isolated in order to avoid infection. |\r\nIn the last 6 months I am or have been  regarded as ‘high risk’. |\r\nIn the last 6 months I have self-isolated due to government advice but did not have symptoms at the time (e.g. being told that you’ve been exposed, but did not proceed to have symptoms). |\r\nIn the last 6 months I have self-isolated because I have had symptoms. |\r\nIn the last 6 months I have been tested (including self-testing) for COVID-19.|\r\nIn the last 6 months I have been diagnosed with COVID-19. |\r\nIn the last 6 months I have received a flu vaccination. |\r\nIn the last 6 months, I have had the flu.",
-        "1|2|3|4|5|6|7|8|9",
+        "symptoms_exposure1",
+        "In the last 6 months I have known someone who currently has or had in the past been quarantined for COVID-19 due to exposure.",
+        "likert",
+        "Yes|No",
+        "1|0",
         "no",
-        "0%",
-        ""
+        "",
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure2",
+        "In the last 6 months I have a close family member or friend who currently has or had in the past been quarantined for COVID-19 due to exposure. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure3",
+        "In the last 6 months I know someone who currently has or had in the past been diagnosed with COVID-19 due to exposure.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure4",
+        "In the last 6 months I have a close family member or friend who currently has or had in the past been diagnosed with COVID-19 due to exposure. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure5",
+        "In the last 6 months I am or have been a carer for someone who had been diagnosed with COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure6",
+        "In the last 6 months I am or have been in quarantine in the past due to COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure7",
+        "In the last 6 months I am self-isolating or have  self-isolated in order to avoid infection. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure8",
+        "In the last 6 months I am or have been  regarded as ‘high risk’. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure9",
+        "In the last 6 months I have self-isolated due to government advice but did not have symptoms at the time (e.g. being told that you’ve been exposed, but did not proceed to have symptoms). ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure10",
+        "In the last 6 months I have self-isolated because I have had symptoms. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure11",
+        "In the last 6 months I have been tested (including self-testing) for COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure12",
+        "In the last 6 months I have been diagnosed with COVID-19. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure13",
+        "In the last 6 months I have received a flu vaccination. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure14",
+        "In the last 6 months, I have had the flu.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
       ],
       [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     ]
   },

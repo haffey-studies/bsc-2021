@@ -424,7 +424,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u> during the Covid-19 pandemic</u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\r\n</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u style=\"color:red\"> during the Covid-19 pandemic</u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\r\n</span></span>",
         "instruct",
         "",
         "",
@@ -5001,7 +5001,7 @@
         "type",
         "answers",
         "values",
-        "score:optimism",
+        "score:stai_trait",
         "optional",
         "btn_width",
         ""
@@ -7631,7 +7631,8 @@
         "values",
         "side_text",
         "optional",
-        ""
+        "score:rep_anx",
+        null
       ],
       [
         "Instructions1",
@@ -7641,7 +7642,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "RBQA_anx1",
@@ -7651,7 +7653,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx2",
@@ -7661,7 +7664,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx3",
@@ -7671,7 +7675,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx4",
@@ -7681,7 +7686,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx5",
@@ -7691,7 +7697,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx6",
@@ -7701,7 +7708,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx7",
@@ -7711,7 +7719,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx8",
@@ -7721,7 +7730,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx9",
@@ -7731,7 +7741,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx10",
@@ -7741,7 +7752,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx11",
@@ -7751,7 +7763,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx12",
@@ -7761,7 +7774,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx13",
@@ -7771,7 +7785,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx14",
@@ -7781,7 +7796,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx15",
@@ -7791,7 +7807,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx16",
@@ -7801,7 +7818,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx17",
@@ -7811,7 +7829,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx18",
@@ -7821,7 +7840,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx19",
@@ -7831,7 +7851,8 @@
         "1|2|3|4|5|6|7",
         "Strongly Disagree|Strongly Agree",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA_anx20",
@@ -7841,7 +7862,8 @@
         "1|2|3|4|5|6|7",
         "A range of different and flexible self-chosen activities|Almost always choose from a restricted range of repetitive activities",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -7851,7 +7873,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "repetitive_behaviours.csv": [
@@ -7863,7 +7886,8 @@
         "values",
         "btn_width",
         "optional",
-        ""
+        "score:repetitive_behaviours",
+        null
       ],
       [
         "Instructions1",
@@ -7873,7 +7897,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "RBQA1",
@@ -7883,7 +7908,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA2",
@@ -7893,7 +7919,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA3",
@@ -7903,7 +7930,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA4",
@@ -7913,7 +7941,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA5",
@@ -7923,7 +7952,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA6",
@@ -7933,7 +7963,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA7",
@@ -7943,7 +7974,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA8",
@@ -7953,7 +7985,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA9",
@@ -7963,7 +7996,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA10",
@@ -7973,7 +8007,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA11",
@@ -7983,7 +8018,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA12",
@@ -7993,7 +8029,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA13",
@@ -8003,7 +8040,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA14",
@@ -8013,7 +8051,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA15",
@@ -8023,7 +8062,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA16",
@@ -8033,7 +8073,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA17",
@@ -8043,7 +8084,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA18",
@@ -8053,7 +8095,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA19",
@@ -8063,7 +8106,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "RBQA20",
@@ -8073,7 +8117,8 @@
         "1|2|3",
         "200px",
         "no",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -8083,7 +8128,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "resilience.csv": [
@@ -8444,7 +8490,8 @@
         "values",
         "optional",
         "question_width",
-        ""
+        "score:covid_symptoms_exposure",
+        null
       ],
       [
         "symptoms_exposure_instructions",
@@ -8454,27 +8501,173 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
-        "symptoms_exposure",
-        "",
-        "checkbox",
-        "In the last 6 months I have known someone who currently has or had in the past been quarantined for COVID-19 due to exposure.|\r\nIn the last 6 months I have a close family member or friend who currently has or had in the past been quarantined for COVID-19 due to exposure. |\r\nIn the last 6 months I know someone who currently has or had in the past been diagnosed with COVID-19 due to exposure.|\r\nIn the last 6 months I have a close family member or friend who currently has or had in the past been diagnosed with COVID-19 due to exposure. |\r\nIn the last 6 months I am or have been a carer for someone who had been diagnosed with COVID-19.|\r\nIn the last 6 months I am or have been in quarantine in the past due to COVID-19.|\r\nIn the last 6 months I am self-isolating or have  self-isolated in order to avoid infection. |\r\nIn the last 6 months I am or have been  regarded as ‘high risk’. |\r\nIn the last 6 months I have self-isolated due to government advice but did not have symptoms at the time (e.g. being told that you’ve been exposed, but did not proceed to have symptoms). |\r\nIn the last 6 months I have self-isolated because I have had symptoms. |\r\nIn the last 6 months I have been tested (including self-testing) for COVID-19.|\r\nIn the last 6 months I have been diagnosed with COVID-19. |\r\nIn the last 6 months I have received a flu vaccination. |\r\nIn the last 6 months, I have had the flu.",
-        "1|2|3|4|5|6|7|8|9",
+        "symptoms_exposure1",
+        "In the last 6 months I have known someone who currently has or had in the past been quarantined for COVID-19 due to exposure.",
+        "likert",
+        "Yes|No",
+        "1|0",
         "no",
-        "0%",
-        ""
+        "",
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure2",
+        "In the last 6 months I have a close family member or friend who currently has or had in the past been quarantined for COVID-19 due to exposure. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure3",
+        "In the last 6 months I know someone who currently has or had in the past been diagnosed with COVID-19 due to exposure.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure4",
+        "In the last 6 months I have a close family member or friend who currently has or had in the past been diagnosed with COVID-19 due to exposure. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure5",
+        "In the last 6 months I am or have been a carer for someone who had been diagnosed with COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure6",
+        "In the last 6 months I am or have been in quarantine in the past due to COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure7",
+        "In the last 6 months I am self-isolating or have  self-isolated in order to avoid infection. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure8",
+        "In the last 6 months I am or have been  regarded as ‘high risk’. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure9",
+        "In the last 6 months I have self-isolated due to government advice but did not have symptoms at the time (e.g. being told that you’ve been exposed, but did not proceed to have symptoms). ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure10",
+        "In the last 6 months I have self-isolated because I have had symptoms. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure11",
+        "In the last 6 months I have been tested (including self-testing) for COVID-19.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure12",
+        "In the last 6 months I have been diagnosed with COVID-19. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure13",
+        "In the last 6 months I have received a flu vaccination. ",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
+      ],
+      [
+        "symptoms_exposure14",
+        "In the last 6 months, I have had the flu.",
+        "likert",
+        "Yes|No",
+        "1|0",
+        "no",
+        null,
+        "1",
+        null
       ],
       [
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     ],
     "social_media_trends.csv": [
@@ -8486,7 +8679,8 @@
         "values",
         "optional",
         "btn_width",
-        ""
+        "score:social_media_trends",
+        null
       ],
       [
         "Instructions1",
@@ -8496,7 +8690,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ],
       [
         "sm_trend_1",
@@ -8506,7 +8701,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_2",
@@ -8516,7 +8712,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_3",
@@ -8526,7 +8723,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_4",
@@ -8536,7 +8734,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_5",
@@ -8546,7 +8745,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_6",
@@ -8556,7 +8756,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_7",
@@ -8566,7 +8767,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_8",
@@ -8576,7 +8778,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_9",
@@ -8586,7 +8789,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_10",
@@ -8596,7 +8800,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_11",
@@ -8606,7 +8811,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_12",
@@ -8616,7 +8822,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_13",
@@ -8626,7 +8833,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_14",
@@ -8636,7 +8844,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_15",
@@ -8646,7 +8855,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_16",
@@ -8656,7 +8866,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_17",
@@ -8666,7 +8877,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_18",
@@ -8676,7 +8888,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_19",
@@ -8686,7 +8899,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "sm_trend_20",
@@ -8696,7 +8910,8 @@
         "0|1|2|3|4",
         "no",
         "100px",
-        ""
+        "1",
+        null
       ],
       [
         "",
@@ -8706,7 +8921,8 @@
         "",
         "",
         "",
-        ""
+        "",
+        null
       ]
     ],
     "cb.csv": [
