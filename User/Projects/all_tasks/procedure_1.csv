@@ -23,7 +23,7 @@ item,phasetype,max_time,text,shuffle_1,survey,alphabetical_list,audio_check_file
 ]",
 0,instruct,,You're about to start block 1 of 2. Remember that your job is to identify the emotion on the <b>participant's face</b>.,off,,,,,
 2 to 41,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,
-0,instruct,,you're about to start block 2 of 2,off,,,,,
+0,instruct,,You have completed the first block of trials. Feel free to take a break before you start block 2 of 2.,off,,,,,
 42 to 81,emotion_recognition,user,This is the start of a new experiment.,emotions,,,,,
 0,survey,user,This is the start of a new experiment.,surveys,adhd.csv,,,,
 0,survey,user,This is the start of a new experiment.,surveys,autism_quotient.csv,,,,
