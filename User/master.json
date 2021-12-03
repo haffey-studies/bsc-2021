@@ -23795,7 +23795,7 @@
         "all_procs": {
           "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,survey,user,,off,covid_news.csv,\r\n0,survey,user,,off,compliance.csv,\r\n0,survey,user,,off,pb.csv,\r\n0,survey,user,,off,stai-last-month.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
         },
-        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,",
+        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
         "all_stims": {
           "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
         },
@@ -24905,8 +24905,8 @@
               "type",
               "answers",
               "values",
-              "mq_social",
-              "mq_general",
+              "score:covid_news_social",
+              "score:covid_news_general",
               "optional",
               "btn_width",
               ""
@@ -25258,7 +25258,8 @@
               "optional",
               "btn_width",
               "notes",
-              ""
+              "score:compliance",
+              null
             ],
             [
               "Instructions1",
@@ -25269,7 +25270,8 @@
               "",
               "",
               "",
-              ""
+              "",
+              null
             ],
             [
               "PB1",
@@ -25280,7 +25282,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB2",
@@ -25291,7 +25294,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB3",
@@ -25302,7 +25306,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB4",
@@ -25313,7 +25318,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB5",
@@ -25324,7 +25330,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB6",
@@ -25335,7 +25342,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB7",
@@ -25346,7 +25354,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB8",
@@ -25357,7 +25366,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB9",
@@ -25368,7 +25378,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB10",
@@ -25379,7 +25390,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "",
@@ -25390,7 +25402,8 @@
               "",
               "",
               "",
-              ""
+              "",
+              null
             ]
           ],
           "pb.csv": [
@@ -25403,7 +25416,8 @@
               "optional",
               "btn_width",
               "notes",
-              ""
+              "score:perceived_benefit",
+              null
             ],
             [
               "Instructions1",
@@ -25414,7 +25428,8 @@
               "",
               "",
               "",
-              ""
+              "",
+              null
             ],
             [
               "PB1",
@@ -25425,7 +25440,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB2",
@@ -25436,7 +25452,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB3",
@@ -25447,7 +25464,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB4",
@@ -25458,7 +25476,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB5",
@@ -25469,7 +25488,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB6",
@@ -25480,7 +25500,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB7",
@@ -25491,7 +25512,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB8",
@@ -25502,7 +25524,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB9",
@@ -25513,7 +25536,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "PB10",
@@ -25524,7 +25548,8 @@
               "no",
               "150px",
               "perceived benefits",
-              ""
+              "1",
+              null
             ],
             [
               "",
@@ -25535,7 +25560,8 @@
               "",
               "",
               "",
-              ""
+              "",
+              null
             ]
           ],
           "stai-last-month.csv": [
@@ -25552,7 +25578,7 @@
             ],
             [
               "Instructions1",
-              "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u><span style='color:#ea0606'>over the last 4 weeks</span></u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\n</span></span>",
+              "<span style='color:#006699'><span style='font-size:20px'>Read each statement and select the appropriate response to indicate how you felt <b><u><span style='color:#ea0606'>over the last 4 weeks</span></u></b>. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your feelings best.\r\n</span></span>",
               "instruct",
               "",
               "",
