@@ -3,7 +3,7 @@
     "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,\r\n0,survey,user,This is the start of a new experiment.,off,csi.csv,\r\n0,survey,user,This is the start of a new experiment.,off,ipip_extraversion.csv,\r\n0,survey,user,This is the start of a new experiment.,off,ipip_neuroticism.csv,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,",
     "procedure_2.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,\r\n0,survey,user,This is the start of a new experiment.,off,csi.csv,\r\n0,survey,user,This is the start of a new experiment.,off,ipip_neuroticism.csv,\r\n0,survey,user,This is the start of a new experiment.,off,ipip_extraversion.csv,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,"
   },
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,\r\ncondition_2,You can put more detailed notes in this field,stimuli_1.csv,procedure_2.csv,off,,on,,,5,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,\r\ncondition_2,You can put more detailed notes in this field,stimuli_1.csv,procedure_2.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
   "all_stims": {
     "stimuli_1.csv": "cue,answer,\r\nA,Apple,\r\nB,Banana,\r\n,,"
   },
@@ -216,7 +216,7 @@
         "If you've answered other, please state your ethnicity (including mixed ethnicities)",
         "text",
         "",
-        "no",
+        "yes",
         "",
         "",
         "",
@@ -1319,7 +1319,7 @@
         "score:anxiety",
         "score:anger",
         "score:depression",
-        "score:self-consciousness",
+        "score:self_consciousness",
         "score:immoderation",
         "score:vulnerability",
         "shuffle_question",
@@ -2395,7 +2395,7 @@
       ],
       [
         "Instructions1",
-        "<span style='color:#006699'><span style='font-size:20px'>\n  \n  <!-- With the last 2 years and COVID-19 in mind, -->\n\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
+        "<span style='color:#006699'><span style='font-size:20px'>\r\n  \r\n  <!-- With the last 2 years and COVID-19 in mind, -->\r\n\r\n<span style='color:#ff0000'><u><b>During the COVID-19 pandemic,</b></u></span> indicate to what extent you...</span></span>",
         "instruct",
         "",
         "",
