@@ -25589,7 +25589,7 @@
             ],
             [
               "stai_1",
-              "I feel calm",
+              "I felt calm",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25600,7 +25600,7 @@
             ],
             [
               "stai_2",
-              "I feel secure",
+              "I felt secure",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25611,7 +25611,7 @@
             ],
             [
               "stai_3",
-              "I feel tense",
+              "I felt tense",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25622,7 +25622,7 @@
             ],
             [
               "stai_4",
-              "I feel strained",
+              "I felt strained",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25633,7 +25633,7 @@
             ],
             [
               "stai_5",
-              "I feel at ease",
+              "I felt at ease",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25644,7 +25644,7 @@
             ],
             [
               "stai_6",
-              "I feel upset",
+              "I felt upset",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25655,7 +25655,7 @@
             ],
             [
               "stai_7",
-              "I am presently worrying over possibly misfortunes",
+              "I worried over possible misfortunes",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25666,7 +25666,7 @@
             ],
             [
               "stai_8",
-              "I feel satisfied",
+              "I felt satisfied",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25677,7 +25677,7 @@
             ],
             [
               "stai_9",
-              "I feel frightened",
+              "I felt frightened",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25688,7 +25688,7 @@
             ],
             [
               "stai_10",
-              "I feel uncomfortable",
+              "I felt uncomfortable",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25699,7 +25699,7 @@
             ],
             [
               "stai_11",
-              "I feel self-confident",
+              "I felt self-confident",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25710,7 +25710,7 @@
             ],
             [
               "stai_12",
-              "I feel nervous",
+              "I felt nervous",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25721,7 +25721,7 @@
             ],
             [
               "stai_13",
-              "I feel jittery",
+              "I felt jittery",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25732,7 +25732,7 @@
             ],
             [
               "stai_14",
-              "I feel indecisive",
+              "I felt indecisive",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25743,7 +25743,7 @@
             ],
             [
               "stai_15",
-              "I am relaxed",
+              "I was relaxed",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25754,7 +25754,7 @@
             ],
             [
               "stai_16",
-              "I feel content",
+              "I felt content",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25765,7 +25765,7 @@
             ],
             [
               "stai_17",
-              "I am worried",
+              "I was worried",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25776,7 +25776,7 @@
             ],
             [
               "stai_18",
-              "I feel confused",
+              "I felt confused",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25787,7 +25787,7 @@
             ],
             [
               "stai_19",
-              "I feel steady",
+              "I felt steady",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -25798,7 +25798,7 @@
             ],
             [
               "stai_20",
-              "I feel pleasant",
+              "I felt pleasant",
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
@@ -46873,7 +46873,7 @@
         ],
         [
           "stai_1",
-          "I feel calm",
+          "I felt calm",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46884,7 +46884,7 @@
         ],
         [
           "stai_2",
-          "I feel secure",
+          "I felt secure",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46895,7 +46895,7 @@
         ],
         [
           "stai_3",
-          "I feel tense",
+          "I felt tense",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46906,7 +46906,7 @@
         ],
         [
           "stai_4",
-          "I feel strained",
+          "I felt strained",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46917,7 +46917,7 @@
         ],
         [
           "stai_5",
-          "I feel at ease",
+          "I felt at ease",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46928,7 +46928,7 @@
         ],
         [
           "stai_6",
-          "I feel upset",
+          "I felt upset",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46939,7 +46939,7 @@
         ],
         [
           "stai_7",
-          "I am presently worrying over possibly misfortunes",
+          "I worried over possible misfortunes",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46950,7 +46950,7 @@
         ],
         [
           "stai_8",
-          "I feel satisfied",
+          "I felt satisfied",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46961,7 +46961,7 @@
         ],
         [
           "stai_9",
-          "I feel frightened",
+          "I felt frightened",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46972,7 +46972,7 @@
         ],
         [
           "stai_10",
-          "I feel uncomfortable",
+          "I felt uncomfortable",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46983,7 +46983,7 @@
         ],
         [
           "stai_11",
-          "I feel self-confident",
+          "I felt self-confident",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -46994,7 +46994,7 @@
         ],
         [
           "stai_12",
-          "I feel nervous",
+          "I felt nervous",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47005,7 +47005,7 @@
         ],
         [
           "stai_13",
-          "I feel jittery",
+          "I felt jittery",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47016,7 +47016,7 @@
         ],
         [
           "stai_14",
-          "I feel indecisive",
+          "I felt indecisive",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47027,7 +47027,7 @@
         ],
         [
           "stai_15",
-          "I am relaxed",
+          "I was relaxed",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47038,7 +47038,7 @@
         ],
         [
           "stai_16",
-          "I feel content",
+          "I felt content",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47049,7 +47049,7 @@
         ],
         [
           "stai_17",
-          "I am worried",
+          "I was worried",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47060,7 +47060,7 @@
         ],
         [
           "stai_18",
-          "I feel confused",
+          "I felt confused",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47071,7 +47071,7 @@
         ],
         [
           "stai_19",
-          "I feel steady",
+          "I felt steady",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
@@ -47082,7 +47082,7 @@
         ],
         [
           "stai_20",
-          "I feel pleasant",
+          "I felt pleasant",
           "likert",
           "Not at all|A little|Somewhat|Very Much So",
           "0|1|2|3|4",
