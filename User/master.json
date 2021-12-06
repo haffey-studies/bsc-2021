@@ -25259,7 +25259,7 @@
               "btn_width",
               "notes",
               "score:compliance",
-              null
+              ""
             ],
             [
               "Instructions1",
@@ -25271,7 +25271,7 @@
               "",
               "",
               "",
-              null
+              ""
             ],
             [
               "PB1",
@@ -25283,7 +25283,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB2",
@@ -25295,7 +25295,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB3",
@@ -25307,7 +25307,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB4",
@@ -25319,7 +25319,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB5",
@@ -25331,7 +25331,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB6",
@@ -25343,7 +25343,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB7",
@@ -25355,7 +25355,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB8",
@@ -25367,7 +25367,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB9",
@@ -25379,7 +25379,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "PB10",
@@ -25391,7 +25391,7 @@
               "150px",
               "perceived benefits",
               "1",
-              null
+              ""
             ],
             [
               "",
@@ -25403,7 +25403,7 @@
               "",
               "",
               "",
-              null
+              ""
             ]
           ],
           "pb.csv": [
@@ -25571,7 +25571,7 @@
               "type",
               "answers",
               "values",
-              "score:optimism",
+              "score:stai_last_month",
               "optional",
               "btn_width",
               ""
@@ -25637,7 +25637,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25670,7 +25670,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25747,7 +25747,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25758,7 +25758,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25791,7 +25791,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
@@ -25802,7 +25802,7 @@
               "likert",
               "Not at all|A little|Somewhat|Very Much So",
               "0|1|2|3|4",
-              "1",
+              "r1",
               "no",
               "150px",
               ""
