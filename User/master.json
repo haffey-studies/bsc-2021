@@ -25571,7 +25571,7 @@
               "type",
               "answers",
               "values",
-              "score:stai_last_month",
+              "score:stai_trait",
               "optional",
               "btn_width",
               ""
@@ -46855,7 +46855,7 @@
           "type",
           "answers",
           "values",
-          "score:stai_last_month",
+          "score:stai_trait",
           "optional",
           "btn_width",
           ""
