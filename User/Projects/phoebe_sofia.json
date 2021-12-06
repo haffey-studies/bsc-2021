@@ -1,6 +1,6 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,survey,user,,off,covid_news.csv,\r\n0,survey,user,,off,compliance.csv,\r\n0,survey,user,,off,cb.csv,\r\n0,survey,user,,off,stai-last-month.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,survey,user,,off,covid_news.csv,\r\n0,survey,user,,off,compliance.csv,\r\n0,survey,user,,off,cb.csv,\r\n0,survey,user,,off,stai-last-month.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,\r\n0,text,user,\"<h2 class=\"\"text-primary\"\">The study is now complete - thank you for participating!</h2>\r\n\",off,,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
   "all_stims": {
@@ -2162,7 +2162,8 @@
     ]
   },
   "phasetypes": {
-    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
+    "text": "[[[LOCATION]]]../Default/DefaultPhaseTypes/text.html"
   },
   "procs_csv": {},
   "stims_csv": {}

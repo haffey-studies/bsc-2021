@@ -6,3 +6,5 @@ item,phasetype,max_time,text,shuffle_1,survey,
 0,survey,user,,off,stai-last-month.csv,
 0,survey,user,,off,demographics-2021.csv,
 0,survey,user,,off,bsc-2021-debrief.csv,
+0,text,user,"<h2 class=""text-primary"">The study is now complete - thank you for participating!</h2>
+",off,,

@@ -1,6 +1,6 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,\r\n0,survey,user,This is the start of a new experiment.,repetition,repetitive_anxiety.csv,\r\n0,survey,user,This is the start of a new experiment.,off,digital_activity.csv,\r\n0,survey,user,This is the start of a new experiment.,off,autism_quotient.csv,\r\n0,survey,user,This is the start of a new experiment.,repetition,repetitive_behaviours.csv,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-info.csv,\r\n0,survey,user,This is the start of a new experiment.,repetition,repetitive_anxiety.csv,\r\n0,survey,user,This is the start of a new experiment.,off,digital_activity.csv,\r\n0,survey,user,This is the start of a new experiment.,off,autism_quotient.csv,\r\n0,survey,user,This is the start of a new experiment.,repetition,repetitive_behaviours.csv,\r\n0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,\r\n0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,\r\n0,text,user,\"<h2 class=\"\"text-primary\"\">The study is now complete - thank you for participating!</h2>\r\n\",off,,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
   "all_stims": {
@@ -2858,7 +2858,7 @@
         "side_text",
         "optional",
         "score:rep_anx",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -2869,7 +2869,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "RBQA_anx1",
@@ -2880,7 +2880,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx2",
@@ -2891,7 +2891,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx3",
@@ -2902,7 +2902,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx4",
@@ -2913,7 +2913,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx5",
@@ -2924,7 +2924,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx6",
@@ -2935,7 +2935,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx7",
@@ -2946,7 +2946,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx8",
@@ -2957,7 +2957,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx9",
@@ -2968,7 +2968,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx10",
@@ -2979,7 +2979,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx11",
@@ -2990,7 +2990,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx12",
@@ -3001,7 +3001,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx13",
@@ -3012,7 +3012,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx14",
@@ -3023,7 +3023,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx15",
@@ -3034,7 +3034,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx16",
@@ -3045,7 +3045,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx17",
@@ -3056,7 +3056,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx18",
@@ -3067,7 +3067,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx19",
@@ -3078,7 +3078,7 @@
         "Strongly Disagree|Strongly Agree",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA_anx20",
@@ -3089,7 +3089,7 @@
         "A range of different and flexible self-chosen activities|Almost always choose from a restricted range of repetitive activities",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "",
@@ -3100,7 +3100,7 @@
         "",
         "",
         "",
-        null
+        ""
       ]
     ],
     "digital_activity.csv": [
@@ -3122,7 +3122,7 @@
       ],
       [
         "Instructions2",
-        "<span style='font-size:20px'><h4>Android:</h4>\r\n- Go to your settings app<br>\r\n- Select the \"Digital wellbeing and parental controls\" tab<br>\r\n- Click on the \"Dashboard\" option<br>\r\n- This will show you the figures for each app individually<br>\r\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\r\n<br>\r\n<h4>Apple:</h4>\r\n- Go to your settings app <br>\r\n- Select the \"Screen Time\" tab<br>\r\nClick on \"See all activity\"<br>\r\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\r\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\r\nThen select categories under the \"Most used\" tab<br>\r\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
+        "<span style='font-size:20px'><h4>Android:</h4>\n- Go to your settings app<br>\n- Select the \"Digital wellbeing and parental controls\" tab<br>\n- Click on the \"Dashboard\" option<br>\n- This will show you the figures for each app individually<br>\n- For each category, please work out the total hours spent by adding together the hours for each relevant app<br>\n<br>\n<h4>Apple:</h4>\n- Go to your settings app <br>\n- Select the \"Screen Time\" tab<br>\nClick on \"See all activity\"<br>\n(or you might need to select the summary of the different activities  to open the more comprehensive list)<br>\n if you are seeing the summary for today, you might need to change this to \"Last 7 Days\"<br>\nThen select categories under the \"Most used\" tab<br>\nFor each category, it will show you the amount of time in hours you have spent doing those activities in the week<br>",
         "instruct",
         "",
         "",
@@ -3130,7 +3130,7 @@
       ],
       [
         "instruction_timings",
-        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\r\n\r\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
+        "For the below questions you'll be asked to say how many hours and minutes you spend on each activity\n\n<b style=\"color:red\"><u>for the last 7 days</u></b>. For example, if you spent 90 minutes during the week on games, you would write 1 in the \"hour\" input, and 30 in the \"minutes\" input",
         "instruct",
         "",
         "",
@@ -3251,7 +3251,7 @@
         "btn_width",
         "optional",
         "score:repetitive_behaviours",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -3262,7 +3262,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "RBQA1",
@@ -3273,7 +3273,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA2",
@@ -3284,7 +3284,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA3",
@@ -3295,7 +3295,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA4",
@@ -3306,7 +3306,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA5",
@@ -3317,7 +3317,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA6",
@@ -3328,7 +3328,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA7",
@@ -3339,7 +3339,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA8",
@@ -3350,7 +3350,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA9",
@@ -3361,7 +3361,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA10",
@@ -3372,7 +3372,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA11",
@@ -3383,7 +3383,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA12",
@@ -3394,7 +3394,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA13",
@@ -3405,7 +3405,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA14",
@@ -3416,7 +3416,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA15",
@@ -3427,7 +3427,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA16",
@@ -3438,7 +3438,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA17",
@@ -3449,7 +3449,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA18",
@@ -3460,7 +3460,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA19",
@@ -3471,7 +3471,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "RBQA20",
@@ -3482,7 +3482,7 @@
         "200px",
         "no",
         "1",
-        null
+        ""
       ],
       [
         "",
@@ -3493,7 +3493,7 @@
         "",
         "",
         "",
-        null
+        ""
       ]
     ],
     "autism_quotient.csv": [
@@ -4335,7 +4335,8 @@
     ]
   },
   "phasetypes": {
-    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
+    "text": "[[[LOCATION]]]../Default/DefaultPhaseTypes/text.html"
   },
   "procs_csv": {},
   "stims_csv": {}

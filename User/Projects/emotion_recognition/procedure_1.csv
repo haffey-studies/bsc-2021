@@ -28,3 +28,5 @@ item,phasetype,max_time,text,shuffle_1,survey,audio_check_file,possible_response
 0,survey,user,,off,autism_quotient.csv,,,
 0,survey,user,,off,demographics-2021.csv,,,
 0,survey,user,,off,bsc-2021-debrief.csv,,,
+0,text,user,"<h2 class=""text-primary"">The study is now complete - thank you for participating!</h2>
+",off,,,,

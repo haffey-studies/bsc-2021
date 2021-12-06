@@ -1,6 +1,6 @@
 {
   "all_procs": {
-    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,survey,user,,off,social_media_trends.csv,\r\n0,survey,user,,off,phq8-pandemic.csv,\r\n0,survey,user,,off,stai-pandemic.csv,\r\n0,survey,user,,off,ipip_neuroticism.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,"
+    "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,\r\n0,survey,user,,off,bsc-2021-info.csv,\r\n0,survey,user,,off,social_media_trends.csv,\r\n0,survey,user,,off,phq8-pandemic.csv,\r\n0,survey,user,,off,stai-pandemic.csv,\r\n0,survey,user,,off,ipip_neuroticism.csv,\r\n0,survey,user,,off,demographics-2021.csv,\r\n0,survey,user,,off,bsc-2021-debrief.csv,\r\n0,text,user,\"<h2 class=\"\"text-primary\"\">The study is now complete - thank you for participating!</h2>\r\n\",off,,"
   },
   "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,scripts,redcap_url,\r\ncondition_1,You can put more detailed notes in this field,stimuli_1.csv,procedure_1.csv,off,,on,,,5,,https://haffeyprojects.reading.ac.uk/redcap/redcapStore.php,",
   "all_stims": {
@@ -3620,7 +3620,7 @@
       ],
       [
         "stai_1",
-        "I feel calm",
+        "I felt calm",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3631,7 +3631,7 @@
       ],
       [
         "stai_2",
-        "I feel secure",
+        "I felt secure",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3642,7 +3642,7 @@
       ],
       [
         "stai_3",
-        "I feel tense",
+        "I felt tense",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3653,7 +3653,7 @@
       ],
       [
         "stai_4",
-        "I feel strained",
+        "I felt strained",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3664,18 +3664,18 @@
       ],
       [
         "stai_5",
-        "I feel at ease",
+        "I felt at ease",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
       ],
       [
         "stai_6",
-        "I feel upset",
+        "I felt upset",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3686,7 +3686,7 @@
       ],
       [
         "stai_7",
-        "I am presently worrying over possibly misfortunes",
+        "I worried over possible misfortunes",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3697,18 +3697,18 @@
       ],
       [
         "stai_8",
-        "I feel satisfied",
+        "I felt satisfied",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
       ],
       [
         "stai_9",
-        "I feel frightened",
+        "I felt frightened",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3719,7 +3719,7 @@
       ],
       [
         "stai_10",
-        "I feel uncomfortable",
+        "I felt uncomfortable",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3730,7 +3730,7 @@
       ],
       [
         "stai_11",
-        "I feel self-confident",
+        "I felt self-confident",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3741,7 +3741,7 @@
       ],
       [
         "stai_12",
-        "I feel nervous",
+        "I felt nervous",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3752,7 +3752,7 @@
       ],
       [
         "stai_13",
-        "I feel jittery",
+        "I felt jittery",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3763,7 +3763,7 @@
       ],
       [
         "stai_14",
-        "I feel indecisive",
+        "I felt indecisive",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3774,29 +3774,29 @@
       ],
       [
         "stai_15",
-        "I am relaxed",
+        "I was relaxed",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
       ],
       [
         "stai_16",
-        "I feel content",
+        "I felt content",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
       ],
       [
         "stai_17",
-        "I am worried",
+        "I was worried",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3807,7 +3807,7 @@
       ],
       [
         "stai_18",
-        "I feel confused",
+        "I felt confused",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
@@ -3818,22 +3818,22 @@
       ],
       [
         "stai_19",
-        "I feel steady",
+        "I felt steady",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
       ],
       [
         "stai_20",
-        "I feel pleasant",
+        "I felt pleasant",
         "likert",
         "Not at all|A little|Somewhat|Very Much So",
         "0|1|2|3|4",
-        "1",
+        "r1",
         "no",
         "150px",
         ""
@@ -3860,7 +3860,7 @@
         "optional",
         "btn_width",
         "score:social_media_trends",
-        null
+        ""
       ],
       [
         "Instructions1",
@@ -3871,7 +3871,7 @@
         "",
         "",
         "",
-        null
+        ""
       ],
       [
         "sm_trend_1",
@@ -3882,7 +3882,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_2",
@@ -3893,7 +3893,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_3",
@@ -3904,7 +3904,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_4",
@@ -3915,7 +3915,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_5",
@@ -3926,7 +3926,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_6",
@@ -3937,7 +3937,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_7",
@@ -3948,7 +3948,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_8",
@@ -3959,7 +3959,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_9",
@@ -3970,7 +3970,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_10",
@@ -3981,7 +3981,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_11",
@@ -3992,7 +3992,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_12",
@@ -4003,7 +4003,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_13",
@@ -4014,7 +4014,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_14",
@@ -4025,7 +4025,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_15",
@@ -4036,7 +4036,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_16",
@@ -4047,7 +4047,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_17",
@@ -4058,7 +4058,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_18",
@@ -4069,7 +4069,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_19",
@@ -4080,7 +4080,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "sm_trend_20",
@@ -4091,7 +4091,7 @@
         "no",
         "100px",
         "1",
-        null
+        ""
       ],
       [
         "",
@@ -4102,7 +4102,7 @@
         "",
         "",
         "",
-        null
+        ""
       ]
     ],
     "ipip_neuroticism.csv": [
@@ -4141,7 +4141,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.1",
+        "IPIPNEO_N1_1",
         "Worry about things.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4158,7 +4158,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.2",
+        "IPIPNEO_N1_2",
         "Fear for the worst.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4175,7 +4175,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.3",
+        "IPIPNEO_N1_3",
         "Am afraid of many things.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4192,7 +4192,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.4",
+        "IPIPNEO_N1_4",
         "Get stressed out easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4209,7 +4209,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.5",
+        "IPIPNEO_N1_5",
         "Get caught up in my problems.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4226,7 +4226,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.6",
+        "IPIPNEO_N1_6",
         "Am not easily bothered by things.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4243,7 +4243,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.7",
+        "IPIPNEO_N1_7",
         "Am relaxed most of the time.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4260,7 +4260,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.8",
+        "IPIPNEO_N1_8",
         "Am not easily disturbed by events.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4277,7 +4277,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.9",
+        "IPIPNEO_N1_9",
         "Don't worry about things that have already happened.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4294,7 +4294,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N1.10",
+        "IPIPNEO_N1_10",
         "Adapt easily to new situations.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4311,7 +4311,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.1",
+        "IPIPNEO_N2_1",
         "Get angry easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4328,7 +4328,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.2",
+        "IPIPNEO_N2_2",
         "Get irritated easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4345,7 +4345,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.3",
+        "IPIPNEO_N2_3",
         "Lose my temper.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4362,7 +4362,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.4",
+        "IPIPNEO_N2_4",
         "Am not easily annoyed.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4379,7 +4379,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.5",
+        "IPIPNEO_N2_5",
         "Get upset easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4396,7 +4396,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.6",
+        "IPIPNEO_N2_6",
         "Am often in a bad mood.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4413,7 +4413,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.7",
+        "IPIPNEO_N2_7",
         "Rarely get irritated.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4430,7 +4430,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.8",
+        "IPIPNEO_N2_8",
         "Seldom get mad.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4447,7 +4447,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.9",
+        "IPIPNEO_N2_9",
         "Keep my cool.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4464,7 +4464,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N2.10",
+        "IPIPNEO_N2_10",
         "Rarely complain.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4481,7 +4481,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.1",
+        "IPIPNEO_N3_1",
         "Often feel blue.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4498,7 +4498,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.2",
+        "IPIPNEO_N3_2",
         "Dislike myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4515,7 +4515,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.3",
+        "IPIPNEO_N3_3",
         "Am often down in the dumps.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4532,7 +4532,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.4",
+        "IPIPNEO_N3_4",
         "Feel comfortable with myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4549,7 +4549,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.5",
+        "IPIPNEO_N3_5",
         "Have a low opinion of myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4566,7 +4566,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.6",
+        "IPIPNEO_N3_6",
         "Have frequent mood swings.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4583,7 +4583,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.7",
+        "IPIPNEO_N3_7",
         "Feel desperate.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4600,7 +4600,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.8",
+        "IPIPNEO_N3_8",
         "Feel that my life lacks direction.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4617,7 +4617,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.9",
+        "IPIPNEO_N3_9",
         "Seldom feel blue.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4634,7 +4634,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N3.10",
+        "IPIPNEO_N3_10",
         "Am very pleased with myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4651,7 +4651,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.1",
+        "IPIPNEO_N4_1",
         "Find it difficult to approach others.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4668,7 +4668,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.2",
+        "IPIPNEO_N4_2",
         "Am afraid to draw attention to myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4685,7 +4685,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.3",
+        "IPIPNEO_N4_3",
         "Only feel comfortable with friends.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4702,7 +4702,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.4",
+        "IPIPNEO_N4_4",
         "Am not bothered by difficult social situations.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4719,7 +4719,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.5",
+        "IPIPNEO_N4_5",
         "Am easily intimidated.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4736,7 +4736,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.6",
+        "IPIPNEO_N4_6",
         "Am afraid that I will do the wrong thing.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4753,7 +4753,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.7",
+        "IPIPNEO_N4_7",
         "Stumble over my words.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4770,7 +4770,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.8",
+        "IPIPNEO_N4_8",
         "Am not embarrassed easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4787,7 +4787,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.9",
+        "IPIPNEO_N4_9",
         "Am comfortable in unfamiliar situations.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4804,7 +4804,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N4.10",
+        "IPIPNEO_N4_10",
         "Am able to stand up for myself.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4821,7 +4821,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.1",
+        "IPIPNEO_N5_1",
         "Go on binges.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4838,7 +4838,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.2",
+        "IPIPNEO_N5_2",
         "Rarely overindulge.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4855,7 +4855,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.3",
+        "IPIPNEO_N5_3",
         "Easily resist temptations.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4872,7 +4872,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.4",
+        "IPIPNEO_N5_4",
         "Am able to control my cravings.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4889,7 +4889,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.5",
+        "IPIPNEO_N5_5",
         "Often eat too much.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4906,7 +4906,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.6",
+        "IPIPNEO_N5_6",
         "Don't know why I do some of the things I do.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4923,7 +4923,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.7",
+        "IPIPNEO_N5_7",
         "Do things I later regret.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4940,7 +4940,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.8",
+        "IPIPNEO_N5_8",
         "Love to eat.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4957,7 +4957,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.9",
+        "IPIPNEO_N5_9",
         "Never spend more than I can afford.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4974,7 +4974,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N5.10",
+        "IPIPNEO_N5_10",
         "Never splurge.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -4991,7 +4991,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.1",
+        "IPIPNEO_N6_1",
         "Panic easily.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5008,7 +5008,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.2",
+        "IPIPNEO_N6_2",
         "Become overwhelmed by events.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5025,7 +5025,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.3",
+        "IPIPNEO_N6_3",
         "Feel that I'm unable to deal with things.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5042,7 +5042,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.4",
+        "IPIPNEO_N6_4",
         "Remain calm under pressure.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5059,7 +5059,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.5",
+        "IPIPNEO_N6_5",
         "Can't make up my mind.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5076,7 +5076,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.6",
+        "IPIPNEO_N6_6",
         "Get overwhelmed by emotions.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5093,7 +5093,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.7",
+        "IPIPNEO_N6_7",
         "Can handle complex problems.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5110,7 +5110,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.8",
+        "IPIPNEO_N6_8",
         "Know how to cope.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5127,7 +5127,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.9",
+        "IPIPNEO_N6_9",
         "Readily overcome setbacks.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5144,7 +5144,7 @@
         ""
       ],
       [
-        "IPIP-NEO_N6.10",
+        "IPIPNEO_N6_10",
         "Am calm even in tense situations.",
         "likert",
         "Very Inaccurate|Moderately Inaccurate|Neither|Moderately Accurate|Very Accurate",
@@ -5180,7 +5180,8 @@
     ]
   },
   "phasetypes": {
-    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html"
+    "survey": "[[[LOCATION]]]../Default/DefaultPhaseTypes/survey.html",
+    "text": "[[[LOCATION]]]../Default/DefaultPhaseTypes/text.html"
   },
   "procs_csv": {},
   "stims_csv": {}

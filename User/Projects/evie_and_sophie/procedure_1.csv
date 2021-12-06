@@ -5,3 +5,5 @@ item,phasetype,max_time,text,shuffle_1,survey,
 0,survey,user,This is the start of a new experiment.,off,ipip_neuroticism.csv,
 0,survey,user,This is the start of a new experiment.,off,demographics-2021.csv,
 0,survey,user,This is the start of a new experiment.,off,bsc-2021-debrief.csv,
+0,text,user,"<h2 class=""text-primary"">The study is now complete - thank you for participating!</h2>
+",off,,
